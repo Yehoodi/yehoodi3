@@ -1,0 +1,31 @@
+.contents { margin-bottom: 48px; }
+h2.colophon, h2.faq { border-bottom: 1px solid rgba(205,189,148,0.5) !important; }
+h2.faq { clear: left; margin: 4em 0 .5em 0; }
+dl.faq { margin-bottom: 2em; }
+	dl.faq dt { font-size: 12px; margin-bottom: 1em; font-family: "Georgia",serif; font-weight: bold; color: #000; }
+	dl.faq dd { margin-bottom: 1em; margin-left: 1em;  }
+		dl.faq dd table { margin-bottom: 1em; }
+            dl.faq dd table th { white-space: nowrap; }
+            dl.faq dd table th, dl.faq dd table td { background: #fbfaee; border-bottom: 1px dotted #cfcfcf; padding: 7px; }
+            dl.faq dd table tr.alt th, dl.faq dd table tr.alt td { background: #ffffff; }
+                dl.faq dd table tr:last-child th, dl.faq dd table tr:last-child td { border-bottom: none; }
+		dl.faq dd ul { margin-bottom: 1em; margin-left: 2em; }
+		dl.faq dd ul li { margin-bottom: 0; }
+        
+#div_content a[href="#div_header"] { padding: 0 3px;
+                        font-size: 10px;
+                        background-color: #CBBB95;
+                    	color: white !important;
+                        text-decoration: none;
+                    	font-weight: bold;
+                    	border-radius: 3px;
+                    	-moz-border-radius: 3px; }
+#div_content a[href="#div_header"]:hover { background-color: #666;
+                            	color: white !important;
+                            	text-decoration: none; }
+                                
+    #div_advertising { background: #e1d9b9; padding: 12px 7px; text-shadow: none !important;
+                        box-shadow: 0 3px 4px #ad9d77; -moz-box-shadow: 0 3px 4px #ad9d77; 
+                        border-radius: 3px;
+                        -moz-border-radius: 3px; }
+        #div_advertising h3 { border-bottom: 1px solid #ad9d77; padding-bottom: 3px; }

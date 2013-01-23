@@ -1,0 +1,8 @@
+div.text { text-align: left; font-size: 11px; }
+
+div.text h2 { margin-bottom: 1.25em; border: none; }
+div.text h3 { font-family: "Georgia",serif; font-weight: bold; font-size: 12px; line-height: 12px; 
+                margin-bottom: 1em; color: #000; }
+div.text ul { list-style-type: disc; margin: 0 0 0 1em; }
+    div.text h2 + ul { margin-bottom: 2em; }
+div.text li { margin-bottom: 1em; }

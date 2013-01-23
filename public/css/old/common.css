@@ -1,0 +1,91 @@
+/* --- CLASSED ELEMENTS -- */
+.alt { background-color: #FFD3A3 !important; }
+.small { font-weight: 400; }
+.error { margin: 5px; color: #570705; }
+	.error p { background: #E30D09 url('/images/icons/exclamation.png') left no-repeat; display: inline; padding: 5px 5px 5px 20px; }
+
+#div_bannerAds { margin-bottom: 12px; text-align: center; }
+#div_buttonAds { text-align: center; }
+#div_callOuts { margin-bottom: 12px; text-align: center; }
+	
+.div_pagination { clear: left; margin: 10px 0; font-family:"Tahoma",sans-serif; font-size: 11px; color: #7c522d; }
+	.div_pagination .p_paginationControl { }
+	.p_paginationControl a { font-family:"Tahoma",sans-serif; padding: 2px 5px 5px 5px; }
+	.a_pageNum:link, .a_pageNum:visited { background-color: #FFC380; border: 1px solid #E5964E; }
+		.a_pageNum:hover { background-color: #FFD3A3; }
+	.span_pageCurrent { padding: 2px; color: black; font-weight: bold; }
+	.span_pagesTotal { }
+	
+img.avatar-tiny { max-height: 25px; max-width: 25px; }
+	
+.span_signature { display: block; font-family:"Tahoma",sans-serif; padding: 5px 0 0 0; margin: 5px 0; border-top: 1px solid #F1AA65; color: #7c522d; }
+
+/* --- YMD EDITOR --- */
+#div_fieldsReply { clear: both; }		
+	div#controls { margin: 0 0 5px 0; padding: 0; }
+		div#controls button { margin: 0 3px 0 0; padding: 0; }
+			div#controls button img { margin: 0; padding: 0; }
+	#div_replyRow textarea { width: 530px; height: 250px; font-size: 14px; float: right; }
+#div_fieldsPreview  { clear: both; }
+	#div_fieldsPreview #previewArea { font-family: "Georgia",serif; font-size: 12px; width: 524px; margin: 0; padding: 5px 5px 10px 5px; background-color: #FFC380; float: right; }
+	
+/* --- TEXT ITEMS w/ ICONs --- */
+.iconText span.icon { vertical-align: middle; background: url('/images/icons/text-icons.png') 0 no-repeat; padding: 1px 6px; margin-right: 1px; }
+	.iconUser span.icon { background-position: 0 0; padding: 0 6px 3px 6px; }
+	.iconUserHidden span.icon { background-position: -17px 0; padding: 0 6px 3px 6px; }
+	.iconLockLarge span.icon { background-position: -34px 0; }
+	.iconBalloonLarge span.icon { background-position: -51px 0; }
+	.iconExclamationLarge span.icon { background-position: -68px 0; }
+	.iconFeedLarge span.icon { background-position: -85px 0; }
+	.iconQuestionLarge span.icon { background-position: -102px 0; }
+	.iconMailLarge span.icon { background-position: -119px 0; }
+	.iconWrenchLarge span.icon { background-position: -136px 0; padding: 1px 7px 2px 6px; }
+	.iconBellLarge span.icon { background-position: -153px 0; padding: 1px 7px 2px 6px; }
+	
+	.iconUserAdmin span.icon { background-position: 0 -17px; padding: 0 6px 3px 6px; }	
+	.iconUserIgnored span.icon { background-position: -17px -17px; padding: 0 6px 3px 6px; }	
+	.iconThumbLarge span.icon { background-position: -34px -17px; }
+	.iconCake span.icon { background-position: -51px -17px; }
+	.iconDocumentLarge span.icon { background-position: -68px -17px; }
+	.iconStarLarge span.icon { background-position: -85px -17px; }
+	.iconPopUpLarge span.icon { background-position: -102px -17px; }
+	.iconFilmLarge span.icon { background-position: -119px -17px; }
+	.iconSpeakerLarge span.icon { background-position: -136px -17px; }
+	
+	.iconUserSmall span.icon { background-position: 0 -34px; padding: 1px 4px; }
+	.iconLockSmall span.icon { background-position: -34px -34px; }
+	.iconBalloonSmall span.icon { background-position: -51px -34px; }
+	.iconExclamationSmall span.icon { background-position: -68px -34px; }
+	.iconFeedSmall span.icon { background-position: -85px -34px; }
+	.iconQuestionSmall span.icon { background-position: -102px -34px; }	
+	.iconMailSmall span.icon { background-position: -119px -34px; }
+	.iconBellSmall span.icon { background-position: -153px -34px; }
+	
+	.iconThumbSmall span.icon { background-position: -34px -51px; }
+	.iconDocumentSmall span.icon { background-position: -68px -51px; }
+	.iconStarSmall span.icon { background-position: -85px -51px; }
+	.iconPopUpSmall span.icon { background-position: -102px -51px; }
+	.iconFilmSmall span.icon { background-position: -119px -51px; }	
+	
+/* --- COMMON RESOURCE "META" LISTS --- */
+ul.meta { display: block; list-style-type: none; font-family: "Tahoma",sans-serif; font-size: 9pt; }
+	ul.meta li { color: #7c522d; }
+	ul.meta li a { color: #cd5b3c; }
+	ul.meta li a:hover { color: #B22418; }
+
+	/* --- GRANULAR META --- */
+	.last { border-right: none !important; }
+
+/* --- COMMON RESOURCE "ACTIONS" LISTS --- */
+ul.actions { display: block; margin-bottom: 5px; list-style-type: none; }
+	ul.actions li { display: inline; margin: 0; padding: 0; }
+	ul.actions li a { display: inline-block; margin-right: 5px; width: 16px; height: 16px; padding: 0; }
+
+	/* --- GRANULAR ACTIONS --- */
+	ul.actions li a.resource-bookmark { width: 16px; }
+	ul.actions li a.resource-vote { width: 16px; }
+	ul.actions li a.resource-edit { width: 16px; }
+
+a.resource_newPosts { display: block; float: left; background: url(/images/buttons/new-posts.png) 0 0 no-repeat; height: 16px; width: 16px; margin-right: 3px; }
+	a.resource_newPosts span { display: none; }
+	a.resource_newPosts:hover { background-position: 0 -16px; }

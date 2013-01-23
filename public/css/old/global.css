@@ -1,0 +1,61 @@
+/* Basic HTML elements */
+
+html { background-color: #ffb365; }
+body { background-color: #ffb365; font-family: "Georgia",serif; font-size: 12px; font-weight: 400; line-height: 1.4; color: #361601; }
+
+a:link, a:visited { color: #B22418; }
+a:hover { color: #E30D09; }
+
+blockquote, p { margin-bottom: 1em; }
+
+h1, h2, h3 { color: black; }
+h1 { font-family: "Tahoma",sans-serif; font-size: 16pt; font-weight: bold; border-bottom: 2px solid #e5964e; margin-bottom: .5em; }
+h2 { font-size: 16px; }
+h3 { font-size: 14px; }
+
+img { border: 0; }
+
+/* Major page sections */
+#div_header, #div_navigation, #div_content { display: block; margin: 0; }
+#div_header { background-color: #600; height: 75px; }
+#div_navigation { clear: left; background-color: #B22418; height: 30px; margin-bottom: 12px; }
+#div_footer { margin-top: 25px; border-top: 1px solid #d4843f; padding-top: 7px; }
+	#div_footerContent { margin-bottom: 12px; }
+		#div_footerContent ul { margin: .5em 0; list-style-type: none; }
+		#div_footerContent li { margin: 0 0 .25em 0; }
+	#copyright { text-align: right; }
+	
+/* Important page elements */
+/* rework element ID scheme */
+#div_headerContent { }
+	#div_headerLogo { text-align: left; padding-bottom: 0; }
+		#div_headerLogo img { display: block; padding: 0; margin: 0; }
+     #div_headerUserLinks { padding-top: 20px; color: #b16e41; font-family: "Tahoma",sans-serif; text-align: right; }
+     	#div_headerUserLinks strong { color: #ffd94f; }
+     	#div_headerUserLinks a { color: #ffb365; padding: 4px 0; text-decoration: none; margin-left: 4px; }
+			#div_headerUserLinks a:hover { color: #FFD3A3; }
+			#div_headerUserLinks a span.icon { background: url('/images/icons/header-icons.png'); padding: 1px 6px; }			
+				a#userLink_register span.icon { background-position: 0 0; }
+				a#userLink_yourAccount span.icon { background-position: -17px 0; }
+				a#userLink_mail span.icon { background-position: -34px 0; }			
+				a#userLink_login span.icon { background-position: 0 -17px; }
+				a#userLink_logout span.icon { background-position: -17px -17px; }
+			#div_headerUserLinks a span.link { text-decoration: underline; }
+	#div_headerSearchForm { text-align: right; padding-top: 30px; }
+	     #div_headerSearchForm form input { margin: 0; }
+     	#div_headerSearchForm form #button_search { margin: 0; }
+	
+#div_navigation ul { font-family: "Tahoma",sans-serif; list-style-type: none; }
+#div_navigation li { margin-top: 5px; }
+	#div_navigation li a { display: block; height: 21px; text-align: center; padding-top: 4px; background: #8c130b; color: #ffb365; text-decoration: none; }
+	#div_navigation li a.current-page { font-family: "Georgia",serif; background: #ffb365; color: #a34828; font-weight: bold; }
+	#div_navigation li a:hover { text-decoration: underline; color: #FFD3A3; }
+
+/* rework element ID scheme */
+#messages { margin: 13px 25px; padding: 7px; }
+	#messages.notify { background-color: #FFD3A3; border: 1px solid white; }
+		#messages.notify strong { color: black; }
+	#messages.warning { background-color: #FFFF74; border: 1px solid black; }
+		#messages.warning strong { color: #f00; }
+	#messages.error { background-color: #E30D09; color: #570705; border: 1px solid #ff0; }
+		#messages.error strong { background: url('/images/icons/exclamation.png') left no-repeat; }

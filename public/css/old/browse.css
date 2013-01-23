@@ -1,0 +1,40 @@
+@import url("yehoodi.css");
+
+#div_contentContainer h1 { display: none; }
+
+/* SF dropdowns */
+#ul_browseTabs, #ul_browseTabs ul { padding: 0; margin: 0; list-style: none; font-size: 11pt; }
+	#ul_browseTabs a { display: inline; padding-right: 7px; padding-left: 7px; color: black; }
+		#ul_browseTabs a img { display: inline; }
+	#ul_browseTabs li { float: left; margin-right: 5px; width: auto; }
+		#ul_browseTabs li ul { position: absolute; width: 15em; left: -999em; font-weight: normal; }
+		#ul_browseTabs li ul li { background-color: #FFC380; padding-bottom: 2px; }
+		#ul_browseTabs li ul a { display: block; width: 15em; padding: 0; text-align: left; margin: 0; }
+		#ul_browseTabs li:hover ul { left: auto; }
+		#ul_browseTabs li:hover ul, #ul_browseTabs li.sfhover ul { left: auto; }
+			#ul_browseTabs li.sfhover ul {  }
+
+#div_browseBar { clear: left; font-family: "Tahoma",sans-serif; font-size: 8pt; background-color: #d4843f; margin-bottom: 1em; overflow: auto; }
+	/* duplicate bgcolor is IE6 fix */
+	#div_browseTitle, #div_browseFormat, #div_browseFilter, #div_browseSort { background-color: #d4843f; padding: 5px; float: left; width: 370px; }
+	/* width overrides for events */
+	#div_browseBar .wide { width: 470px; }
+	#div_browseBar .short { width: 270px; }
+		#div_browseFilter { clear: left; }
+		#div_browseFormat, #div_browseSort { text-align: right; }
+		#div_browseFilter, #div_browseSort { border-top: 2px solid #e5964e; }
+	#div_browseBar span { display: block; clear: left; padding: 5px 0; }
+	#div_browseBar a:link, #div_browseBar a:visited { margin: 0 6px; color: #990000; }
+		#div_browseBar a:hover { color: #660000; }
+		#div_browseBar a.currentSelection { background-color: #FFC380; padding: 3px 5px; text-decoration: none; font-weight: bold; }
+		#span_homeLocation a.a_homeLocation:link, #span_homeLocation a.a_homeLocation:visited { margin: 0; }
+	#div_browseBar h2 { font-weight: normal; font-size: 1.75em; }
+			
+.div_pagination { width: 580px; float: left; margin: 0; }			
+.div_browseSubmit { margin: 0; float: right; }
+	.div_browseSubmit a span { display: none; }
+	.div_browseSubmit a.browse_submit { display: block; background: url(/images/buttons/submit-new-topic.png) 0 0 no-repeat; height: 30px; width: 150px; }
+	.div_browseSubmit a.event { background-image: url(/images/buttons/submit-new-event.png); }
+	.div_browseSubmit a.browse_submit:hover { background-position: 0 -30px; }
+	
+table.results { clear: both; } 

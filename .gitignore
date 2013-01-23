@@ -3,4 +3,11 @@ LICENSE.txt
 README.txt
 demos/
 extras/documentation
+application/config/config.ini
+public/dummy.php
+.DS_Store
+.idea/
+.idea/*
+data/
+data/*
 

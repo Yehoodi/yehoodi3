@@ -1,0 +1,41 @@
+@import url("fullcalendar_002.css");
+@import url("fullcalendar.css");
+
+/* --- Control box overrides --- */
+.controlBoxOtherLocation { height: 107px !important; }
+
+.span_eventTypes { display: block; position: absolute; top: 42px; left: 12px; width: 915px; border-top: 1px solid #cdbd94; padding-top: 7px; }
+#span_eventLocation { display: block; margin-top: 10px; }
+
+#span_homeLocation { margin-left: 25px; }
+#span_homeLocation a { margin: 0; }
+
+.div_calendarSubmit { width: 110px; padding: 0; position: absolute; top: 46px; right: 36px; }
+    .div_calendarSubmit a { width: 105px; margin: 0; }
+    .div_calendarSubmit a span.icon { }
+
+/* "Other location" search box */
+input#form_location { width: 200px; border: 1px solid #cbbb95; color: black; padding: 2px 5px;                         
+                        border-radius: 3px; -moz-border-radius: 3px; 
+                        background: #fbfaee; 
+                        box-shadow: inset 0 0 10px #e1d9b9;
+                        -moz-box-shadow: inset 0 0 10px #e1d9b9;
+                        -webkit-box-shadow: none; /* 'inset' effect is buggy in Safari/Chrome */ }
+    input#form_location:focus { color: #004987; background-color: #ccecff; border-color: #008df2; box-shadow: inset 0 0 10px #68bffb; -moz-box-shadow: inset 0 0 10px #68bffb; }
+input#button_filter { font-size: 10px; padding: 2px 5px; font-weight: normal; }
+    
+/* FullCalendar */
+#calendar { background: #cbbb95; padding: 1em .75em .75em .75em; margin-bottom: 1em;
+					border-radius: 15px;
+					-moz-border-radius: 15px;
+					box-shadow: inset 0 1px 0px #9b8b65;
+					-moz-box-shadow: inset 0 1px 0px #9b8b65;
+					--webkit-box-shadow: none; /* 'inset' effect is buggy in Safari/Chrome */ }
+#loading { margin: 9px 10px 0 0; padding: 3px 12px; border: none; background-color: white; float: right; }
+
+/* Tooltips */
+div.qtip-content { font-family: "Tahoma",sans-serif; font-size: 8pt; }
+div.qtip-content h3 { font-size: 8pt; font-weight: bold; }
+div.qtip-content p { margin: 0; }
+div.qtip-content ul.meta { border-top: 1px solid #cdbd94; margin-top: 5px; font-size: 8pt; }
+	div.qtip-content ul.meta li { float: left; margin: 0 2px; color: #4e4e4e; }

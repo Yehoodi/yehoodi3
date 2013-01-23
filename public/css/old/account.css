@@ -1,0 +1,32 @@
+@import url("yehoodi.css");
+@import url("buttons.css");
+
+h2 { font-family: "Georgia",serif; border-bottom: 1px solid #e5964e; margin-bottom: 12px; margin-top: 7px; }
+
+#form_login, #form_fetchPassword { background: #d4843f; padding: 15px; margin-bottom: 10px; font-family: "Tahoma",sans-serif; }
+	#form_login label, #form_fetchPassword label { width: 80px !important; float: left; }
+	#row_username, #form_user_name_container { margin-top: 25px; }
+	#span_forgotPassword { margin-right: 20px; font-size: 8pt; float: right; }
+	input#form_remember { margin: 0 0 25px 0; padding: 0; width: auto; }
+	#button_login, #button_fetchPassword { float: right; }
+
+#ul_accountTabs { padding: 0; margin: 0; list-style: none; font-size: 11pt; }
+	#ul_accountTabs a { display: inline; padding-right: 7px; padding-left: 7px; color: black; }
+	#ul_accountTabs li { float: left; margin-right: 5px; width: auto; }
+		
+#div_accountDetails { }
+	#div_accountDetails form { clear: left; background-color: #d4843f; padding: 12px 15px; margin-bottom: 1em; }
+
+div.row { margin-bottom: 5px; }
+	div.row label { margin-left: 0; width: 150px !important; }
+select { margin: 0 0 5px 0; }
+#form_settings .text { margin-left: 160px; }
+
+#row_email_address, #row_notify_by_email, #row_location { margin: 25px 0 15px 0; }
+	#row_email_address span { font-weight: bold; }
+#row_filter_dirty { margin-bottom: 25px; }
+#form_notify_by_email_true, #form_user_invisible, #form_utilize_email, #form_notify_by_email, #form_filter_dirty { width: 10px; }
+	#form_notify_by_pm { margin-left: 15px; }
+#form_bio { width: 520px; }
+#form_sig { width: 520px; height: 50px; }
+#row_signaturePreview span { width: 572px; background-color: #FFC380; padding-bottom: 1px; }

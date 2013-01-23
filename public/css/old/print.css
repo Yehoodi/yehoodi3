@@ -1,0 +1,16 @@
+html, body { background-color: white; font-family: "Tahoma",sans-serif; font-size: 10pt; font-weight: 400; line-height: 1.4; color: black; }
+
+a { color: black; font-weight: bold; }
+
+blockquote, p { margin-bottom: 1em; }
+
+h1, h2, h3 { color: black; }
+h1 { margin-bottom: .5em; }
+h2 { font-size: 16px; }
+h3 { font-size: 14px; }
+
+#div_headerUserLinks, #div_headerSearchForm, #div_navigation, #messages, #div_bannerAds, #div_callOuts, #div_buttonAds { display: none; }
+#div_footer { margin-top: 1em; }
+	#div_footerContent { display: none; }
+	#copyright { text-align: center; }
+		#copyright ul { display: none; }
