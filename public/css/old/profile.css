@@ -1,0 +1,16 @@
+@import url("yehoodi.css");
+
+.div_profileTitle { border-bottom: 2px solid #e5964e; margin-bottom: .5em; }
+	.div_profileTitle h1 { border: none; margin: 0; }
+	.div_profileTitle h1 span.span_userName { color: #B22418; }
+	.div_profileTitle ul.actions { float: right; margin-top: 7px; }
+
+h2 { border-bottom: 1px solid #e5964e; width: 80%; }
+
+#img_userAvatar { display: block; width: 80px; height: 80px; }
+#p_bio { margin-bottom: 17px; }
+
+.table_profileInfo { margin-bottom: 12px; }
+	.table_profileInfo th, .table_profileInfo td { padding: 7px 12px 0 0; font-family: "Tahoma",sans-serif; font-size: 8pt; text-align: left; }
+.ul_profileInfo { margin-left: 0;  }
+	.ul_profileInfo li { margin-bottom: 5px; }	

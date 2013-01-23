@@ -1,0 +1,23 @@
+@import url("yehoodi.css");
+
+#form_registration { background: #d4843f; padding: 15px; margin-bottom: 10px; font-family: "Tahoma",sans-serif; }
+
+	#form_registration fieldset { border-top: 1px solid #e5964e; padding: 0 0 12px 0; margin-bottom: 12px; }
+	#form_registration fieldset legend { font-size: 14px; padding: 0 7px 12px 0; margin: 0 0 7px -7px; }
+	div.row { clear: left; }
+	
+	#form_registration label { width: 150px; float: left; }
+	
+	#img_captcha { margin: 0 0 12px 230px; }
+	#form_question_container label, #form_captcha_container label { width: 230px !important; }
+		input#form_captcha { width: 220px; }
+		input#form_question { width: 220px; margin-top: 7px; }
+	
+	#span_forgotPassword { margin-right: 20px; font-size: 8pt; float: right; }
+	input#form_remember { margin: 0 0 25px 0; padding: 0; width: auto; }
+	
+	#terms { width: 100%; }
+	#button_register { float: right; margin-right: 5px; width: auto; }
+	
+	div.error { background-color: #ff6; margin: 5px 0 10px 0; padding: 7px; font-size: 14px; border: 1px solid #993; }
+		div.error p { background-color: #ff6; }

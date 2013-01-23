@@ -1,0 +1,27 @@
+@import url("yehoodi.css");
+
+/* SF dropdowns */
+#ul_adminTabs, #ul_adminTabs ul { padding: 0; margin: 0; list-style: none; font-size: 11pt; }
+	#ul_adminTabs a { display: inline; padding-right: 7px; padding-left: 7px; color: black; }
+		#ul_adminTabs a img { display: inline; }
+	#ul_adminTabs li { float: left; margin-right: 5px; width: auto; }
+		#ul_adminTabs li ul { position: absolute; width: 15em; left: -999em; font-weight: normal; }
+		#ul_adminTabs li ul li { background-color: #FFC380; padding-bottom: 2px; }
+		#ul_adminTabs li ul a { display: block; width: 15em; padding: 0; text-align: left; margin: 0; }
+		#ul_adminTabs li:hover ul { left: auto; }
+		#ul_adminTabs li:hover ul, #ul_adminTabs li.sfhover ul { left: auto; }
+			#ul_adminTabs li.sfhover ul {  }
+
+#form_settingsAdmin { clear: left; background-color: #d4843f; padding: 7px 5px; margin-bottom: 1em; }
+	#form_settingsAdmin h1 { display: block !important; font-family: "Tahoma",sans-serfi; margin: 0; font-weight: normal; font-size: 2em; }
+	#form_settingsAdmin a { color: #990000; }
+		#form_settingsAdmin a:hover { color: #660000; }
+		
+	div.row { margin: 0 5px 0 5px; padding: 7px 0 0 0; font-size: 8pt; color: #502017; }
+		div.row label { display: inline; }
+		#div_viewRow { max-width: 210px; float: left; }
+		#div_sortRow { float: right; }
+			a.a_sortLink { margin: 0 6px; }
+			a.currentSort { background-color: #FFC380; padding: 3px 7px; color: black; text-decoration: none; font-weight: bold; }
+			
+			

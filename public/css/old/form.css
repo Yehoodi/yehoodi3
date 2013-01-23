@@ -1,0 +1,5 @@
+form { font-family: "Tahoma",sans-serif; }
+form legend { font-size: 12pt; font-weight: bold; color: #570705; margin-bottom: 12px; }
+form label { display: block; font-size: 8pt; color: #502017; }
+form textarea { margin-bottom: 7px; height: 250px; }
+form input { margin-bottom: 7px; width: 300px; }

@@ -1,0 +1,19 @@
+@import url("yehoodi.css");
+
+h1 { font-family: "Tahoma",sans-serif; font-size: 14pt; font-weight: bold; clear: both; margin-bottom: 12px; }
+h2 { border-bottom: 1px solid #e5964e; margin-bottom: 12px; margin-top: 7px; }
+h3 { margin-bottom: 7px; }
+ul.meta { display: block; border-top: 1px solid #E5964E; border-bottom: 1px solid #E5964E; padding: 5px 0; margin-bottom: 5px; list-style-type: none; font-family: "Tahoma",sans-serif; font-size: 9pt; }
+	ul.meta li { display: inline; padding-right: 5px; margin-right: 5px; }
+	#li_joinedDate { border-right: 1px solid #e5964e; }
+ul.actions { display: block; border-top: 1px solid #E5964E; border-bottom: 1px solid #E5964E; border-left: 1px solid #e5964e; padding: 5px 0 2px 5px; margin-bottom: 5px; list-style-type: none; }
+	ul.actions li { display: inline; }
+
+#p_bio { margin: 12px 0; }
+#img_userAvatar { float: right; margin-left: 12px; margin-bottom: 12px; }
+.ul_profileInfo { margin-left: 0; }
+	.ul_profileInfo li { margin-bottom: 5px; }
+.div_relationships { margin-left: 0; }
+.ul_relationships { margin: 0 12px 12px 12px; }
+	.ul_relationships li { display: inline; margin-right: 7px; white-space: nowrap; line-height: 1.6; }
+	.ul_relationships li a.a_seeAll { font-size: 85%; padding: 4px 2px; }

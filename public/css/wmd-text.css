@@ -1,0 +1,97 @@
+/* Basic test */
+.div_detailsContent p, 
+.thread p,
+.div_commentText p { text-align: left; }
+
+/* Media */
+.div_detailsContent object, 
+.thread object,
+.div_commentText object { display: block; clear: both; margin: 7px 0; max-width: 510px; padding: 5px;
+                            background-color: #CBBB95; 
+                            border-radius: 3px; 
+                            -moz-border-radius: 3px;  
+                            box-shadow: inset 0 1px 0px #9b8b65;
+        					-moz-box-shadow: inset 0 1px 0px #9b8b65;
+                            -webkit-box-shadow: none; /* 'inset' effect is buggy in Safari/Chrome */ }
+
+/* Headings */
+.div_detailsContent h1,
+.thread h1, 
+.div_commentText h1,
+.div_detailsContent h2, 
+.thread h2,
+.div_commentText h2,
+.div_detailsContent h3, 
+.thread h3,
+.div_commentText h3 { font-family: "Georgia",serif; font-weight: normal; color: #333 !important; letter-spacing: 0 !important;
+                        background: none !important; display: block; clear: left; text-shadow: none !important; 
+                        border-radius: 0 !important; -moz-border-radius: 0 !important; 
+                        margin: .5em 0 1em 0 !important; padding: 0 !important; text-align: left; }
+                        
+    .div_detailsContent h1, 
+    .thread h1,
+    .div_commentText h1 { font-size: 24px; line-height: 18px; border: none !important; }    
+    .div_detailsContent h2, 
+    .thread h2,
+    .div_commentText h2 { font-size: 18px; line-height: 14px; }
+    .div_detailsContent h3, 
+    .thread h3,
+    .div_commentText h3 { font-size: 14px; line-height: 12px; }
+
+/* Lists */
+.div_detailsContent ul, 
+.thread ul ul,
+.div_commentText ul { list-style-type: disc; margin-left: 12px; margin-bottom: 12px; border: none !important; background: transparent; }
+    .div_detailsContent ul ul, 
+    .thread ul ul ul,
+    .div_commentText ul ul { list-style-type: circle; margin-bottom: none !important; border: none !important; background: transparent; } 
+        .div_detailsContent ul ul ul, 
+        .thread ul ul ul ul,
+        .div_commentText ul ul ul { list-style-type: square; margin-bottom: none !important; border: none !important; background: transparent; }
+    
+    .thread ul ul li, .thread ul ul li li, .thread ul ul li li li { margin-bottom: none !important; }
+        
+.div_detailsContent ol, 
+.thread ol,
+.div_commentText ol { list-style-type: decimal; margin-left: 17px; margin-bottom: 12px; }
+    .div_detailsContent ol ol, 
+    .thread ol ol,
+    .div_commentText ol ol { list-style-type: upper-alpha; margin-bottom: none; }
+        .div_detailsContent ol ol ol, 
+        .thread ol ol ol,
+        .div_commentText ol ol ol { list-style-type: lower-roman; margin-bottom: none; }
+                        
+/* Code */
+.div_detailsContent code, 
+.thread code,
+.div_commentText code { display: block; clear: left; padding: 7px; margin-bottom: 12px;
+                        background-color: #FFEE93;
+                        border-radius: 3px;
+                        -moz-border-radius: 3px; 
+                        box-shadow: 0 0 1px #9B8464;
+                        -moz-box-shadow: 0 0 1px #9B8464; 
+                        -webkit-box-shadow: 0 0 1px #9B8464;
+                        color: black; }
+                                                
+/* Quotes */                                                
+.div_detailsContent blockquote, 
+.thread blockquote,
+.div_commentText blockquote { display: block; clear: left; padding: 7px; margin-bottom: 12px; 
+                                background-color: rgba(255,255,255,.5);
+                                border-radius: 7px;
+                                -moz-border-radius: 7px; 
+                                box-shadow: 1px 1px 5px #9B8464;
+                                -moz-box-shadow: 1px 1px 5px #9B8464; 
+                                -webkit-box-shadow: 1px 1px 5px #9B8464; }
+                                
+/* Horizontal rule */
+.div_detailsContent hr, 
+.thread hr,
+.div_commentText hr { background: none; border: none; border-top: 1px solid #CBBB95; height: 1px; }
+                                
+/* Outbound links */
+.div_detailsContent a[href^="http"]:after,
+.thread a[href^="http"]:after,
+.div_commentText a[href^="http"]:after { display: inline-block; opacity: .5;
+                                        content: ""; width: 14px; height: 16px; margin: 0;
+                                        background: url('/images/icons/text-icons.png'); background-position: -192px -96px; }

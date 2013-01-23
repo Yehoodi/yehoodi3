@@ -1,0 +1,15 @@
+@import url("yehoodi.css");
+@import url("buttons.css");
+
+#div_searchMain { }
+	#form_searchForm { clear: left; background-color: #d4843f; padding: 12px 5px; margin-bottom: 1em; }
+
+div.row { margin-bottom: 5px; }
+
+select { margin: 0 0 5px 0; }
+
+table.results { width: 100%; }
+
+.highlight_pink { background-color: #ff6666; }
+.highlight_yellow { background-color: #ffff66; }
+.highlight_green { background-color: #66ff66; }

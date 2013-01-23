@@ -1,0 +1,43 @@
+@import url("yehoodi.css");
+@import url("fullcalendar_002.css");
+@import url("fullcalendar.css");
+
+#div_contentContainer h1 { display: none; }
+
+#ul_calendarTabs #li_help { background: none; float: right; margin: 0; padding: 0; }
+	#li_help a { color: #B22418; text-decoration: underline; padding: 3px 0 0 0; }
+	#li_help a:hover { color: #E30D09; }
+
+#div_calendarBar { clear: left; font-family: "Tahoma",sans-serif; font-size: 8pt; background-color: #d4843f; margin-bottom: 1em; overflow: auto; }
+	/* duplicate bgcolor is IE6 fix */
+	#div_calendarTitle, #div_calendarEvent, #div_calendarLocations { float: left; background-color: #d4843f; width: 930px; padding: 5px; }
+     	#div_calendarTitle { }
+     	#div_calendarEvent { border-top: 2px solid #e5964e; padding-bottom: 7px; }
+     	#div_calendarLocations { padding: 0 5px; }
+     		#div_calendarEvent, #div_calendarLocations { clear: left; width: 930px; }
+     		#div_calendarEvent a, #div_calendarLocations a { margin: 0 6px; }
+			#span_homeLocation a:link, #span_homeLocation a:visited { margin: 0; }
+     		/* "Other location" search box */
+     		span#input_locationFilter { width: 210px; }
+     			#input_locationFilter input { }
+     			input#form_location { width: 150px; }
+     			input#button_filter { width: 50px; margin: 0 10px 0 2px; }
+			
+	#div_calendarBar a:link, #div_calendarBar a:visited { color: #990000; }
+		#div_calendarBar a:hover { color: #660000; }
+		#div_calendarBar a.currentSelection { background-color: #FFC380; padding: 3px 5px; text-decoration: none; font-weight: bold; }
+	#div_calendarBar h2 { font-weight: normal; font-size: 1.75em; display: inline; }
+	
+	#span_newEvent { float: right; }
+		#span_newEvent a span { display: none; }
+		#span_newEvent a.event_submit { display: block; background: url(/images/buttons/submit-new-event.png) 0 0 no-repeat; height: 21px; width: 150px; }
+     	#span_newEvent a.event_submit:hover { background-position: 0 -30px; }	
+	
+/* FullCalendar */
+#loading { margin: 0 10px 0 0; padding: 4px 12px; border: 1px solid white; background-color: #FFD3A3; float: right; }
+
+/* Tooltips */
+div.qtip-content { font-family: "Tahoma",sans-serif; font-size: 8pt; }
+div.qtip-content h3 { font-size: 8pt; margin-bottom: 5px; }
+div.qtip-content ul.meta { border-top: 1px solid #E5964E; margin-top: 5px; font-size: 8pt; }
+	div.qtip-content ul.meta li { display: inline; border-right: 1px solid #e5964e; padding-right: 5px; margin-right: 5px; }

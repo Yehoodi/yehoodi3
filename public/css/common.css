@@ -1,0 +1,170 @@
+/* --- Misc. classes elements -- */
+.actions { float: right; }
+.hidden { display: none; }
+.meta { font-family: "Tahoma",sans-serif; font-size: 9px; color: #999; list-style-type: none !important; }
+    .meta a { color: #666; text-decoration: none; padding: 0 3px; font-weight: bold; 
+                border-radius: 3px; -moz-border-radius: 3px; 
+                -webkit-transition: background 0.3s ease; -moz-transition: background 0.3s ease; transition: background 0.3s ease; }
+    .meta a:hover { color: #666; background-color: #E1D9B9; text-decoration: none !important; }
+.small { font-weight: 400; }
+.final { border: none !important; }
+.signature p { padding: 5px 0 0 0; margin: 5px 0; border-top: 1px solid #cfcfcf; }
+
+/* --- Avatars --- */
+img.avatar-tiny { max-height: 25px; max-width: 25px; vertical-align: middle; }
+img.avatar-large { max-height: 80px; max-width: 80px; }
+
+/*-- Comment/Topic Author Information --*/
+.div_userAvatar, .div_userMeta { width: 80px; padding: 0; margin-left: 1em; }
+.div_userAvatar { }
+    .div_userAvatar img { display: block; margin: 0 auto; }
+.div_userMeta { margin-top: 1em; }
+    .div_userMeta ul.meta li { color: #666; line-height: 14px; clear: left; border-bottom: 1px dotted #cfcfcf; text-align: left; }
+
+/* --- Pagination --- */
+.div_pageControl { margin: 1em 0; padding: 0; clear: left; }
+.div_pagination { font-size: 11px; line-height: 12px; margin-bottom: 18px; width: 650px; float: left; clear: left; margin: 7px 0; }
+    p.p_paginationControl { margin: 0; }
+	.span_pageCurrent { font-weight: bold; margin: 4px; }
+	.div_pagination a { text-decoration: underline; text-shadow: none; }
+	a.a_pageNum { background: #fbfaee; padding: 4px; 
+					border-radius: 2px; -moz-border-radius: 2px; 
+					border: 1px solid rgba(155,139,101,.3); }
+		.a_pageNum:hover { background: #fff; }
+	a.a_pageNext { margin: 0 .5em; }
+    
+.div_addLink { float: right; margin: 0; } 
+	
+/* --- Icons for inline with text --- */
+    .iconText:before { content: ""; float: left; width: 16px; height: 16px; margin: 0; 
+                        background: url('/images/icons/text-icons.png'); }
+    /* Row 1 of image */
+	.iconUser:before { background-position: 0 0; margin-right: 3px; }
+	.iconUserHidden:before { background-position: -32px 0; margin-right: 3px; }
+	.iconLockLarge:before { background-position: -64px 0; margin-right: 3px; }
+	.iconBalloonLarge:before { background-position: -96px 0; margin-right: 3px; }
+	.iconExclamationLarge:before { background-position: -128px 0; } /* unused */
+	.iconFeedLarge:before { background-position: -160px 0; margin-right: 3px; }
+	.iconQuestionLarge:before { background-position: -192px 0; margin-right: 3px; }
+	.iconMailLarge:before { background-position: -224px 0; margin-right: 3px; }
+	.iconWrenchLarge:before { background-position: -256px 0; }
+	.iconBellLarge:before { background-position: -288px 0; margin-right: 3px; }
+	.iconEyeLarge:before { background-position: -320px 0; margin-right: 3px; }
+    .iconUserNew:before { background-position: -352px 0; }
+    .iconMailExclamation:before { background-position: -384px 0; }
+    .iconGearLarge:before { background-position: -416px 0; }
+    .iconGraph:before { background-position: -448px 0; margin-right: 3px; }
+    .iconChainLarge:before { background-position: -448px 0; } /* unused */
+    .iconBalloonPlusLarge:before { background-position: -512px 0; margin-right: 3px; }
+    .iconCalendarPlusLarge:before { background-position: -544px 0; margin-right: 3px; }
+    /* Row 2 of image */
+	.iconUserSmall:before { background-position: 0 -32px; }
+	.iconLockSmall:before { background-position: -64px -32px; }
+    .iconBalloonSmall:before { background-position: -96px -32px; }
+	.iconExclamationSmall:before{ background-position: -128px -32px; } /* unused */
+	.iconFeedSmall:before { background-position: -160px -32px; }
+	.iconQuestionSmall:before { background-position: -192px -32px; } /* unused */	
+	.iconMailSmall:before { background-position: -224px -32px; }
+	.iconBellSmall:before { background-position: -288px -32px; } /* unused */
+    .iconEyeSmall:before { background-position: -320px -32px; margin-right: 3px; }
+    .iconChainSmall:before { background-position: -480px -32px; }
+	/* Row 3 of image */
+	.iconUserAdmin:before { background-position: 0 -64px; margin-right: 3px; }	
+	.iconUserIgnored:before { background-position: -32px -64px; margin-right: 3px; }	
+	.iconThumbLarge:before { background-position: -64px -64px; }
+	.iconCake:before { background-position: -96px -64px; margin-right: 3px; }
+	.iconDocumentLarge:before { background-position: -128px -64px; } /* unused */
+	.iconStarLarge:before { background-position: -160px -64px; margin-right: 3px; }
+	/*.iconPopUpLarge:before { background-position: -192px -64px; }*/
+	.iconFilmLarge:before{ background-position: -224px -64px; margin-right: 3px; }
+	.iconSpeakerLarge:before { background-position: -256px -64px; margin-right: 3px; }
+	.iconRedBalloonLarge:before { background-position: -288px -64px; margin-right: 3px; }
+    .iconCalendarSearchLarge:before { background-position: -320px -64px; margin-right: 3px; }
+    .iconDoorClosed:before { background-position: -352px -64px; margin-right: 3px; }
+    .iconDoorOpen:before { background-position: -384px -64px; }
+    .iconUsersLarge:before { background-position: -416px -64px; margin-right: 3px; }
+    .iconCalendarBlankLarge:before { background-position: -448px -64px; } /* unused */
+    .iconBalloonPencilLarge:before { background-position: -480px -64px; } /* unused */
+    .iconDocumentPlusLarge:before { background-position: -512px -64px; margin-right: 3px; }
+    .iconMailOpenLarge:before { background-position: -544px -64px; margin-right: 3px; }	
+	/* Row 4 of image */
+    .iconThumbSmall:before { background-position: -64px -96px; margin-right: 3px; }
+	.iconDocumentSmall:before { background-position: -128px -96px; }
+	.iconStarSmall:before { background-position: -160px -96px; } /* unused */
+	.iconPopUpSmall:before { background-position: -192px -96px; }
+	.iconFilmSmall span.icon { background-position: -224px -96px; }
+	.iconRedBalloonSmall:before { background-position: -288px -96px; }
+    .iconBalloonPencilSmall:before { background-position: -480px -96px; }
+    /* Row 5 of image */
+	.iconCheck:before { background-position: 0 -128px; } /* unused */
+	.iconCheckCircle:before { background-position: -32px -128px; } /* unused */
+	.iconInfoBlue:before { background-position: -64px -128px; margin-right: 3px; }
+	.iconInfoWhite:before { background-position: -96px -128px; margin-right: 3px; }
+	.iconExclamationRed:before { background-position: -128px -128px; margin-right: 3px; }
+	.iconExclamationWhite:before { background-position: -160px -128px; } /* unused */
+    .iconX:before { background-position: -192px -128px; margin-right: 3px; }
+    .iconXCircle span.icon { background-position: -224px -128px; }   
+    .iconStatusGray:before { background-position: -288px -128px; } /* unused */
+    .iconDownload:before { background-position: -320px -128px; margin-right: 3px; }
+
+    /* Others that appear after text instead of before */
+    .iconTextAlt:after { content: ""; float: right; width: 16px; height: 16px; margin: 0; 
+                        background: url('/images/icons/text-icons.png'); }
+    .iconStatusGreen:after { background-position: -256px -128px; }
+    .iconBrowseChevron:after { background-position: -352px -128px; }
+    .iconPopUpSmallAlt:after { background-position: -192px -96px; float: none; display: inline-block; }
+    
+/* --- Resource and Comment "ACTIONS" Buttons --- */
+ul.actions { display: block; margin-bottom: 5px; list-style-type: none; }
+	ul.actions li { display: inline; margin: 0; padding: 0; }
+	ul.actions li a { display: inline-block; width: 16px; height: 18px; margin: 0 1px 5px 0; padding: 0; opacity: .66; 
+                        vertical-align: middle; background: transparent url('/images/buttons/action-buttons.png') 0 no-repeat;
+                       -webkit-transition: opacity 0.3s ease; -moz-transition: opacity 0.3s ease; transition: opacity 0.3s ease; }
+    ul.actions li a:hover { opacity: 1; }
+	
+/* --- Inline list --- */
+ul.inline { clear: left; margin: .5em 0 0 0; border-top: 1px dotted #e1d9b9; }
+	ul.inline  li { display: inline; border-right: 1px solid #cfcfcf; margin-right: .25em; padding-right: .5em; }
+	
+/* --- Tabs and Control Box --- */
+div.controlBoxTabs, div.controlBox { }
+
+.controlBoxTabs ul { list-style-type: none; margin-left: 1em; overflow: auto; }
+     .controlBoxTabs li { display: block; background: #cbbb95; height: 21px; text-align: center; padding: 4px 5px 0 5px; float: left; 
+	 						margin-right: 5px; width: auto; }
+		.controlBoxTabs li.current-page { background: #e1d9b9; font-weight: bold; }
+	    .controlBoxTabs li a { padding: 0 7px 0 4px; color: black; text-decoration: none; }
+     	    .controlBoxTabs li a:hover { text-decoration: underline; color: black; }
+		
+		.controlBoxTabs ul li.specialTab { background: none; margin: 0 0 0 15px; padding: 3px 0 0 0; font-size: 12px; font-weight: bold; }
+			.specialTab a { color: #8a2a06 !important; }
+			.specialTab a:hover { text-decoration: underline !important; }
+
+.controlBox { clear: both; position: relative; font-size: 11px; background: #e1d9b9; margin-bottom: 2.5em; overflow: auto; height: 77px;
+				border-radius: 7px;
+				-moz-border-radius: 7px;
+				box-shadow: 0 2px 5px #ad9d77;
+				-moz-box-shadow: 0 2px 5px #ad9d77; }
+
+	.controlBox h2 { color: #4e4b50; font-size: 24px; text-shadow: 0 1px 0 white; position: absolute; top: 12px; left: 12px; }
+	
+    .controlBox a { -webkit-transition: background 0.3s ease; -moz-transition: background 0.3s ease; transition: background 0.3s ease; }
+	.controlBox a:link, div.controlBox a:visited { margin: 0 6px; padding: 4px; color: #8a2a06; 
+													border-radius: 3px;
+													-moz-border-radius: 3px; }                                                    
+        .controlBox a:hover { background-color: rgba(251,250,238,0.5); }		
+		.controlBox a.currentSelection { background-color: #fbfaee; text-decoration: none; font-weight: bold; }
+                                            
+/* --- Expandable link --- */
+.a_expand, .a_expanded { padding-left: 17px; font-weight: bold; background-position: top left; background-repeat: no-repeat; }        
+    .a_expand { background-image: url('/images/icons/chevron-small-expand.png'); }
+    .a_expanded { background-image: url('/images/icons/chevron-small-expanded.png'); } 
+                                            
+/* --- Alerts and warnings --- */
+.success, .notify, .warning, .error { text-align: left; margin: 1em 0; padding: 7px; border-radius: 3px; -moz-border-radius: 3px; }
+.success { background-color: #eef9e1; color: #0f9400; border: 1px solid #7FC771; }
+.notify { background-color: #d6f0ff; color: #006cc9; border: 1px solid #6BAEE4; }
+.warning { background-color: #ffe299; color: #d74300; border: 1px solid #EB934D; }
+.error { background-color: #ffd9da; color: #d50019; border: 1px solid #EA6D7A; } 
+    .success p, .notify p, .warning p, .error p { margin: 0; }
+     .success ul, .notify ul, .warning ul, .error ul { margin-left: 36px; list-style-type: disc; }

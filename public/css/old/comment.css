@@ -1,0 +1,86 @@
+@import url("yehoodi.css");
+@import url("buttons.css");
+
+.div_threadTitle { border-bottom: 2px solid #e5964e; margin-bottom: .5em; }
+	.div_threadTitle h1 { border: none; margin: 0; }
+	.div_threadTitle ul.actions { float: right; margin-top: 7px; }
+	
+.div_firstPost { margin-bottom: 1em; border-bottom: 1px solid #e5964e; }
+	.div_firstPost table.results { margin: 0; }
+
+/* Page 1 details */
+#div_topicAuthor { display: block; float: left; width: 100px; padding: 0 7px; text-align: center; font-family: "Tahoma",sans-serif; font-size: 10pt; text-align: center; }
+	#div_topicAuthor a { font-weight: bold; }
+
+.div_mainDetails { margin: 0; float: left; width: 585px; }
+
+	.div_mainDetails ul.meta { margin: 0 0 1em 0; padding: 0 0 5px 0; border-bottom: 1px solid #e5964e; }
+		.div_mainDetails ul.meta li { display: inline; border-right: 1px solid #e5964e; padding-right: 5px; margin-right: 5px; }	
+
+	.div_mainDetails blockquote { clear: left; padding: .5em; border-style: solid; border-color: #e5964e; border-width: 1px 1px 1px 3px; background-color: #ffe2c2; }
+	.div_mainDetails img { max-width: 575px; }
+	.div_mainDetails code { display: block; margin: 0 2em 0 1em; }
+	
+	.div_mainDetails p.p_backToCalendar { margin: 17px 0; }
+		a.a_backToCalendar { color: #990000; font-family: "Tahoma",sans-serif; font-size: 8pt; font-weight: bold; background-color: #FFD3a3; padding: 5px 10px; border: 1px solid #e5964e; }
+
+/* sidebar */	
+span.locations { margin: 0 0 2.5em 0; background-color: #FFC380; }
+	.locations h3, .locations ul { font-family: "Tahoma",sans-serif; margin: .5em; }
+	.locations #div_containerGoogleMap { height: 300px; width: 210px; margin: 0 auto; border: 1px solid #E5964E; }
+	.locations ul { border-top: 1px solid #E5964E; }
+	.locations ul li { font-size: 9pt; color: #7c522d; padding: 5px; border-bottom: 1px solid #E5964E; background-color: #FFD3A3; }
+		.locations ul li a.link_googleMap { float: right; }
+		.locations ul li.primary_location { font-weight: bold; }
+
+.locationEmbedded { font-family: "Tahoma",sans-serif; }
+	.locationEmbedded a.link_googleMap { float: none; }
+
+span.related table.results { width: 100% !important; }
+	.related .results ul.meta { margin: 0 !important; padding: 2px 0 1px 0 !important; }
+
+/* pagination */
+.div_pagination { width: 520px; float: left; margin: 12px 0 0 0; clear: left; }
+
+.div_commentReply { margin: 10px 0 0 0; float: right; }
+	.div_commentReply a span { display: none; }
+	.div_commentReply a.comment_reply { display: block; background: url(/images/buttons/add-your-comment.png) 0 0 no-repeat; height: 30px; width: 150px; }
+	.div_commentReply a.comment_reply:hover { background-position: 0 -30px; }
+	.div_commentReply a.comment_login { display: block; background: url(/images/buttons/login-to-comment.png) 0 0 no-repeat; height: 30px; width: 150px; }
+	.div_commentReply a.comment_login:hover { background-position: 0 -30px; }
+	
+/* results tables */
+table.results { width: 100% !important; clear: both; }
+
+/* Reply form */
+#div_replyForm { clear: left; margin-top: 12px; }
+#form_comment { background: #c67432; padding: 15px; margin-bottom: 10px; font-family: "Tahoma",sans-serif; }
+
+	#form_comment h2 { margin-bottom: 7px; font-size: 14pt; }
+	
+	div.fieldset { padding: 7px 0; margin-bottom: 7px; }
+		div.fieldset label { width: 135px; font-size: 9pt; float: left; }
+		div.row { clear: left; }
+		
+		#div_fieldsInfo { }
+			#div_fieldsInfo .row {  }
+			#div_fielsInfo .row label {}
+			#div_fieldsInfo #div_excerptRow p { display: block; width: 530px; float: right; }
+			
+		textarea#text_area { width: 530px; }
+			
+		/* attempt to match preview box to the way the comment will actually appear */
+		#div_fieldsPreview  {}
+			#div_previewRow label { font-size: 14px; font-weight: bold; }
+				#previewArea { width: 522px !important; }
+				#previewArea blockquote, #previewArea ul { padding: .5em; border-style: solid; border-color: #e5964e; 
+					border-width: 1px 1px 1px 3px; background-color: #ffe2c2; }
+     			#previewArea .quote-source { background: #e5964e; padding: .25em; }
+     			#previewArea .parent_comment li { margin-bottom: 1em; }			
+     			#previewArea .comment_body > #previewArea .quote-source { border-top: 5px solid red; }
+				#previewArea code { display: block; margin: 0 2em 0 1em; }
+				
+		#div_fieldsNotify { padding-top: 7px; clear: both; }
+			#div_fieldsNotify input { margin: 0 0 7px 0; padding: 0; width: auto; }
+     			
+		#div_fieldsButtons { clear: both; border-bottom: none; width: 530px; margin-left: 135px; padding: 25px 0 0 0; text-align: right; }

@@ -1,0 +1,10 @@
+h2 { margin-bottom: 0; font-size: 18px; clear: left; }
+
+#recursion { margin-bottom: 15px; font-size: 11px; }
+	#recursion li { display: inline; margin-right: 10px; }
+#main-image { float: right; clear: right; margin-bottom: 10px; padding: 0 25px; background: #ffb365; }
+
+ul.meta { margin-bottom: 15px; }
+
+.related { float: left; width: 30%; margin: 15px 1% 25px 1%; }
+	.related ul li { margin-bottom: 5px; }

@@ -1,0 +1,70 @@
+#div_flashFeaturedCaption { background: #9b8b65; margin-bottom: 24px; padding: 12px 12px 7px 12px; overflow: auto; 
+                            border-radius: 6px; -moz-border-radius: 6px; 
+                            box-shadow: 0 3px 0 #333; -moz-box-shadow: 0 3px 0 #333; -webkit-box-shadow: 0 3px 0 #333; }
+
+    #div_flashFeatured { float: left; width: 640px; } 
+    
+    /* Non-Flash */
+    #featuredTable { margin-top: 12px; }
+        #featuredTable tr td { background: #fbfaee; padding: 7px; text-align: left; vertical-align: top; font-size: 10px; border-bottom: 1px dotted #cfcfcf; }
+        #featuredTable tr.alt td { background: #fff; }
+        #featuredTable tr:last-child td { border: none; }
+            #featuredTable tr td strong { font-size: 11px; }
+
+    #div_yehoodiCaption { float: right; width: 280px; font-family: "Georgia",serif; text-align: left;  }
+    #div_yehoodiCaption h2 { color: #5a4c2a; margin-bottom: 15px; line-height: 22px; }
+        #div_yehoodiCaption h2 strong { color: #fff864; text-shadow: 1px 1px 0 #cf3800; }
+        #div_yehoodiCaption h2 em { color: #fff; font-style: normal; text-shadow: 1px 1px 0 #cf3800; }
+    #div_yehoodiCaption p { font-size: 16px; line-height: 17px; color: #F8F0C0; margin-bottom: 10px; text-shadow: 0 -1px 0 #666; }
+        #div_yehoodiCaption p a { color: #F8D640; text-decoration: none; text-shadow: 0 1px 0 #965138; }
+        #div_yehoodiCaption p a:hover { color: #fff864; text-decoration: underline; }
+
+#div_banner { margin-bottom: 12px !important; }
+
+/* Featured content */
+#div_resultsFeatured { background: #FBFAEE; padding: 12px 12px 0 12px; border-radius: 12px; -moz-border-radius: 12px; 
+						box-shadow: inset 0 1px 1px rgba(155,139,101,.6);
+						-moz-box-shadow: inset 0 1px 1px rgba(155,139,101,.6); }
+    #div_resultsFeatured h2 { color: #dc4a00; padding-bottom: 7px; margin-bottom: 12px; border-bottom: 1px solid #e1d9b9; }
+        #div_resultsFeatured h2 .seeAll { color: #666; font-size: 12px; float: right; }
+    #div_resultsFeatured .result { width: 460px; float: left; margin-bottom: 7px; }
+        #div_resultsFeatured .alt { margin-right: 17px; clear: left; }
+        #div_resultsFeatured h3 { clear: left; font-family: "Georgia",serif; font-size: 18px; line-height: 24px; font-weight: bold; text-align: left; }
+            #div_resultsFeatured h3 a { color: #333; text-decoration: none; }
+            #div_resultsFeatured h3 a:hover { cdolor: #000; text-decoration: underline; }
+        #div_resultsFeatured ul.meta { clear: both; margin-bottom: .5em; }
+            #div_resultsFeatured .meta li { display: inline-block; margin: 0 .5em 0 0; }
+            ul.topicFooter { text-align: right; }
+            ul.topicFooter li { margin: 0 0 0 .5em !important; }
+        #div_resultsFeatured img.img_thumbnail { float: left; margin-right: 12px; max-width: 100px; height: 100px; }
+        #div_resultsFeatured p.excerpt { font-size: 14px; line-height: 20px; margin-bottom: 7px; }
+
+/* Discussion Summaries */
+    .div_resultsOther h3 { margin-top: 24px; font-size: 18px; margin-bottom: 7px; clear: left; }
+        .div_resultsOther h3 .seeAll { font-size: 11px; }
+    .div_resultsOther div.results { margin-bottom: 12px; }
+    .div_resultsOther .seeAll { color: #999; padding-left: 7px; }
+    
+.div_stats { margin-top: 24px; background: #CBBB95; padding: 12px 0 7px 0;
+            border-radius: 15px;
+            -moz-border-radius: 15px; 
+            box-shadow: inset 0 1px 1px rgba(155,139,101,.6);
+			-moz-box-shadow: inset 0 1px 1px rgba(155,139,101,.6); }
+
+    .div_stats h3 { font-size: 16px; color: white; margin: 0 7px 7px 7px; text-shadow: 0 1px 0 #9b8b65; }
+    .div_stats p, .div_stats ul { margin: 7px;}
+        
+        .div_stats ul.users { padding: 3px; background: #fbfaee; overflow: auto;
+                                border-radius: 7px; -moz-border-radius: 7px; }
+        .div_stats ul.users li { float: left; margin-right: 1em; }
+        
+        .div_stats ul.stats li { background: #fbfaee; padding: 3px; border-bottom: 1px dotted #cfcfcf; }
+            .stats li ul, .stats li ul li { background: transparent !important; margin: 0; padding: 0; float: right; }
+        .div_stats ul.stats li.alt { background: #ffffff !important; }
+        .div_stats ul.stats li:first-child { border-top-left-radius: 7px; border-top-right-radius: 7px;
+                            		-moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px;
+                                    box-shadow: inset 0 1px 0px #9b8b65;
+                                    -moz-box-shadow: inset 0 1px 0px #9b8b65;
+                                    -webkit-box-shadow: none; /* 'inset' effect is buggy in Safari/Chrome */ }
+        .div_stats ul.stats li:last-child { border: none; border-bottom-left-radius: 7px; border-bottom-right-radius: 7px;
+                            		-moz-border-radius-bottomleft: 7px; -moz-border-radius-bottomright: 7px; }

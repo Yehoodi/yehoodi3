@@ -1,0 +1,83 @@
+@import url("yehoodi.css");
+/*@import url("detail.css");*/
+@import url("tinymce.css");
+@import url("buttons.css");
+
+#div_buttonAds { text-align: center; padding-top: 12px; }
+
+#form_submit { background: #d4843f; padding: 15px; margin-bottom: 10px; font-family: "Tahoma",sans-serif; }
+	#form_submit a { color: #990000; }
+	#form_submit a:hover { color: #660000; }
+
+	#form_submit h2 { font-size: 1.25em; margin-bottom: 0; color: #570705;}
+	
+	div.fieldset { padding: 7px 0; margin: 0; }
+	
+		div.fieldset label { width: 135px; font-size: 9pt; float: left; }
+
+		div.row { clear: left; margin-bottom: 7px; }
+		div.hiddenController { clear: left; width: 486px; background-color: #FFD3A3; margin: 0 0 0 135px; padding: 7px; }
+		div.error { background-color: #ff6; margin: 5px 0 10px 0; padding: 7px; font-size: 14px; border: 1px solid #993; }
+		
+		#div_fieldsGeneral { border-top: none; }
+			#div_listResourceRow { margin-bottom: 17px; }
+			a.a_resourceTypeId { margin: 0 12px 0 0; }
+			a.currentResource { background-color: #FFC380; padding: 3px 7px; color: black; text-decoration: none; font-weight: bold; }			
+		
+		#div_fieldsCommon, input { padding: 0; width: 500px; }
+			#input_title { font-size: 16px; margin-bottom: 5px; }
+			#input_url { font-size: 14px; }
+		
+		#div_fieldsReply { overflow: auto; }
+		
+		#div_fieldsImage { clear: left; }
+			#div_imageContainer { }			
+			#button_imageDelete, #button_imageUpload { width: 125px !important; }
+			
+		#div_fieldsEvent input { margin: 0 0 7px 0; padding: 2px 0; width: 190px; }
+			#div_mapContainer { }
+			#span_dateText { font-weight: bold; background-color: #FFC380; display: block; width: 486px; margin: 0 0 0 135px; padding: 7px; }
+			
+		#div_fieldsLocation { }
+			#label_location { width: 100px; padding-top: 2px; }
+			#input_location { width: 225px; }
+			#button_addLocation { width: 150px !important; }
+			#div_containerGoogleMap { height: 300px; }
+			.input_removeLocation { width: auto !important; margin: 12px 0;}
+			#ul_location { border-top: 1px solid #E5964E; margin-top: 12px; }
+				#ul_location li { padding: 5px; border-bottom: 1px solid #E5964E; }
+					#ul_location li a.link_googleMap { float: right; }		
+					#ul_location li.primary_location { font-weight: bold; }		
+			
+		#div_fieldsNotify input { margin: 0 0 7px 0; padding: 0; width: auto; }
+		#div_fieldsNotify img { margin-top: 0; vertical-align: top; }
+			
+		#div_fieldsButtons { text-align: right; border-bottom: none; width: 535px; margin-left: 135px; padding: 10px 0 0 0; }
+		#div_fieldsButtons .button_cancel { float: left; }
+		#div_fieldsButtons .button_submit { float: right; }
+
+#div_containerTitleMatch { width: 486px; background-color: #ff6; margin: 0 0 10px 135px; padding: 7px; height: 150px; overflow-y: scroll; }
+	#div_containerTitleMatch #a_closeTitleMatch { float: right; }
+	#div_containerTitleMatch ul { list-style-type: disc; margin: 5px 0 0 15px; }
+	#div_containerTitleMatch li { margin-bottom: 2px; }
+	
+table.resourceLarge { width: 100%; }
+
+/* Preview */
+#div_preview h2 { margin-bottom: 1em; background: #FFC380; }
+#div_preview h2#previewTitle {  background: none; font-family: "Tahoma",sans-serif; font-size: 16pt; font-weight: bold; border-bottom: 2px solid #e5964e; margin-bottom: .25em; }
+#div_preview #div_topicAuthor { display: block; float: left; width: 100px; padding: 0 7px; text-align: center; font-family: "Tahoma",sans-serif; font-size: 10pt; text-align: center; }
+	#div_preview #div_topicAuthor a { font-weight: bold; }
+
+#div_preview .div_mainDetails { margin: 0; float: left; width: 585px; }
+
+	#div_preview .div_mainDetails ul.meta { margin: 0 0 1em 0; padding: 0 0 5px 0; border-bottom: 1px solid #e5964e; }
+		#div_preview .div_mainDetails ul.meta li { display: inline; border-right: 1px solid #e5964e; padding-right: 5px; margin-right: 5px; }	
+
+	#div_preview .div_mainDetails blockquote { clear: left; padding: .5em; border-style: solid; border-color: #e5964e; border-width: 1px 1px 1px 3px; background-color: #ffe2c2; }
+	#div_preview .div_mainDetails img { max-width: 575px; }	
+	#div_preview .div_mainDetails code { display: block; margin: 0 2em 0 1em; }
+
+/* misc */
+.a_expand { background: url('/images/icons/chevron-small-expand.png') top left no-repeat; padding-left: 17px; }
+.a_expanded { background: url('/images/icons/chevron-small-expanded.png') top left no-repeat; padding-left: 17px; }  	

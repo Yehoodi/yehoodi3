@@ -1,0 +1,1 @@
+{$excerpt|strip|truncateclosetags:255}
