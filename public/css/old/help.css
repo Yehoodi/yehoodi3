@@ -1,0 +1,10 @@
+@import url("yehoodi.css");
+
+.contents { margin-bottom: 15px; }
+h2.faq { clear: left; border-bottom: 1px solid #e5964e !important; margin-bottom: 1em; }
+dl.faq { margin-bottom: 2em; }
+	dl.faq dt { font-size: 12px; font-weight: bold; font-style: italic; margin-bottom: 1em; }
+	dl.faq dd { margin-bottom: 1em; }
+		dl.faq dd table { margin-bottom: 1em; }
+		dl.faq dd ul { margin-bottom: 1em; margin-left: 2em; }
+		dl.faq dd ul li { margin-bottom: 0; }

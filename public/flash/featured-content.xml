@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+    <image>
+        <path><![CDATA[/images/featured-content/HMJ-085-Flash-Feature.png]]></path>
+        <description><![CDATA[Mona's Hot Four and more on the January Hey Mister Jesse show.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-085-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/SN-009-Flash-Feature.png]]></path>
+        <description><![CDATA[Wicked smart Lindy Hopper Sommer Gentry and 2012 wrap-up on this special holiday SwingNation.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-009-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
+		<path><![CDATA[/images/featured-content/Yehoodi_Radio_Modern_Swing.png]]></path>
+		<description><![CDATA[Yehoodi Radio salutes Modern Swinging music this month on Guest DJ Thursdays.]]></description>
+		<thumbnail><![CDATA[/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png]]></thumbnail>
+		<link><![CDATA[/show/radio]]></link>
+	</image>
+</content>

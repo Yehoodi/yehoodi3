@@ -1,0 +1,25 @@
+@import url("yehoodi.css");
+
+#div_mediaPlayer, #div_mediaInfo, #div_currentShow, #div_channelInfo, #div_channelArchive, .div_frimframHeader { margin-bottom: 12px; } /* background: red; */
+
+#div_mediaPlayer { text-align: center; }
+#div_channelInfoDetails { background-color: #FFC380; border: 1px solid #d4843f; padding: 7px; }
+#div_currentShowDetails { background-color: #FFD3A3; border: 2px solid #d4843f; padding: 7px; }
+	#div_channelInfo h2, #div_currentShowDetails h2, #div_channelText h3 { margin-bottom: 7px; }
+	
+#div_channelArchive #div_archiveTable { height: 225px; padding: 0; overflow-y: scroll; margin-top: 7px; }
+	#div_archiveTable table.results { border-top: 1px solid #d4843f; margin: 0; }
+     	#div_archiveTable table.results td, #div_archiveTable table.results th { padding: 2px; }
+     		#div_archiveTable table.results th.thumb { width: 45px; text-align: center; }
+     			#div_archiveTable table.results th.thumb img { width: 33px; margin-top: 5px; }
+
+#div_yehoodiRadioSchedule { padding: 17px 0; }
+	#table_yehoodiRadioSchedule th { text-align: left; }
+	#table_yehoodiRadioSchedule td { font-family:"Tahoma",sans-serif; font-size: 11px; }
+		#table_yehoodiRadioSchedule td.photo { text-align: center; }
+				
+/* misc */
+.a_expand { background: url('/images/icons/chevron-small-expand.png') top left no-repeat; padding-left: 17px; }
+.a_expanded { background: url('/images/icons/chevron-small-expanded.png') top left no-repeat; padding-left: 17px; }
+.hiddenController { background-color: #FFD3A3; margin: 0 !important; padding: 7px; }  
+#div_showNotesController { margin: 1em 0; }

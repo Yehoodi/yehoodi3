@@ -1,0 +1,10 @@
+h1.iconUser:before { margin-top: 7px; }
+
+.div_profileTitle ul.actions { float: right; margin-top: 7px; }
+
+.text h2 { margin: 12px 0 12px 0 !important; }
+
+#p_bio { margin-bottom: 17px; }
+
+.table_profileInfo { margin-top: 0; margin-bottom: 24px; border-top: 1px solid #E1D9B9; }
+	.table_profileInfo th, .table_profileInfo td { padding: 7px 12px 0 0; font-family: "Tahoma",sans-serif; font-size: 8pt; text-align: left; }	

@@ -1,0 +1,45 @@
+@import url("yehoodi.css");
+@import url("buttons.css");
+
+#ul_mailTabs { padding: 0; margin: 0; list-style: none; font-size: 11pt; }
+	#li_totalMessages { background: none; text-align: right; font-weight: bold; }
+
+input.checkbox_messageSelect_new { width: 10px; }
+input.checkbox_messageSelect_read { width: 10px; }
+
+#div_controlForm { background-color: #d4843f; padding: 12px 5px; margin-bottom: 1em; }
+	.span_mailControl { float: left; padding-left: 5px; }
+	.span_mailControl label, .span_mailControl select, .span_mailControl ul, .span_mailControl li
+		{ display: inline; margin-right: 10px; }
+	#label_withSelected { margin-left: 22px; }
+	
+	#span_newMail { float: right; }
+		#span_newMail a span { display: none; }
+		#span_newMail a.mail_submit { display: block; background: url(/images/buttons/new-message.png) 0 0 no-repeat; height: 29px; width: 150px; }
+     	#span_newMail a.mail_submit:hover { background-position: 0 -30px; }
+		
+table#table_mail { border-collapse: separate; border-spacing: 0 0.5em; margin-bottom: 2em; margin-top: -5px; width: 100%; }
+     #table_mail thead { display: none; }
+     #table_mail tr { padding-bottom: 5em; }
+     #table_mail td { background-color: #FFC380; border: 1px solid #E5964E; margin: 0pt; padding: 0.5em; vertical-align: top; }
+     #table_mail tr.alt td { background-color: #FFD3A3; }
+     #table_mail td.td_selectMessage { width: 20px;  }
+     #table_mail td.td_mailAuthor { font-size: 11px; font-family:"Tahoma",sans-serif; border-left: none; border-right: none; text-align: left; }
+     #table_mail td.td_message { font-family:"Tahoma",sans-serif; margin-bottom: 0; width: 80%; }
+     #table_mail td p { margin: 0; } 
+		
+/* Reply form */
+#div_replyForm { background: #c67432; padding: 15px; margin-bottom: 10px; font-family: "Tahoma",sans-serif; }
+	div.fieldset { padding: 7px 0; margin-bottom: 7px; }
+		div.fieldset label { width: 135px !important; font-size: 9pt; float: left; }
+		div.row { clear: left; }
+		textarea#text_area { width: 590px; }
+		#div_fieldsPreview #previewArea { width: 582px; margin-bottom: 15px; }
+		#div_fieldsButtons { width: 530px; margin: 15px 0 0 200px; padding: 0 0 0 0; text-align: right; }
+
+img.avatar-tiny { max-height: 25px; max-width: 25px; float: left; margin-right: 5px; }	
+span.mostRecent { font-size: 10px; margin-left: 20px; }
+
+a.mail_new { padding: 3px 0 0 20px; background: url('/images/icons/mail.png') 0 no-repeat; font-weight: bold; font-size: 14px;  }
+a.mail_read { padding: 3px 0 0 20px; background: url('/images/icons/mail-open.png') 0 no-repeat; }
+a.link-user { background: none; padding: 0; }

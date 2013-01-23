@@ -1,0 +1,10 @@
+div.tabs { }
+	.tabs ul { font-family: "Tahoma",sans-serif; list-style-type: none; }
+     .tabs li { display: block; background: #a45d33; height: 21px; text-align: center; padding: 4px 5px 0 5px; }
+		.tabs li.current-page { background: #d4843f; font-weight: bold; }
+     	.tabs li a { color: black; text-decoration: none; }
+     	.tabs li a:hover { text-decoration: underline; color: #FFD3A3; }
+		
+		.tabs ul li.specialTab { background: none; margin: 0 0 0 15px; padding: 3px 0 0 0; font-size: 12px; font-weight: bold; }
+			.specialTab a { color: #B22418 !important; text-decoration: underline !important; padding: 0 !important; }
+			.specialTab a:hover { color: #E30D09; }

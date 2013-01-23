@@ -1,0 +1,17 @@
+@import url('submit.css');
+
+form fieldset { }
+form legend { }
+form h2 { padding: 0; clear: left; margin: .5em 0 1em 0; border-bottom: 1px solid #d2914f; font-family: "Nobile",sans-serif; }
+span#login-name { display: block; margin-bottom: 7px; font-weight: bold; }
+input.contact-show, input.per-page { margin-bottom: 2em; }
+	input.notify { margin-left: 184px; }
+input.short { width: 20px !important; }
+input.medium { width: 75px !important; }
+select { width: 305px; margin-bottom: 7px; }
+.category1, .category2 { margin-bottom: 7px; }
+div.location-prefs { width: 305px; float: left; margin-bottom: 7px; }
+	.location-prefs input { margin-bottom: 7px; }
+	#mapsearch { margin: 0 0 7px 180px; }
+
+#formPosting, #formHomepage, #formYehoodi { display: none; }

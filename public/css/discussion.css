@@ -1,0 +1,24 @@
+.results { clear: left; }
+
+/* --- Control box tabs --- */
+	.controlBoxTabs ul li ul { background-color: #fbfaee; position: absolute; margin-top: 2px; width: 15em; left: -999em; font-weight: normal; z-index: 9999; 
+                                -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.6); -moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.6); box-shadow: 1px 1px 5px rgba(0,0,0,0.6); 
+                                -moz-border-radius: 0 7px 7px 7px; border-radius: 0 7px 7px 7px; }
+	.controlBoxTabs ul li ul li { background: transparent; padding: 5px 0; border-bottom: 1px dotted #e1d9b9; }
+	.controlBoxTabs ul li ul li a { display: block; width: 14em; padding: 0 .5em; text-align: left; }
+	.controlBoxTabs ul li:hover ul { left: auto; margin-left: -4px; }
+	.controlBoxTabs ul li:hover ul, #ul_discussionTabs li.sfhover ul { left: auto; }
+			
+/* --- Control box overrides --- */
+.controlBoxEvent { height: 107px !important; }
+
+.span_discussionFormat, .span_discussionFilter, .span_discussionSort { display: block; position: absolute; }
+	
+	.span_discussionFormat { top: 12px; right: 12px; }
+	.span_discussionFilter, .span_discussionSort { width: 50%; border-top: 1px solid #cdbd94; padding-top: 7px; }
+	.span_discussionFilter { top: 42px; left: 12px; }
+	.span_discussionSort { top: 42px; right: 12px; text-align: right; }
+	#span_eventLocation { display: block; margin-top: 12px; }
+    
+/* -- Custom button -- */
+a.buttonLink span.icon { font-size: 14px; }

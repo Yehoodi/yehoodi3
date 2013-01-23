@@ -1,0 +1,67 @@
+@import url("yehoodi.css");
+
+h1 { font-family: "Tahoma",sans-serif; font-size: 14pt; font-weight: bold; clear: both; }
+#h1_dashboard { display: none; }
+
+div#yehoodiFeatured { }
+	#yehoodiFeatured span#flashFeatured { margin: 0; padding: 0; }
+	
+	#yehoodiFeatured h2 { color: #fade79; background: #8c120c; padding: 5px; margin: 0; }	
+     table#featuredTable { width: 100%; height: 200px; font-family: "Tahoma",sans-serif; }
+     	#featuredTable th { padding: 2px 0 0 0; }
+     		#featuredTable th.thumbnail { padding: 5px; width: 100px; }
+     	#featuredTable td { padding: 0; }	
+     	#featuredTable img { height: 25px; width: 100px; }
+		
+div#moreFeatured { }
+	#moreFeatured table#table_moreFeatured { width: 100%; border: 2px solid #8c130b; background: #ffdb9d; padding: 7px; height: 198px; }
+		#table_moreFeatured th, #table_moreFeatured td { width: 100%; text-align: left; }
+		#table_moreFeatured th { font-family: "Tahoma",sans-serif; padding: 7px 7px 0 7px !important; font-size: 14px; }
+			#table_moreFeatured th a { margin: 0; }
+		#table_moreFeatured td { padding: 0 7px; margin: 0; }
+		
+#div_bannerAds { margin-top: 7px; padding-top: 7px; }
+#div_callOuts { margin: 7px 0; text-align: left; }
+		
+div.resourceResults { margin-bottom: 15px; background-color: #d4843f; padding: 10px; }
+	.resourceResults h3 { color: #661111; font-family: "Georgia",serif; font-size: 14px; margin-bottom: 5px; float: left; width: 275px; }
+		.resourceResults h3 span.icon { background: url('/images/icons/dashboard-icons.png'); padding: 0 6px; }
+			.resourceResults h3#h3_latestActivity span.icon { background-position: 0 0; }
+			.resourceResults h3#h3_eventCalendar span.icon { background-position: -17px 0; }
+			.resourceResults h3#h3_yehoodiStats span.icon { background-position: -34px 0; }
+			.resourceResults h3#h3_usersOnline span.icon { background-position: 0 -17px; }
+			.resourceResults h3#h3_happyBirthday span.icon { background-position: -17px -17px; }
+			.resourceResults h3#h3_yourBookmarks span.icon { background-position: -51px 0; }
+	.resourceResults p.browseAll { float: right; width: 190; text-align: right; font-family: "Tahoma",sans-serif; }
+	.resourceResults table.results { width: 100%; margin: 0; clear: left; }
+		.results td ul.meta { float: left; margin: 0; padding: 0; }
+		.results td ul.actions { float: right; margin: 0; padding: 0; }
+	.resourceResults table.stats { margin-bottom: 7px; }
+		.stats td { padding: 4px !important; }
+		
+div.pagination { margin: 0 0 7px 0; background: #E89950; padding: 5px 5px 7px 5px; font-family: "Tahoma",sans-serif; font-size: 11px; overflow: auto; border-top: 1px solid #896036; }
+	.pagination span { }
+	.pagination span.previous { float: left; margin-right: 15px;}
+	.pagination span.next { }
+		
+#div_calendarController { background: #E89950; padding: 5px 5px 7px 5px; font-family: "Tahoma",sans-serif; font-size: 11px; clear: left; }
+	#div_calendarController #p_eventFilter { margin: 0; }
+		#div_calendarController #p_eventFilter input.radio_eventFilter { width: 10px; margin-right: 5px; }
+		#div_calendarController #p_eventFilter label { margin-right: 10px; }
+		#div_calendarController #p_eventFilter span#input_locationFilter input#form_location { width: 150px; margin: 0 5px; }
+		#div_calendarController #p_eventFilter span#input_locationFilter input#button_filter { width: 40px; font-size: 10px; }
+	#div_calendarController #span_localScope { display: block; margin: 5px 0 0 0; padding: 2px; background-color: #ffd3a3; }
+
+table#calendar { width: 100%; margin: 1px auto 5px auto; }
+	#calendar th, #calendar td { font-size: 14px; }
+	#calendar thead th { background: #8c130b; padding: 4px 0; color: #ffc380; }
+		#calendar thead th a { font-size: 14px; margin: 0 5px; text-decoration: none; color: #ffdb9d; }
+			#calendar thead th a:hover { color: white; text-decoration: underline; }
+	#calendar tbody th, #calendar tbody td { padding: 4px 0; border-bottom: 1px solid #e5964e; }
+	#calendar tbody th { background-color: #ffd3a3; }		
+	#calendar tbody td { font-family: "Tahoma",sans-serif; text-align: center; background: #ffc380; }
+		#calendar tbody td a { font-weight: bold; }
+		td.otherMonth { color: #d4843f; }
+		td.today { background-color: #ffff9d !important; font-weight: bold; }
+		.event_selectedDate { background-color: #ffdb9d; padding: 5px 0; }
+		#td_notEnabled  { padding: 4px !important; text-align: left !important; }

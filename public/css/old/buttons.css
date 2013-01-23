@@ -1,0 +1,13 @@
+.button_submit, .button_draft, .button_cancel { width: auto; font-size: 12px; color: #ffffcc; background: transparent; 
+     								border-width: 0; -moz-border-radius: 2px; -webkit-border-radius: 2px; }
+									
+     .button_submit { font-size: 14px; padding: 3px 10px; font-weight: bold;
+				background: #ab541c url(/images/buttons/button-bg.png) top repeat-x; 
+     			border-color: #ca8440 #ab541c #ab541c #ca8440; border-width: 1px; }
+     .button_draft { padding: 5px 10px 3px 25px; margin: 0 10px; background: transparent url('/images/icons/disk.png') 5px no-repeat; }
+     .button_cancel { padding: 5px 10px 3px 25px; margin: 0; background: transparent url('/images/icons/cancel.png') 5px no-repeat; }	
+			
+     .button_submit:hover, .button_draft:hover, .button_cancel:hover { cursor: pointer; color: #660000; }
+     	.button_submit:hover { background: #ffc380; }
+     	.button_draft:hover { background: #ffc380 url('/images/icons/disk.png') 5px no-repeat; }
+     	.button_cancel:hover { background: #ffc380 url('/images/icons/cancel.png') 5px no-repeat; }

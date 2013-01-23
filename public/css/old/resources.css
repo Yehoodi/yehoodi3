@@ -1,0 +1,16 @@
+/* --- PAGE DIVS --- */
+
+#filters { font-size: 8pt; margin-bottom: 10px; }	
+	#filters p { line-height: 2; margin-bottom: 0; padding-left: 10px; }
+	
+/* --- CLASSED ELEMENTS --- */
+	
+dl.resources { border-bottom: 1px solid #c67432; }
+	dt, dd { background: #FFC380; }
+	dt { font-family: "Nobile",sans-serif; border-top: 1px solid #c67432; padding: 5px 5px 0 5px; font-size: 12pt; }
+		dt a:link, dt a:visited { color: #600; text-decoration: none; }
+		dt a:hover { color: #c00; text-decoration: underline; }
+	dd { padding: 0 10px 10px 10px; }
+		dd img.thumb { float: left; margin-right: 10px; background: #fffccc; padding: 2px; border: 1px solid #E5964E; }
+		dd p { font-size: 9pt; min-height: 75px; margin-bottom: 5px; }
+		dd p.date { font-size: 10pt; font-weight: bold; min-height: 0; }

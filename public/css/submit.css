@@ -1,0 +1,104 @@
+@import url("comment.css"); 
+
+#form_submit { margin-bottom: 10px; }
+
+	#form_submit h2 { margin-bottom: 12px; }
+		#form_submit h2:after { content: '\00A0\00BB'; }
+    
+        /* Category */
+        a.a_resourceTypeId { font-size: 11px; margin: 0 6px; padding: 4px; color: #8a2a06; 
+                                border-radius: 3px;
+                                -moz-border-radius: 3px; }
+            #r_1 { margin-left: 0; }
+			a.currentResource { background-color: #fbfaee; text-decoration: none; font-weight: bold; }		
+        
+        /* Title */
+        #input_title { font-size: 16px; width: 510px; }
+		
+        /* Possible matches */
+        #div_containerTitleMatch { margin-left: 135px; width: 500px; height: 150px; overflow-y: scroll; }
+    	#div_containerTitleMatch #a_closeTitleMatch { float: right; font-size: 11px; font-weight: bold; text-decoration: none; color: #333; }
+            #a_closeTitleMatch img { float: left; margin-right: 2px; vertical-align: bottom; }
+    	#div_containerTitleMatch ul { list-style-type: disc; margin: 5px 0 0 36px; }
+    	#div_containerTitleMatch li { margin-bottom: 2px; }
+            
+        /* Enter your message */
+        #div_replyRow { margin-top: 24px; }
+        #div_fieldsReply { padding-bottom: 6px; margin-bottom: 6px; }
+        div#wmd-button-bar { width: 565px; float: right; }
+                ul#wmd-button-row { width: 565px; }
+    		textarea#wmd_input { width: 553px !important; height: 250px; float: right; }
+                                
+        /* Resource URL */
+        #input_url { width: 510px; }
+                        
+        /* Thumbnail */
+        #div_fieldsImage{ margin: 12px 0; border-top: 1px solid #e1d9b9; border-bottom: 1px solid #e1d9b9; padding: 12px 0; }
+            #div_imageContainer { margin-top: 12px; margin-left: 135px; }
+            #input_caption { width: 380px; }
+            #button_imageUpload { font-size: 12px; padding: 5px 12px; }
+                        
+        /* Location */
+        #div_fieldsLocation { margin: 12px 0; border-top: 1px solid #e1d9b9; border-bottom: 1px solid #e1d9b9; padding: 12px 0; }
+            #div_fieldsLocation + #div_fieldsEvent[style^="display: none;"] { background: red; }
+        #div_inputLocationRow { margin-top: 12px; }
+			#input_location { width: 390px; margin-bottom: 7px; vertical-align: top; padding: 5px; }
+			#button_addLocation { width: 150px !important; margin-bottom: 7px; vertical-align: top; font-size: 12px; padding: 5px 12px; }
+            
+			#div_mapContainer { display: block; clear: both; margin: 7px 0 7px 135px; padding: 5px;
+                                width: 555px; 
+                                background-color: #CBBB95; 
+                                border-radius: 3px; 
+                                -moz-border-radius: 3px; 
+                                box-shadow: inset 0 1px 0px #9b8b65;
+            					-moz-box-shadow: inset 0 1px 0px #9b8b65;
+                                -webkit-box-shadow: none; /* 'inset' effect is buggy in Safari/Chrome */ }
+                #div_containerGoogleMap { height: 300px; width: 555px; }
+                    div.locationEmbedded { margin-top: 7px; }
+                    .input_removeLocation { width: auto !important; margin: 12px 0; }
+            
+                #ul_location { margin: 7px 0 7px 135px; padding: 5px;
+                                width: 555px;
+                                background-color: #CBBB95; 
+                                border-radius: 3px; 
+                                -moz-border-radius: 3px; 
+                                box-shadow: inset 0 1px 0px #9b8b65;
+            					-moz-box-shadow: inset 0 1px 0px #9b8b65;
+                                -webkit-box-shadow: none; /* 'inset' effect is buggy in Safari/Chrome */ }
+    	#ul_location li { font-size: 11px; color: #7c522d; padding: 5px; border-bottom: 1px dotted #cfcfcf; background: #fbfaee; }
+    		#ul_location li a.link_googleMap { float: right; }
+    		#ul_location li.primary_location { font-weight: bold; }
+            #ul_location li:first-child { 
+        		border-top-left-radius: 4px; border-top-right-radius: 4px;
+        		-moz-border-radius-topleft: 4px; -moz-border-radius-topright: 4px; }		
+    	    #ul_location li:last-child { border: none; 
+        		border-bottom-left-radius: 4px; border-bottom-right-radius: 4px;
+        		-moz-border-radius-bottomleft: 4px; -moz-border-radius-bottomright: 4px; }
+                
+        /* Podcasts */
+        #div_fieldsExtended { display: block; margin-bottom: 12px; border-bottom: 1px solid #e1d9b9; padding: 0 0 12px 0;  }
+            a#div_extendedHider { display: block; margin-bottom: 12px; background-position: 0 3px; }
+            #div_extendedInfo .row input, #div_extendedInfo .row textarea { width: 510px; }
+            #div_extendedInfo .row span { margin-left: 135px; font-size: 80%; font-style: italic; }
+            #text_shownotes { height: 200px; }
+            #div_album { margin-bottom: 12px; }
+        
+        /* Frim Fram */
+        a#div_extendedFramHider { display: block; border-top: 1px solid #e1d9b9; background-position: 0 15px; padding-top: 12px; }
+        #div_extendedFramInfo .row { margin-top: 12px; }
+        #div_extendedFramInfo .row textarea { width: 510px; }
+        #div_extendedFramInfo .row span { margin-left: 135px; font-size: 80%; font-style: italic; }
+        
+        /* Buttons */
+        #div_fieldsButtons { border-top: 1px solid #e1d9b9; border-bottom: 1px solid #9B8B65; margin: 24px 0; padding: 12px 0 12px 135px; overflow: auto; }
+		    .button_submit, .button_draft { float: left; }
+		    .button_cancel { float: right; }
+        
+		/* Attempt to match preview box to the way the comment will actually appear */
+		#div_preview  { margin-bottom: 6px; }
+            h2#previewSectionTitle { margin-bottom: 12px; }
+				#previewSectionTitle:after { content: '\00A0\00BB'; }
+            #div_preview h2#previewTitle {  font-family: "Georgia",serif; font-size: 24px;
+											color: #333; height: 30px; line-height: 30px; margin-bottom: 17px; 
+											border-bottom: 1px solid rgba(205,189,148,0.75);  }
+                h2#previewTitle a { color: #4e4b50; text-decoration: none; }
