@@ -32,19 +32,19 @@
 <div class="clear">&nbsp;</div>
 <div class="grid_11 alpha faq">
 	<h2>Broadcast Schedule</h2>
-	<p>NOTE: All times are Eastern Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.</p>
+	<p>NOTE: All times are Pacific Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.</p>
     <table>
-        <tr><th colspan="2">Monday, November 26</th></tr>
+        <tr><th colspan="2">Monday, February 11</th></tr>
         <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
     </table>
     <table>
-        <tr><th colspan="2">FINAL SHOW of 2012:<br>Monday, December 10</th></tr>
+        <tr><th colspan="2">Monday, February 25</th></tr>
         <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
     </table>
-    {*<table>*}
-        {*<tr><th colspan="2"></th></tr>*}
-        {*<tr><td>7:30pm</td><td>Broadcast Begins</td></tr>*}
-    {*</table>*}
+    <table>
+        <tr><th colspan="2">Monday March 11</th></tr>
+        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
+    </table>
 </div>
 <div class="grid_5 omega">
 </div>
