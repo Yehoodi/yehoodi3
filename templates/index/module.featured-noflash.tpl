@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-085-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-086-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Mona's Hot Four and more on the January Hey Mister Jesse show.
+            Alex Pangman's new single "Breathe In" on the February Hey Mister Jesse show.
         </td>
     <tr class="">
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-009-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
