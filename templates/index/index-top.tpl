@@ -2,11 +2,11 @@
     <div id="div_flashFeatured">
      	<span id="flashFeatured">
             <object id="flashCarousel" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="200">
-            <param name="FlashVars" value="xmlfile=/flash/featured-content.xml?var=20120115" />
-            <param name="movie" value="/flash/featured-content2.swf?var=20120115" />
+            <param name="FlashVars" value="xmlfile=/flash/featured-content.xml?var=20130212" />
+            <param name="movie" value="/flash/featured-content2.swf?var=20130212" />
             <param name="quality" value="high" />
                 <!--[if !IE]>-->
-                <object type="application/x-shockwave-flash" data="/flash/featured-content2.swf?var=20120115" width="640" height="200">
+                <object type="application/x-shockwave-flash" data="/flash/featured-content2.swf?var=20130212" width="640" height="200">
                 <!--<![endif]-->
             		{include file='index/module.featured-noflash.tpl'}
                 <!--[if !IE]>-->
