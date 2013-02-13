@@ -7,10 +7,10 @@
             Alex Pangman's new single "Breathe In" on the February Hey Mister Jesse show.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-009-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-010-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Wicked smart Lindy Hopper Sommer Gentry and 2012 wrap-up on this special holiday SwingNation.
+            Lindy Hop's ONLY weekly video podcast is back on the air! SwingNation starts now.
         </td>
     </tr>
     </tr>
