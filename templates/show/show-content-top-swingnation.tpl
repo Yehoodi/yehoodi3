@@ -8,7 +8,8 @@
     {include file='show/show-description-swingnation.tpl'}
 
     {if $feed}
-        <p><a href="{$feed}" class="iconText iconFeedLarge">Subscribe</a></p>
+        <p><a href="{$feed}" class="iconText iconFeedLarge">Main video show Subscribe</a></p>
+        <p><a href="http://www.yehoodi.com/rss/swingnation_audio.xml" class="iconText iconFeedLarge">Audio only show Subscribe</a></p>
     {/if}
 
 </div>
