@@ -7,10 +7,10 @@
             Alex Pangman's new single "Breathe In" on the February Hey Mister Jesse show.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-010-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-011-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Lindy Hop's ONLY weekly video podcast is back on the air! SwingNation starts now.
+            Old school show with some B-Boy Shim Sham flavor. SwingNation starts now!
         </td>
     </tr>
     </tr>
