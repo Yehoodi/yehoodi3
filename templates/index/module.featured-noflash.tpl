@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-086-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-087-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Alex Pangman's new single "Breathe In" on the February Hey Mister Jesse show.
+            "Jeep Jockey Jump Around" new mashup from DJ Andy Lewis on Hey Mister Jesse.
         </td>
     <tr class="">
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-012-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
