@@ -10,7 +10,7 @@
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-013-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            The new Swedish dance movie "Dansa Först" on SwingNation episode #12.
+            The new Swedish dance movie "Dansa F&ouml;rst" on SwingNation episode #12.
         </td>
     </tr>
     </tr>
