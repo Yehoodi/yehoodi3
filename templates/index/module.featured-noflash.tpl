@@ -7,10 +7,10 @@
             "Jeep Jockey Jump Around" new mashup from DJ Andy Lewis on Hey Mister Jesse.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-012-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-013-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Afro swing in Mozambique! SwingNation episode #12 starts now!
+            The new Swedish dance movie "Dansa Först" on SwingNation episode #12.
         </td>
     </tr>
     </tr>
