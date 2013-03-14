@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/SN-014-Flash-Feature.png]]></path>
+        <description><![CDATA[Kevin St. Laurent guest hosts on SwingNation episode #14.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-014-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-087-Flash-Feature.png]]></path>
         <description><![CDATA["Jeep Jockey Jump Around" new mashup from DJ Andy Lewis on Hey Mister Jesse.]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-087-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/SN-013-Flash-Feature.png]]></path>
-        <description><![CDATA[The new Swedish dance movie "Dansa Forst" on SwingNation episode #12.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-013-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/Yehoodi_Radio_Modern_Swing.png]]></path>
