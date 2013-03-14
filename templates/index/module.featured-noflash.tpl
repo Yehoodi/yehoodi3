@@ -7,10 +7,10 @@
             "Jeep Jockey Jump Around" new mashup from DJ Andy Lewis on Hey Mister Jesse.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-013-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-014-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            The new Swedish dance movie "Dansa F&ouml;rst" on SwingNation episode #12.
+            Kevin St. Laurent guest hosts on SwingNation episode #14.
         </td>
     </tr>
     </tr>
