@@ -7,10 +7,10 @@
             "Jeep Jockey Jump Around" new mashup from DJ Andy Lewis on Hey Mister Jesse.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-014-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-015-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Kevin St. Laurent guest hosts on SwingNation episode #14.
+            Sarah Breck and Sharon Davis show some "Backbone" on SwingNation episode #15.
         </td>
     </tr>
     </tr>
