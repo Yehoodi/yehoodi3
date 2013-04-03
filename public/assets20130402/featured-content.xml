@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+    <image>
+        <path><![CDATA[/images/featured-content/SN-012-Flash-Feature.png]]></path>
+        <description><![CDATA[Afro swing in Mozambique! SwingNation episode #12 starts now.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-012-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/HMJ-086-Flash-Feature.png]]></path>
+        <description><![CDATA[Alex Pangman?s new single "Breathe In" on the February Hey Mister Jesse show.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-086-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
+		<path><![CDATA[/images/featured-content/Yehoodi_Radio_Modern_Swing.png]]></path>
+		<description><![CDATA[Yehoodi Radio salutes Modern Swinging music this month on Guest DJ Thursdays.]]></description>
+		<thumbnail><![CDATA[/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png]]></thumbnail>
+		<link><![CDATA[/show/radio]]></link>
+	</image>
+</content>
