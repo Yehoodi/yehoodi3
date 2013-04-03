@@ -7,10 +7,10 @@
             "Jeep Jockey Jump Around" new mashup from DJ Andy Lewis on Hey Mister Jesse.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-016-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-017-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            More than thirty seconds of awesome sauce on SwingNation episode #16.
+            Team SwingColumbus, teaching tips and Steve Bailey on SwingNation episode #17.
         </td>
     </tr>
     </tr>
