@@ -1,16 +1,16 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-087-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-088-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            "Jeep Jockey Jump Around" new mashup from DJ Andy Lewis on Hey Mister Jesse.
+            Geoff Bull & The Finer Cuts, The New Orleans Jazz Vipers and The Careless Lovers on Hey Mister Jesse #88.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-017-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-018-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Team SwingColumbus, teaching tips and Steve Bailey on SwingNation episode #17.
+            The Lindy Cubes, Frankie99 updates and chicken jazz dance on SwingNation episode #18.
         </td>
     </tr>
     </tr>
