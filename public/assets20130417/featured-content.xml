@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+    <image>
+        <path><![CDATA[/images/featured-content/SN-019-Flash-Feature.png]]></path>
+        <description><![CDATA[Skye & Naomi in Barcelona plus more cool stuff on SwingNation episode #19.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-019-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/HMJ-088-Flash-Feature.png]]></path>
+        <description><![CDATA[Geoff Bull & The Finer Cuts, The New Orleans Jazz Vipers and The Careless Lovers on Hey Mister Jesse #88.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-088-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/Yehoodi_Radio_Modern_Swing.png]]></path>
+        <description><![CDATA[Yehoodi Radio salutes Modern Swinging music this month on Guest DJ Thursdays.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png]]></thumbnail>
+        <link><![CDATA[/show/radio]]></link>
+    </image>
+</content>
