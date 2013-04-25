@@ -7,10 +7,10 @@
             Geoff Bull & The Finer Cuts, The New Orleans Jazz Vipers and The Careless Lovers on Hey Mister Jesse #88.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-019-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-020-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Skye & Naomi in Barcelona plus more cool stuff on SwingNation episode #19.
+            Interview with Chazz Young for his 80th Birthday on this Special edition of SwingNation: Episode #20.
         </td>
     </tr>
     </tr>
