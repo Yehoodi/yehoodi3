@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-088-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-089-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Geoff Bull & The Finer Cuts, The New Orleans Jazz Vipers and The Careless Lovers on Hey Mister Jesse #88.
+            CDATA[Molly Ryan, The California Honeydrops and Carline Ray this May on Hey Mister Jesse #89.
         </td>
     <tr class="">
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-020-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
