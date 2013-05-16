@@ -7,10 +7,10 @@
             CDATA[Molly Ryan, The California Honeydrops and Carline Ray this May on Hey Mister Jesse #89.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-020-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-022-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Interview with Chazz Young for his 80th Birthday on this Special edition of SwingNation: Episode #20.
+            Support the indie movie effort, SwingX and other bits of awesome on SwingNation #22.
         </td>
     </tr>
     </tr>
