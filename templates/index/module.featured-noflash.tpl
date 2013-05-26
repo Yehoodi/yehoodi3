@@ -7,10 +7,10 @@
             CDATA[Molly Ryan, The California Honeydrops and Carline Ray this May on Hey Mister Jesse #89.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-022-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-023-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Support the indie movie effort, SwingX and other bits of awesome on SwingNation #22.
+            Canada swings, Lindy Bouts and 99 Frankie's on SwingNation #23.
         </td>
     </tr>
     </tr>
