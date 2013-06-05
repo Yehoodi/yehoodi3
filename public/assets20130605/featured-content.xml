@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+    <image>
+        <path><![CDATA[/images/featured-content/SN-025-Flash-Feature.png]]></path>
+        <description><![CDATA[Camp Jitterbug / Jump Session Show wrap-up, legs and all on this week's SwingNation.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-025-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/HMJ-090-Flash-Feature.png]]></path>
+        <description><![CDATA[Laura Windley and Lucian Cobb of the Mint Julep Jazz Band on Hey Mister Jesse #90.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-090-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/Yehoodi_Radio_Swing.png]]></path>
+        <description><![CDATA[Let Yehoodi Radio swing you out all day on Live 365.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/Yehoodi_Radio_Swing_thm.png]]></thumbnail>
+        <link><![CDATA[/show/radio]]></link>
+    </image>
+</content>
