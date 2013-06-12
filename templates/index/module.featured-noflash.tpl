@@ -13,10 +13,10 @@
             Laura Windley and Lucian Cobb of the Mint Julep Jazz Band on Hey Mister Jesse #90.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-025-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-026-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Camp Jitterbug / Jump Session Show wrap-up, legs and all on this week's SwingNation.
+            Will.i.am and The Magnificent Lindidi on the next episode of SwingNation.
         </td>
     </tr>
     </tr>
