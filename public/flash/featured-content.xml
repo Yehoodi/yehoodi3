@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/Livestream-Fundraiser-Template.png]]></path>
+        <description><![CDATA[Help support Yehoodi's campaign to Livestream Lindy Hop events at Indiegogo.com.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/Livestream-Fundraiser-Template_thm.png]]></thumbnail>
+        <link><![CDATA[http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/SN-025-Flash-Feature.png]]></path>
-        <description><![CDATA[Camp Jitterbug / Jump Session Show wrap-up, legs and all, on this week's SwingNation.]]></description>
+        <description><![CDATA[Camp Jitterbug / Jump Session Show wrap-up, legs and all on this week's SwingNation.]]></description>
         <thumbnail><![CDATA[/images/featured-content/SN-025-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
     </image>
