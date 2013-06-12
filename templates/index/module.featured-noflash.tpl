@@ -1,16 +1,22 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
+    <tr class="">
+        <td class="thumbnail"><a href="http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/"><img src="/images/featured-content/Livestream-Fundraiser-Template_thm.png" alt="Livestream Lindy Hop" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/heymisterjesse">Livestream Lindy Hop</a></strong><br />
+            Help support Yehoodi's campaign to Livestream Lindy Hop events at Indiegogo.com.
+        </td>
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-089-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-090-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            CDATA[Molly Ryan, The California Honeydrops and Carline Ray this May on Hey Mister Jesse #89.
+            Laura Windley and Lucian Cobb of the Mint Julep Jazz Band on Hey Mister Jesse #90.
         </td>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-023-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-025-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Canada swings, Lindy Bouts and 99 Frankie's on SwingNation #23.
+            Camp Jitterbug / Jump Session Show wrap-up, legs and all on this week's SwingNation.
         </td>
     </tr>
     </tr>
