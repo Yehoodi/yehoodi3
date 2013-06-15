@@ -5,6 +5,7 @@ demos/
 extras/documentation
 application/config/config.ini
 public/dummy.php
+public/index.php
 .DS_Store
 .idea/
 .idea/*
