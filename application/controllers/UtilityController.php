@@ -391,10 +391,10 @@ class UtilityController extends CustomControllerAction
 		}
 		return (round($distance,2));
 	}
-	
+
     /**
      * Clean up stuff from the outside world
-     * 
+     *
      * Note: This is stolen from the FromProcessor
      *
      * @param string $value
@@ -402,7 +402,7 @@ class UtilityController extends CustomControllerAction
      */
 	public static function sanitize($value)
     {
-        if (!$sanitizeChain instanceof Zend_Filter) {
+        if (!$value instanceof Zend_Filter) {
             $sanitizeChain = new Zend_Filter();
             $sanitizeChain->addFilter(new Zend_Filter_StringTrim())
                                  ->addFilter(new Zend_Filter_StripTags());
@@ -412,6 +412,7 @@ class UtilityController extends CustomControllerAction
         $ret = preg_replace('/[\r\n]+/', ' ', $value);
 
         // filter using the above chain
+
         return $sanitizeChain->filter($ret);
     }
 }

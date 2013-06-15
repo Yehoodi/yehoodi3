@@ -252,7 +252,7 @@ class CalendarController extends CustomControllerAction
      * Renders the calendar page
      *
      */
-    public function render()
+    public function render($action = null, $name = null, $noController = false)
     {
         if ($this->_request->isXmlHttpRequest()) {
 
