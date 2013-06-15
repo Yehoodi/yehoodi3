@@ -132,6 +132,9 @@ class MailController extends CustomControllerAction
     {
 		// vars
 		$recipient = null;
+        $threadId = 0;
+        $mailThread = null;
+        $mailSubject = null;
         
         // Get the page params
 		$params = $this->_request->getParams();

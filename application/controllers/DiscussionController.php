@@ -399,7 +399,7 @@ class DiscussionController extends CustomControllerAction
      * Renders the pages for browsing
      *
      */
-    public function render()
+    public function render($action = null, $name = null, $noController = false)
     {
 	    // Do regular topic type code
         //Zend_Debug::dump($this->resourceOptions);
