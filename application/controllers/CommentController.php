@@ -128,7 +128,7 @@ class CommentController extends CustomControllerAction
         $this->render();
     }
 
-	public function render()
+	public function render($action = null, $name = null, $noController = false)
 	{
 		// Get the paramaters from the request url
 		$request = $this->getRequest();
