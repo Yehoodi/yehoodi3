@@ -7,6 +7,7 @@
 class CommentajaxController extends CustomControllerAction 
 {
 	public $commentId;
+    public $identity;
 	const LASTCOMMENT_CACHE_KEY_TIME = 3600; // 1 hour
 
 	public function init()
@@ -30,7 +31,7 @@ class CommentajaxController extends CustomControllerAction
 	public function showreplyboxAction()
 	{
 		//if($this->ajaxPass->verifyPassword() && $this->identity > 0) {
-		if($this->identity > 0 && $this->_request->isXmlHttpRequest()) {
+		if($this->identity && $this->_request->isXmlHttpRequest()) {
 		
 	        $templater = new Templater();
 			$tpl = 'comment-reply-box.tpl';
@@ -63,7 +64,7 @@ class CommentajaxController extends CustomControllerAction
 	 */
 	public function getwmdjavascriptAction()
 	{
-		if($this->identity > 0 && $this->_request->isXmlHttpRequest()) {
+		if($this->identity && $this->_request->isXmlHttpRequest()) {
 		
 	        $templater = new Templater();
 			$tpl = 'module.wmd-javascript.tpl';
@@ -82,7 +83,7 @@ class CommentajaxController extends CustomControllerAction
 
 	public function updatereplyusernameAction()
 	{
-		if($this->identity > 0 && $this->_request->isXmlHttpRequest()) {
+		if($this->identity && $this->_request->isXmlHttpRequest()) {
 	        
 	        $templater = new Templater();
 			$tpl = 'comment-original-author.tpl';
@@ -128,7 +129,7 @@ class CommentajaxController extends CustomControllerAction
 	 */
 	public function updatereplycommentAction()
 	{
-		if($this->identity > 0 && $this->_request->isXmlHttpRequest()) {
+		if($this->identity && $this->_request->isXmlHttpRequest()) {
 	        
 	        $templater = new Templater();
 			$tpl = 'comment-excerpt.tpl';
@@ -188,7 +189,7 @@ class CommentajaxController extends CustomControllerAction
 	 */
 	public function updatequotedcommentAction()
 	{
-		if($this->identity > 0 && $this->_request->isXmlHttpRequest()) {
+		if($this->identity && $this->_request->isXmlHttpRequest()) {
 	        
 	        $templater = new Templater();
 			$tpl = 'comment-quote.tpl';
@@ -234,7 +235,7 @@ class CommentajaxController extends CustomControllerAction
 
 	public function updateresourceusernameAction()
 	{
-		if($this->identity > 0 && $this->_request->isXmlHttpRequest()) {
+		if($this->identity && $this->_request->isXmlHttpRequest()) {
 	        
 			$replyToCommentId = (int) $this->_request->getParam('comment_id');
 	
