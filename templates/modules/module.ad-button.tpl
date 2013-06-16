@@ -1,4 +1,8 @@
-<div id="div_callOuts"><a href="{geturl controller='show'}radio"><img src="/images/graphics/yehoodi-radio-callout.gif" alt="Yehoodi Radio - Listen 24 hours a day!" /></a></div>
+<div id="div_callOuts">
+    <a href="{geturl controller='show'}radio">
+        <img src="/images/graphics/yehoodi-radio-callout.gif" alt="Yehoodi Radio - Listen 24 hours a day!" />
+    </a>
+</div>
 
 <div id="div_buttonAds">
 {*<script type='text/javascript'><!--// <![CDATA[*}
