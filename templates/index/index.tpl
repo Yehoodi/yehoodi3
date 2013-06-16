@@ -3,13 +3,14 @@
 <h1 class="hidden">{$title|escape}</h1>
 
 {include file='index/index-top.tpl'}
-{include file='modules/module.ad-banner.tpl'}
+{*{include file='modules/module.live-banner.tpl'}*}
+{include file='modules/module.static-banner.tpl'}
 {include file='index/index-middle.tpl'}
 {include file='index/index-bottom.tpl'}
 
 {include file='footer.tpl'}
 
-{*
+{* -- Enable ths for Live Banner serving --
 <div id="div_bannerAds" class="grid_12">
      <script type='text/javascript'><!--// <![CDATA[
          /* [id1] Yehoodi 3 - Full Banner */

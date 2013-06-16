@@ -2,7 +2,7 @@
 <h1>Colophon: Yehoodi.com</h1>
 <div class="grid_16 text alpha">
     <p>The Yehoodi team utilizes a variety of technologies and tools in the construction and maintenance of this website. Here we outline a few of them.</p>
-    <p>The Yehoodi team has included a <a href="/help/roadmap">development roadmap</a> for the community to follow. We will be providing community access to bug tracking and release notes soon. <a href="/help/faq/">Watch the FAQ</a> for more information.</p>
+    {*<p>The Yehoodi team has included a <a href="/help/roadmap">development roadmap</a> for the community to follow. We will be providing community access to bug tracking and release notes soon. <a href="/help/faq/">Watch the FAQ</a> for more information.</p>*}
 </div>
 <div class="clear">&nbsp;</div>
 <div class="grid_11 text alpha">
