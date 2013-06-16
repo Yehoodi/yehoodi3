@@ -21,6 +21,6 @@ class ClosedController extends CustomControllerAction
         
         // Render!
         //$this->_helper->viewRenderer('index');
-        $this->_helper->viewRenderer('sopa');
+        $this->_helper->viewRenderer('index');
     }
 }
