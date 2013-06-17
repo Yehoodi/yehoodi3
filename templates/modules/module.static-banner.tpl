@@ -1,7 +1,7 @@
 <div id="div_banner">
     <a href="/frimfram/">
         <img
-                src="/images/banners/fram-banner1.gif"
+                src="/images/banners/FCshang-anim061613"
                 title="The Frim Fram Jam - Lindy Hop Dance"
                 alt="The Frim Fram Jam - Lindy Hop Dance"
         />
