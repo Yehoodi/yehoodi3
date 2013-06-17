@@ -1,5 +1,5 @@
 <div id="div_banner">
-    <a href="/frimfram/">
+    <a href="http://www.thesalon.biz/serenade" target="_blank">
         <img
                 src="/images/banners/FCshang-anim061613"
                 title="The Frim Fram Jam - Lindy Hop Dance"
