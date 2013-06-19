@@ -34,17 +34,17 @@
 	<h2>Broadcast Schedule</h2>
 	<p>NOTE: All times are Pacific Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.</p>
     <table>
-        <tr><th colspan="2">Monday, February 11</th></tr>
-        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
+        <tr><th colspan="2">Monday, June 24</th></tr>
+        <tr><td>7:30pm</td><td>Final Show for Season 2! Broadcast Begins</td></tr>
     </table>
-    <table>
-        <tr><th colspan="2">Monday, February 25</th></tr>
-        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
-    </table>
-    <table>
-        <tr><th colspan="2">Monday March 11</th></tr>
-        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
-    </table>
+    {*<table>*}
+        {*<tr><th colspan="2">Monday, February 25</th></tr>*}
+        {*<tr><td>7:30pm</td><td>Broadcast Begins</td></tr>*}
+    {*</table>*}
+    {*<table>*}
+        {*<tr><th colspan="2">Monday March 11</th></tr>*}
+        {*<tr><td>7:30pm</td><td>Broadcast Begins</td></tr>*}
+    {*</table>*}
 </div>
 <div class="grid_5 omega">
 </div>
