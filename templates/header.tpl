@@ -109,7 +109,8 @@
      </div> <!-- #div_header -->
      
      {if $controller != 'index' && $controller != 'ilhc'}
-         {include file='modules/module.live-banner.tpl'}
+         {*{include file='modules/module.live-banner.tpl'}*}
+         {include file='modules/module.static-banner.tpl'}
      {/if}
      
      <div id="div_content" class="container_16 content_{$section}">
