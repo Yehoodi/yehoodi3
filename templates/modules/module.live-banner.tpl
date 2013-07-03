@@ -1,9 +1,14 @@
 <div id="div_banner">
-	<script type='text/javascript'><!--// <![CDATA[
-        /* [id1] Yehoodi 3 Site - Full Banner */
-        OA_show(1);
-    // ]]> -->
-    </script><noscript><a target='_blank' href='http://yehoodi.com/openads/www/delivery/ck.php?n=5428b2b'><img border='0' alt='' src='http://yehoodi.com/openads/www/delivery/avw.php?zoneid=1&amp;n=5428b2b' /></a></noscript>
+    <script type="text/javascript">
+        var sppc_site      = '20';
+        var sppc_channel   = '57';
+        var sppc_dimension = '2';
+        var sppc_width     = '468';
+        var sppc_height    = '60';
+        var sppc_palette   = '1';
+        var sppc_user      = '1';
+    </script>
+    <script type="text/javascript" src="http://yehoodi.com/ads/show.js"></script>
 	&nbsp;&nbsp;&nbsp;
 	<a id="a_yehoodiRadio" href="{geturl controller='show'}radio">
 		<img src="/images/graphics/yehoodi-radio-callout.png" alt="Yehoodi Radio - Listen 24 hours a day!" />
