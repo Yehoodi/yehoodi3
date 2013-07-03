@@ -1,26 +1,26 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
-    <tr class="">
+    <tr class="alt">
         <td class="thumbnail"><a href="http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/"><img src="/images/featured-content/Livestream-Fundraiser-Template_thm.png" alt="Livestream Lindy Hop" /></a></td>
         <td class="topic">
             <strong><a href="http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/">Livestream Lindy Hop</a></strong><br />
             Help support Yehoodi's campaign to Livestream Lindy Hop events at Indiegogo.com.
         </td>
+    <tr class="">
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-029-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
+            "Swing of Change" video plus Lindy Hop hazing and more great dancing clips on the season finale of SwingNation.
+        </td>
+    </tr>
     <tr class="alt">
         <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-090-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
             Laura Windley and Lucian Cobb of the Mint Julep Jazz Band on Hey Mister Jesse #90.
         </td>
+    </tr>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-027-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            We've got Mikey Pedroza and Ann Mony on the next episode of SwingNation.
-        </td>
-    </tr>
-    </tr>
-    <tr class="alt">
         <td class="thumbnail"><a href="/show/radio"><img src="/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png" alt="Yehoodi Radio" /></a></td>
         <td class="topic">
             <strong><a href="/show/radio">Yehoodi Radio</a></strong><br />
