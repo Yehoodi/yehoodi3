@@ -120,17 +120,18 @@
     $day =  $date->format('D');
 
     $shows = array(
-        '2013-05-06',
-        '2013-05-20',
-        '2013-06-03',
-        '2013-06-17',
-        '2013-06-24',
+        '2013-09-09',
+        '2013-09-23',
+        '2013-10-07',
+        '2013-10-21',
+        '2013-11-04',
     );
 
     $time = $date->format('H:i:s');
     //$time = '22:45:00';
 
-    if (in_array($date->format('Y-m-d'), $shows) && $time >= '22:00:00' && $time <= '23:50:00') {
+    if (1 == 1) {
+//    if (in_array($date->format('Y-m-d'), $shows) && $time >= '22:00:00' && $time <= '23:50:00') {
         // LIVE SHOW
         $swingnationRoute = new Zend_Controller_Router_Route('swingnation/*',
             array('controller'	=> 'swingnation',
