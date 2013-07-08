@@ -109,8 +109,15 @@
      </div> <!-- #div_header -->
      
      {if $controller != 'index' && $controller != 'ilhc'}
-         {*{include file='modules/module.live-banner.tpl'}*}
-         {include file='modules/module.static-banner.tpl'}
+
+         {assign var=randomNumber value=1|rand:2}
+
+         {if $randomNumber eq 2}
+             {include file='modules/module.live-banner.tpl'}
+         {else}
+             {include file='modules/module.static-banner.tpl'}
+         {/if}
+
      {/if}
      
      <div id="div_content" class="container_16 content_{$section}">
