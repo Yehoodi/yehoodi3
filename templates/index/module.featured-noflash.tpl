@@ -14,10 +14,10 @@
         </td>
     </tr>
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-090-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-091-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Laura Windley and Lucian Cobb of the Mint Julep Jazz Band on Hey Mister Jesse #90.
+            Kiya Lacey, Tin Cup Serenade and the Roseneath Centennial Ragtime Band on Hey Mister Jesse.
         </td>
     </tr>
     <tr class="">
