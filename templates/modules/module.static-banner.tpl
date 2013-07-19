@@ -1,9 +1,9 @@
 <div id="div_banner">
-    <a href="http://www.thesalon.biz/serenade" target="_blank">
+    <a href="/frimfram" target="_self">
         <img
-                src="/images/banners/FCshang-anim061613"
-                title="Forbidden City Shanghai"
-                alt="Forbidden City Shanghai"
+                src="/images/banners/fram-banner1.gif"
+                title="Frim Fram Jam"
+                alt="Frim Fram Jam, NY"
         />
     </a>
     &nbsp;&nbsp;&nbsp;
