@@ -1,11 +1,5 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
-    <tr class="alt">
-        <td class="thumbnail"><a href="http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/"><img src="/images/featured-content/Livestream-Fundraiser-Template_thm.png" alt="Livestream Lindy Hop" /></a></td>
-        <td class="topic">
-            <strong><a href="http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/">Livestream Lindy Hop</a></strong><br />
-            Help support Yehoodi's campaign to Livestream Lindy Hop events at Indiegogo.com.
-        </td>
     <tr class="">
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-029-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
