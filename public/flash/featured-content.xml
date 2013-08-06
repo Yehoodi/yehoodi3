@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <!--<image>-->
-        <!--<path><![CDATA[/images/featured-content/Livestream-Fundraiser-Template.png]]></path>-->
-        <!--<description><![CDATA[Help support Yehoodi's campaign to Livestream Lindy Hop events at Indiegogo.com.]]></description>-->
-        <!--<thumbnail><![CDATA[/images/featured-content/Livestream-Fundraiser-Template_thm.png]]></thumbnail>-->
-        <!--<link><![CDATA[http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/]]></link>-->
+    <!--<path><![CDATA[/images/featured-content/Livestream-Fundraiser-Template.png]]></path>-->
+    <!--<description><![CDATA[Help support Yehoodi's campaign to Livestream Lindy Hop events at Indiegogo.com.]]></description>-->
+    <!--<thumbnail><![CDATA[/images/featured-content/Livestream-Fundraiser-Template_thm.png]]></thumbnail>-->
+    <!--<link><![CDATA[http://www.indiegogo.com/projects/livestreaming-lindy-hop-from-ilhc-to-the-world/]]></link>-->
     <!--</image>-->
     <image>
-        <path><![CDATA[/images/featured-content/HMJ-091-Flash-Feature.png]]></path>
-        <description><![CDATA[Kiya Lacey, Tin Cup Serenade and the Roseneath Centennial Ragtime Band on Hey Mister Jesse.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-091-Flash-Feature_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/HMJ-092-Flash-Feature.png]]></path>
+        <description><![CDATA[A feature on legendary saxophonist Paul "Hucklebuck" Williams and lots more on Hey Mister Jesse.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-092-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
