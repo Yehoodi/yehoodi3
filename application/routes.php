@@ -108,8 +108,8 @@
 
 	// Set up the route for the ilhc page
 	$ilhcRoute = new Zend_Controller_Router_Route('ilhc/*',
-												array('controller'	=> 'show',
-													  'action'		=> 'ilhc2012',
+												array('controller'	=> 'ilhc',
+													  'action'		=> 'index',
 													  'page'       	=> ''
 													  )
 											 );
