@@ -1,12 +1,12 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
-    <tr class="">
-        <td class="thumbnail"><a href="/ilhc"><img src="/images/featured-content/ILHC-Carousel-Banner_thm.png" alt="Yehoodi Talk Show" /></a></td>
-        <td class="topic">
-            <strong><a href="/ilhc">ILHC 2013 Live Broadcast</a></strong><br />
-            Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!
-        </td>
-    </tr>
+    {*<tr class="">*}
+        {*<td class="thumbnail"><a href="/ilhc"><img src="/images/featured-content/ILHC-Carousel-Banner_thm.png" alt="Yehoodi Talk Show" /></a></td>*}
+        {*<td class="topic">*}
+            {*<strong><a href="/ilhc">ILHC 2013 Live Broadcast</a></strong><br />*}
+            {*Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!*}
+        {*</td>*}
+    {*</tr>*}
     <tr class="alt">
         <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-092-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">

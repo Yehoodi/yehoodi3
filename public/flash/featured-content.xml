@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
-    <image>
-        <path><![CDATA[/images/featured-content/ILHC-Carousel-Banner.png]]></path>
-        <description><![CDATA[Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!]]></description>
-        <thumbnail><![CDATA[/images/featured-content/ILHC-Carousel-Banner_thm.png]]></thumbnail>
-        <link><![CDATA[http://www.yehoodi.com/ilhc]]></link>
-    </image>
+    <!--<image>-->
+        <!--<path><![CDATA[/images/featured-content/ILHC-Carousel-Banner.png]]></path>-->
+        <!--<description><![CDATA[Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!]]></description>-->
+        <!--<thumbnail><![CDATA[/images/featured-content/ILHC-Carousel-Banner_thm.png]]></thumbnail>-->
+        <!--<link><![CDATA[http://www.yehoodi.com/ilhc]]></link>-->
+    <!--</image>-->
     <image>
         <path><![CDATA[/images/featured-content/HMJ-092-Flash-Feature.png]]></path>
         <description><![CDATA[A feature on legendary saxophonist Paul "Hucklebuck" Williams and lots more on Hey Mister Jesse.]]></description>
