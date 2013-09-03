@@ -17,6 +17,7 @@ class ShowController extends CustomControllerAction
 	const SHOW_SAUSAGEBEAVER       = 'SFBL'; // Sausage Fest / Beaver Lodge
 	const SHOW_SWINGNATION		   = 'SWN';
 	const SHOW_ILHC2012 		   = 'ILHA';
+	const SHOW_ILHC2013 		   = 'ILHB';
 
 	public function init()
 	{
@@ -162,6 +163,21 @@ class ShowController extends CustomControllerAction
         $this->view->showTitle = 'International Lindy Hop Championships 2012 Live Coverage';
         $this->view->showCode = self::SHOW_ILHC2012 ;
         $this->view->showURL = 'ilhc2012?episode=';
+
+        $this->renderPage();
+    }
+
+	public function ilhc2013Action()
+    {
+        // Get the rsrc_ids for the shows
+        $options = array('show_code' => self::SHOW_ILHC2013
+                         );
+        $this->shows = DatabaseObject_Resource::getResourcesByShowCode($this->db, $options);
+
+        // Assign to smarty
+        $this->view->showTitle = 'International Lindy Hop Championships 2013 Live Coverage';
+        $this->view->showCode = self::SHOW_ILHC2013;
+        $this->view->showURL = 'ilhc2013?episode=';
 
         $this->renderPage();
     }

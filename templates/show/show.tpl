@@ -9,6 +9,8 @@
 		 {include file='show/show-content-top-swingnation.tpl'}
 	 {elseif $showCode == 'ILHA'}
 		 {include file='show/show-content-top-ilhc2012.tpl'}
+	 {elseif $showCode == 'ILHB'}
+		 {include file='show/show-content-top-ilhc2013.tpl'}
      {else}
          {include file='show/show-content-top.tpl'}
      {/if}
