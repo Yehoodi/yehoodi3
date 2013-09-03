@@ -25,6 +25,29 @@
 <div class="clear">&nbsp;</div>
 
 <div class="grid_8 alpha text showBlock">
+    <h2 class="showTitle">ILHC 2012 Live Coverage</h2>
+    <div class="grid_3 alpha" style="height: 190px;">
+        <a href="{geturl controller='show'}ilhc2012"><img class="showLogo" src="/images/graphics/ILHClogo120x120.png" alt="ILHC 2012 Live Coverage" title="ILHC 2012 Live Coverage" /></a>
+    </div>
+    <div class="grid_5 omega">
+        <p>Watch the live coverage of the International Lindy Hop Championships 2012 in Arlington, VA as presented by the Yehoodi crew.</p>
+        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2012">ILHC Live Coverage</a></p>
+    </div>
+</div>
+
+<div class="grid_7 omega text showBlock">
+    <h2 class="showTitle">ILHC 2013 Live Coverage</h2>
+    <div class="grid_3 alpha">
+        <a href="{geturl controller='show'}ilhc2013"><img class="showLogo" src="/images/graphics/2013_ILHC_Open_FinalTitle_small.png" alt="ILHC 2013 Live Coverage" title="ILHC 2013 Live Coverage" /></a>
+    </div>
+    <div class="grid_4 omega">
+        <p>Watch the live coverage of the International Lindy Hop Championships 2013 in Arlington, VA as presented by the Yehoodi crew. This time in full HD.</p>
+        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2013">ILHC 2013 Live Coverage.</a></p>
+    </div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="grid_8 alpha text showBlock">
     <h2 class="showTitle">Sausage Fest/Beaver Lodge</h2>
     <div class="grid_3 alpha">
         <a href="{geturl controller='show'}sausagebeaver"><img class="showLogo" src="/images/graphics/SF-BL_small.png" alt="Sausage Fest/Beaver Lodge" title="Sausage Fest/Beaver Lodge" /></a>
@@ -66,52 +89,6 @@
     <div class="grid_4 omega">
 	    <p>The Yehoodi Talk Show brings the latest swing news, interviews and general silliness to your desktop. Join the Yehoodi crew as they chat about anything that does and doesn't swing.</p>
 	    <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}yehoodivideo">Watch Yehoodi Talk Show Video Edition</a></p>
-    </div>
-</div>
-<div class="clear">&nbsp;</div>
-
-<div class="grid_8 alpha text showBlock">
-    <h2 class="showTitle">ILHC 2012 Live Coverage</h2>
-    <div class="grid_3 alpha" style="height: 190px;">
-        <a href="{geturl controller='show'}ilhc2012"><img class="showLogo" src="/images/graphics/ILHClogo120x120.png" alt="ILHC 2012 Live Coverage" title="ILHC 2012 Live Coverage" /></a>
-    </div>
-    <div class="grid_5 omega">
-        <p>Watch the live coverage of the International Lindy Hop Championships 2012 in Arlington, VA as presented by the Yehoodi crew.</p>
-        <p><a class="iconText iconSpeakerLarge" href="{geturl controller='show'}ilhc2012">ILHC Live Coverage</a></p>
-    </div>
-</div>
-
-<div class="grid_7 omega text showBlock">
-    <h2 class="showTitle">The Adventures of Lindyman!</h2>
-    <div class="grid_3 alpha">
-        <a href="{geturl controller='show'}lindyman"><img class="showLogo" src="/images/graphics/Lindyman_150px.png" alt="The Adventures of Lindyman" title="The Adventures of Lindyman" /></a>
-    </div>
-    <div class="grid_4 omega">
-	    <p>Faster than 331 beats per minute, more soul than James Brown, able to flip tall follows in a single bound...it's swings first and only super hero: it's Lindyman!!</p>
-        <p><a class="iconText iconSpeakerLarge" href="{geturl controller='show'}lindyman">Listen to the Lindyman series.</a></p>
-    </div>
-</div>
-<div class="clear">&nbsp;</div>
-
-<div class="grid_8 alpha text showBlock">
-    <h2 class="showTitle">ILHC 2012 Live Coverage</h2>
-    <div class="grid_3 alpha" style="height: 190px;">
-        <a href="{geturl controller='show'}ilhc2012"><img class="showLogo" src="/images/graphics/ILHClogo120x120.png" alt="ILHC 2012 Live Coverage" title="ILHC 2012 Live Coverage" /></a>
-    </div>
-    <div class="grid_5 omega">
-        <p>Watch the live coverage of the International Lindy Hop Championships 2012 in Arlington, VA as presented by the Yehoodi crew.</p>
-        <p><a class="iconText iconSpeakerLarge" href="{geturl controller='show'}ilhc2012">ILHC Live Coverage</a></p>
-    </div>
-</div>
-
-<div class="grid_7 omega text showBlock">
-    <h2 class="showTitle">ILHC 2013 Live Coverage</h2>
-    <div class="grid_3 alpha">
-        <a href="{geturl controller='show'}ilhc2013"><img class="showLogo" src="/images/graphics/2013_ILHC_Open_FinalTitle_small.png" alt="ILHC 2013 Live Coverage" title="ILHC 2013 Live Coverage" /></a>
-    </div>
-    <div class="grid_4 omega">
-	    <p>Watch the live coverage of the International Lindy Hop Championships 2013 in Arlington, VA as presented by the Yehoodi crew. This time in full HD.</p>
-        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2013">ILHC 2013 Live Coverage.</a></p>
     </div>
 </div>
 <div class="clear">&nbsp;</div>
