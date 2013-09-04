@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
-    <!--<image>-->
-        <!--<path><![CDATA[/images/featured-content/ILHC-Carousel-Banner.png]]></path>-->
-        <!--<description><![CDATA[Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!]]></description>-->
-        <!--<thumbnail><![CDATA[/images/featured-content/ILHC-Carousel-Banner_thm.png]]></thumbnail>-->
-        <!--<link><![CDATA[http://www.yehoodi.com/ilhc]]></link>-->
-    <!--</image>-->
     <image>
-        <path><![CDATA[/images/featured-content/HMJ-092-Flash-Feature.png]]></path>
-        <description><![CDATA[A feature on legendary saxophonist Paul "Hucklebuck" Williams and lots more on Hey Mister Jesse.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-092-Flash-Feature_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/HMJ-093-Flash-Feature.png]]></path>
+        <description><![CDATA[Meschiya Lake & The Little Big Horns, Glenn Crytzer's Savoy Seven and more on Hey Mister Jesse.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-093-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
-        <path><![CDATA[/images/featured-content/SN-029-Flash-Feature.png]]></path>
-        <description><![CDATA["Swing of Change" video, Lindy Hop hazing and more great dancing clips on the season finale of SwingNation.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-029-Flash-Feature_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/SN-GENERIC-Flash-Feature.png]]></path>
+        <description><![CDATA[SwingNation, the weekly Lindy Hop Show returns! Live show taping Monday September 9, 7:30pm Pacific.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-GENERIC-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
@@ -24,4 +18,10 @@
         <thumbnail><![CDATA[/images/featured-content/Yehoodi_Radio_Swing_thm.png]]></thumbnail>
         <link><![CDATA[/show/radio]]></link>
     </image>
+    <!--<image>-->
+    <!--<path><![CDATA[/images/featured-content/ILHC-Carousel-Banner.png]]></path>-->
+    <!--<description><![CDATA[Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!]]></description>-->
+    <!--<thumbnail><![CDATA[/images/featured-content/ILHC-Carousel-Banner_thm.png]]></thumbnail>-->
+    <!--<link><![CDATA[http://www.yehoodi.com/ilhc]]></link>-->
+    <!--</image>-->
 </content>
