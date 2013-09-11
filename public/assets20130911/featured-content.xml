@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/SN-030-Flash-Feature.png]]></path>
+        <description><![CDATA[The gang is back for more! Check out the latest edition of SwingNation now!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-030-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-093-Flash-Feature.png]]></path>
         <description><![CDATA[Meschiya Lake & The Little Big Horns, Glenn Crytzer?s Savoy Seven and more on Hey Mister Jesse.]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-093-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/SN-029-Flash-Feature.png]]></path>
-        <description><![CDATA["Swing of Change" video, Lindy Hop hazing and more great dancing clips on the season finale of SwingNation.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-029-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/Yehoodi_Radio_Swing.png]]></path>
