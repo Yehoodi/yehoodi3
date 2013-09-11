@@ -15,10 +15,10 @@
         </td>
     </tr>
     <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-GENERIC-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-030-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            SwingNation, the weekly Lindy Hop Show returns! Live show taping Monday September 9, 7:30pm Pacific.
+            The gang is back for more! Check out the latest edition of SwingNation now!
         </td>
     </tr>
     <tr class="alt">
