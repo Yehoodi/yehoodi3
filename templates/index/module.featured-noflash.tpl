@@ -8,17 +8,17 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-031-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
+            Winners of the Jazz Dance Film Festival and Bill Nye the Dancing Guy on the next SwingNation
+        </td>
+    </tr>
+    <tr class="">
         <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-093-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
             Meschiya Lake & The Little Big Horns, Glenn Crytzer's Savoy Seven and more on Hey Mister Jesse.
-        </td>
-    </tr>
-    <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-030-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            The gang is back for more! Check out the latest edition of SwingNation now!
         </td>
     </tr>
     <tr class="alt">
