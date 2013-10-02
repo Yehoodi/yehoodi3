@@ -8,10 +8,10 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-032-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-033-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Chicago created another amazing iCharleston video and more on the next SwingNation
+            Thomas Blacharz, iCharleston Copenhagen and SteamPunk Balboa on SwingNation episode #33.
         </td>
     </tr>
     <tr class="">
