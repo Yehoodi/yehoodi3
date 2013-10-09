@@ -8,17 +8,17 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-033-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-034-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Thomas Blacharz, iCharleston Copenhagen and SteamPunk Balboa on SwingNation episode #33.
+            TEDx talk on Lindy Hop, rubber-bands and Kevin St. Laurent co-hosts on SwingNation episode #34.
         </td>
     </tr>
     <tr class="">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-093-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-094-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Meschiya Lake & The Little Big Horns, Glenn Crytzer's Savoy Seven and more on Hey Mister Jesse.
+            Naomi Uyama interview, Gordon Webster new CD and more on Hey Mister Jesse #94.
         </td>
     </tr>
     <tr class="alt">
