@@ -34,15 +34,23 @@
     <h2>Broadcast Schedule</h2>
     <p>NOTE: All times are Pacific Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.</p>
     <table>
-        <tr><th colspan="2">Monday, September 9</th></tr>
-        <tr><td>7:30pm</td><td>First show for Seaeon #3! Broadcast Begins</td></tr>
-    </table>
-    <table>
-        <tr><th colspan="2">Monday, September 23</th></tr>
+        <tr><th colspan="2">Monday, October 21</th></tr>
         <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
     </table>
     <table>
-        <tr><th colspan="2">Monday October 7</th></tr>
+        <tr><th colspan="2">Monday, November 4</th></tr>
+        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
+    </table>
+    <table>
+        <tr><th colspan="2">Monday November 18</th></tr>
+        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
+    </table>
+    <table>
+        <tr><th colspan="2">Monday December 2</th></tr>
+        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
+    </table>
+    <table>
+        <tr><th colspan="2">Monday December 16</th></tr>
         <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
     </table>
 </div>
