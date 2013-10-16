@@ -8,10 +8,10 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-034-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-035-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            TEDx talk on Lindy Hop, rubber-bands and Kevin St. Laurent co-hosts on SwingNation episode #34.
+            Exclusive interview with the amazing Annie Trudeau and more on SwingNation episode #35.
         </td>
     </tr>
     <tr class="">
