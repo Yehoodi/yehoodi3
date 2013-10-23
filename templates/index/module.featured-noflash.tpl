@@ -8,10 +8,10 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-035-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-036-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Exclusive interview with the amazing Annie Trudeau and more on SwingNation episode #35.
+            Go to Lindy Hop School with Bobby White's Swing 101 on SwingNation episode #36.
         </td>
     </tr>
     <tr class="">
