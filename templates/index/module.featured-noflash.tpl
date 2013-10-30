@@ -8,10 +8,10 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-036-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-037-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Go to Lindy Hop School with Bobby White's Swing 101 on SwingNation episode #36.
+            Kerry Washington does Lindy for Dave Letterman on this scary edition of SwingNation.
         </td>
     </tr>
     <tr class="">
