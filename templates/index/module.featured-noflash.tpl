@@ -8,17 +8,17 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-037-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-038-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Kerry Washington does Lindy for Dave Letterman on this scary edition of SwingNation.
+            Talk to the creators of I Charleston Huntsville on the next edition of SwingNation.
         </td>
     </tr>
     <tr class="">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-094-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-095-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Naomi Uyama interview, Gordon Webster new CD and more on Hey Mister Jesse #94.
+            8-Count Swing spotlight on Lillian Boutté and more on Hey Mister Jesse #95.
         </td>
     </tr>
     <tr class="alt">
