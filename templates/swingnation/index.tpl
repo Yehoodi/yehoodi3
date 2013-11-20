@@ -34,16 +34,8 @@
     <h2>Broadcast Schedule</h2>
     <p>NOTE: All times are Pacific Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.</p>
     <table>
-        <tr><th colspan="2">Monday November 18</th></tr>
-        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
-    </table>
-    <table>
         <tr><th colspan="2">Monday December 2</th></tr>
-        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
-    </table>
-    <table>
-        <tr><th colspan="2">Monday December 16</th></tr>
-        <tr><td>7:30pm</td><td>Broadcast Begins</td></tr>
+        <tr><td>7:30pm</td><td>Final Broadcast Begins!</td></tr>
     </table>
 </div>
 <div class="grid_6 omega"></div>
