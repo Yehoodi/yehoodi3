@@ -34,13 +34,14 @@ function smarty_insert_logo()
             $logo = "/images/graphics/logos/logo-halloween.png";
             break;
             
-        case '11-24':
-        case '11-25':
         case '11-26':
+        case '11-27':
+        case '11-28':
             // Thanksgiving
             $logo = "/images/graphics/logos/logo-thanksgiving.png";
             break;
             
+        case '12-23':
         case '12-24':
         case '12-25':
         case '12-26':
