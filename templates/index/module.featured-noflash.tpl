@@ -8,10 +8,10 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-040-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-041-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Are Gramophones really magic? This and other questions answered on the next SwingNation.
+            Gobble gobble! Sao Paolo! Shag and more on the next SwingNation.
         </td>
     </tr>
     <tr class="">
