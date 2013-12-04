@@ -11,14 +11,14 @@
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-041-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Gobble gobble! Sao Paolo! Shag and more on the next SwingNation.
+            Nikki Marvin, Nick Williams and Bobby White's Swing 101. All that and more on the next SwingNation.
         </td>
     </tr>
     <tr class="">
         <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-095-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            8-Count Swing spotlight on Lillian Boutté and more on Hey Mister Jesse #95.
+            Glenn Crytzer’s Savoy Seven and Jayna Morgan & The Sazerac Sunrise Jazz Band on Hey Mister Jesse #96.
         </td>
     </tr>
     <tr class="alt">
