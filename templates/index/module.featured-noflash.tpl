@@ -8,10 +8,10 @@
         {*</td>*}
     {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-041-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-043-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Nikki Marvin, Nick Williams and Bobby White's Swing 101. All that and more on the next SwingNation.
+            Harlem Lindy Hop, Jitterblast! and our season 3 wrap-up on the finale of SwingNation.
         </td>
     </tr>
     <tr class="">
