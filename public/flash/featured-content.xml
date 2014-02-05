@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
-        <path><![CDATA[/images/featured-content/SN-043-Flash-Feature.png]]></path>
-        <description><![CDATA[Harlem Lindy Hop, Jitterblast! and our season 3 wrap-up on the finale of SwingNation.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-043-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
+        <path><![CDATA[/images/featured-content/HMJ-098-Flash-Feature.png]]></path>
+        <description><![CDATA[An 8-Count Swing spotlight on Gunhild Carling on Hey Mister Jesse #98.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-098-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
-        <path><![CDATA[/images/featured-content/HMJ-096-Flash-Feature.png]]></path>
-        <description><![CDATA[Glenn Crytzer's Savoy Seven and Jayna Morgan & The Sazerac Sunrise Jazz Band on Hey Mister Jesse #96.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-096-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/heymisterjesse]]></link>
+        <path><![CDATA[/images/featured-content/SN-GENERIC-Flash-Feature.png]]></path>
+        <description><![CDATA[What's going on with SwingNation? Keep checking Yehoodi to find out very soon!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-GENERIC-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/Yehoodi_Radio_Swing.png]]></path>
