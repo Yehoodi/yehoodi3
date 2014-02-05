@@ -1,24 +1,17 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
-    {*<tr class="">*}
-        {*<td class="thumbnail"><a href="/ilhc"><img src="/images/featured-content/ILHC-Carousel-Banner_thm.png" alt="Yehoodi Talk Show" /></a></td>*}
-        {*<td class="topic">*}
-            {*<strong><a href="/ilhc">ILHC 2013 Live Broadcast</a></strong><br />*}
-            {*Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!*}
-        {*</td>*}
-    {*</tr>*}
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-043-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Harlem Lindy Hop, Jitterblast! and our season 3 wrap-up on the finale of SwingNation.
-        </td>
-    </tr>
-    <tr class="">
         <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-095-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Glenn Crytzer’s Savoy Seven and Jayna Morgan & The Sazerac Sunrise Jazz Band on Hey Mister Jesse #96.
+            An 8-Count Swing spotlight on Gunhild Carling on Hey Mister Jesse #98.
+        </td>
+    </tr>
+    <tr class="">
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-GENERIC-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
+            What's going on with SwingNation? Keep checking Yehoodi to find out very soon!
         </td>
     </tr>
     <tr class="alt">
