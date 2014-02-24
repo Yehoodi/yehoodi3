@@ -1,7 +1,7 @@
 {include file='header.tpl' section='swingnation' maps=false}
 
 <div class="grid_10 alpha">
-    <img src="/images/featured-content/SN-002-Flash-Feature.png" alt="SwingNation Video Podcast" style="margin-bottom: 12px; width: 100%;" />
+    <img src="/images/featured-content/SN-GENERIC-Flash-Feature.png" alt="SwingNation Video Podcast" style="margin-bottom: 12px; width: 100%;" />
     <p id="techSupport">
         <strong><em>Having technical issues?</em></strong>
         Post to our <a href="/comment/174773/yehoodi-ilhc-broadcast-tech-su/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
@@ -34,8 +34,18 @@
     <h2>Broadcast Schedule</h2>
     <p>NOTE: All times are Pacific Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.</p>
     <table>
-        <tr><th colspan="2">Keep checking for 2014 schedule!</th></tr>
-        <tr><td>Next taping:</td><td>(Sometime in early 2014)</td></tr>
+        <tr><th colspan="2">February 2014</th></tr>
+        <tr><td>24th</td><td>Broadcast at 7:30</td></tr>
+    </table>
+    <table>
+        <tr><th colspan="2">March 2014</th></tr>
+        <tr><td>10th</td><td>Broadcast at 7:30</td></tr>
+        <tr><td>24th</td><td>Broadcast at 7:30</td></tr>
+    </table>
+    <table>
+        <tr><th colspan="2">April 2014</th></tr>
+        <tr><td>7th</td><td>Broadcast at 7:30</td></tr>
+        <tr><td>21st</td><td>Broadcast at 7:30</td></tr>
     </table>
 </div>
 <div class="grid_6 omega"></div>
