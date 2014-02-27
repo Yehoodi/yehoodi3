@@ -1,20 +1,20 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-044-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
+            Win a ticket to Frankie 100 in NYC on the debut show of SwingNation season 4.
+        </td>
+    </tr>
+    <tr class="">
         <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-095-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
             An 8-Count Swing spotlight on Gunhild Carling on Hey Mister Jesse #98.
         </td>
     </tr>
-    <tr class="">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-GENERIC-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            What's going on with SwingNation? Keep checking Yehoodi to find out very soon!
-        </td>
-    </tr>
-    <tr class="alt">
+     <tr class="alt">
         <td class="thumbnail"><a href="/show/radio"><img src="/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png" alt="Yehoodi Radio" /></a></td>
         <td class="topic">
             <strong><a href="/show/radio">Yehoodi Radio</a></strong><br />
