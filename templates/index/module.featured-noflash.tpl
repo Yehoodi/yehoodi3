@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-044-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-045-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Win a ticket to Frankie 100 in NYC on the debut show of SwingNation season 4.
+            Two documentaries honoring amazing women in Jazz on SwingNation episode #45
         </td>
     </tr>
     <tr class="">
