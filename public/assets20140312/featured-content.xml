@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/SN-046-Flash-Feature.png]]></path>
+        <description><![CDATA[We get intellectual (sort of) and talk about the History of Caucasian Dance on SwingNation episode #46]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-046-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-099-Flash-Feature.png]]></path>
         <description><![CDATA[Scott Bradlee & Post Modern Jukebox music and interview on Hey Mister Jesse #99.]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-099-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/SN-045-Flash-Feature.png]]></path>
-        <description><![CDATA[Two documentaries honoring amazing women in Jazz on SwingNation episode #45]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-045-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/Yehoodi_Radio_Swing.png]]></path>

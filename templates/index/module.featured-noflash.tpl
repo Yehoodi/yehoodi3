@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-045-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-046-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Two documentaries honoring amazing women in Jazz on SwingNation episode #45
+            We get intellectual (sort of) and talk about the History of Caucasian Dance on SwingNation episode #46
         </td>
     </tr>
     <tr class="">
