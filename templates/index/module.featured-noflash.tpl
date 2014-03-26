@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-047-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-048-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            We have naked lindy hoppers. No, really we do. Plus a documentary on Shag. Swingnation #47 is on!
+            What happen during this dance with Kevin & Nina? Kevin will tell al the details on SwingNation #48.
         </td>
     </tr>
     <tr class="">
