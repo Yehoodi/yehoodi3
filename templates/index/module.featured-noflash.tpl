@@ -8,10 +8,10 @@
         </td>
     </tr>
     <tr class="">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-099-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-100-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Scott Bradlee & Post Modern Jukebox music and interview on Hey Mister Jesse #99.
+            Hey Mister Jesse celebrates its 100th show with a special Video Podcast!
         </td>
     </tr>
      <tr class="alt">

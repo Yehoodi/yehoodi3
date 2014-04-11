@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/HMJ-100-Flash-Feature.png]]></path>
+        <description><![CDATA[Hey Mister Jesse celebrates its 100th show with a special Video Podcast!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-100-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/SN-050-Flash-Feature.png]]></path>
         <description><![CDATA[Amazing stories of science and dance on SwingNation episode #50!]]></description>
         <thumbnail><![CDATA[/images/featured-content/SN-050-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/HMJ-099-Flash-Feature.png]]></path>
-        <description><![CDATA[Scott Bradlee & Post Modern Jukebox music and interview on Hey Mister Jesse #99.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-099-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/Yehoodi_Radio_Swing.png]]></path>
