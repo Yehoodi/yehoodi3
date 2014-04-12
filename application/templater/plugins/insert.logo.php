@@ -21,7 +21,7 @@ function smarty_insert_logo()
             $logo = "/images/graphics/logos/logo-aprilfools.png";
             break;
             
-        case '04-08':
+        case '04-20':
             // Easter
             $logo = "/images/graphics/logos/logo-easter.png";
             break;
