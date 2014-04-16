@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/SN-051-Flash-Feature.png]]></path>
+        <description><![CDATA[Special talk with Norma Miller, Chazz Young and Chester Whitmore featuring video surprises on SN #51]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-051-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-100-Flash-Feature.png]]></path>
         <description><![CDATA[Hey Mister Jesse celebrates its 100th show with a special Video Podcast!]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-100-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/SN-050-Flash-Feature.png]]></path>
-        <description><![CDATA[Amazing stories of science and dance on SwingNation episode #50!]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-050-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/Yehoodi_Radio_Swing.png]]></path>
