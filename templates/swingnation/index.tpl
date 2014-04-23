@@ -34,10 +34,6 @@
     <h2>Broadcast Schedule</h2>
     <p>NOTE: All times are Pacific Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.</p>
     <table>
-        <tr><th colspan="2">February 2014</th></tr>
-        <tr><td>24th</td><td>Broadcast at 7:30</td></tr>
-    </table>
-    <table>
         <tr><th colspan="2">March 2014</th></tr>
         <tr><td>10th</td><td>Broadcast at 7:30</td></tr>
         <tr><td>24th</td><td>Broadcast at 7:30</td></tr>
@@ -46,6 +42,10 @@
         <tr><th colspan="2">April 2014</th></tr>
         <tr><td>7th</td><td>Broadcast at 7:30</td></tr>
         <tr><td>21st</td><td>Broadcast at 7:30</td></tr>
+    </table>
+    <table>
+        <tr><th colspan="2">May 2014</th></tr>
+        <tr><td>5th</td><td>Final Broadcast at 7:30</td></tr>
     </table>
 </div>
 <div class="grid_6 omega"></div>
