@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-052-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-053-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Meet The Jitterbugs, a new children's book and guest host Nirav Sanghani joins SwingNation #52.
+            Chat with Peter Strom! Laugh with Ann Mony! Copy a dance routine! Wait, no. SwingNation #53 starts now!
         </td>
     </tr>
     <tr class="">
