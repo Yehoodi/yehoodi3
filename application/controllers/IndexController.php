@@ -46,6 +46,7 @@ class IndexController extends CustomControllerAction
 		$this->today = $dateTime->format("Y-m-d H:i:s");
 		$this->todayShort = $dateTime->format("Y-m-d"); // For the event calendar
 		$this->day = $dateTime->format("d");
+        $this->view->swingNationLive = false;
 
 		$dateTime->modify('-1 month');
 		$this->lastMonth = $dateTime->format("Y-m-d H:i:s");
@@ -147,6 +148,18 @@ class IndexController extends CustomControllerAction
 		
 		// Get the old "Who Is Online" info
 		$this->processWhoIsOnlineInfo();
+
+        // SwingNation is Live!
+        $date = new DateTime('America/New_York');
+        $shows = array(
+            '2014-05-05'
+        );
+        $time = $date->format('H:i:s');
+
+        if (in_array($date->format('Y-m-d'), $shows) && $time >= '21:00:00' && $time <= '23:50:00')
+        {
+            $this->view->swingNationLive = true;
+        }
 
 		// Give up since they didn't set a location
         $this->_helper->viewRenderer('index');
