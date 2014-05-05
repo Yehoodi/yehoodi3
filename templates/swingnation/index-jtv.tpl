@@ -7,16 +7,27 @@
         Post to our <a href="/comment/174773/yehoodi-ilhc-broadcast-tech-su/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
     </p>
     {if $smart_device}
-        Sorry, viewing the live stream is not available on your device. If you are using an iPad or an iPhone, you may need to download the Livestream app.
+        Sorry, viewing the live stream is not available on your device. If you are using an iPad or an iPhone, you may need to download the Justin.TV app. Please go to the <a href="http://community.justin.tv/mediawiki/index.php/Faq">Justin.TV help website</a> for instructions on viewing on your device.
     {else}
-        <iframe src="http://new.livestream.com/accounts/774982/events/2974280/feed_embed?width=900&height=900" width="900" height="900" frameborder="0" id="feed-embed-stand-alone" scrolling="auto"></iframe>
+        <object type="application/x-shockwave-flash"
+                data="http://www.justin.tv/widgets/live_embed_player.swf?channel=yehoodi"
+                id="live_embed_player_flash"
+                height="327"
+                width="580"
+                bgcolor="#000000">
+            <param name="allowFullScreen" value="true" />
+            <param name="allowScriptAccess" value="always" />
+            <param name="allowNetworking" value="all" />
+            <param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" />
+            <param name="flashvars" value="hostname=www.justin.tv&channel=yehoodi&auto_play=true&start_volume=25" />
+        </object>
     {/if}
     <p id="watchLiveLink">
-        {*<a href="http://www.justin.tv/yehoodi#r=-rid-&amp;s=em" class="trk">Watch live video from yehoodi on www.justin.tv</a>*}
+        <a href="http://www.justin.tv/yehoodi#r=-rid-&amp;s=em" class="trk">Watch live video from yehoodi on www.justin.tv</a>
     </p>
 </div>
 <div class="grid_6 omega" id="chatFrame">
-    {*<iframe frameborder="0" scrolling="no" id="chat_embed" src="http://www.justin.tv/chat/embed?channel=yehoodi&amp;default_chat=jtv&amp;popout_chat=true#r=-rid-&amp;s=em" height="580" width="340"></iframe>*}
+    <iframe frameborder="0" scrolling="no" id="chat_embed" src="http://www.justin.tv/chat/embed?channel=yehoodi&amp;default_chat=jtv&amp;popout_chat=true#r=-rid-&amp;s=em" height="580" width="340"></iframe>
 </div>
 <div class="clear">&nbsp;</div>
 <div class="grid_10 alpha faq">
