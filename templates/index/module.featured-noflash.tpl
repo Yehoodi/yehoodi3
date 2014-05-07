@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-053-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-054-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Chat with Peter Strom! Laugh with Ann Mony! Copy a dance routine! Wait, no. SwingNation #53 starts now!
+            Sylvia Sykes talks about competition, we watch a Jill & Jack and a half naked Canadian. SwingNation #54 is here.
         </td>
     </tr>
     <tr class="">
