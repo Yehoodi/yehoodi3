@@ -11,4 +11,5 @@ public/index.php
 .idea/*
 data/
 data/*
-
+sql/
+sql/*
