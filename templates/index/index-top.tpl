@@ -1,5 +1,5 @@
 <div id="div_flashFeaturedCaption">
-{if $swingNationLive}
+{if true}
     <div id="div_flashFeatured">
      	<span id="flashFeatured">
             <iframe src="http://new.livestream.com/accounts/774982/events/2974280/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
@@ -15,11 +15,11 @@
     <div id="div_flashFeatured">
      	<span id="flashFeatured">
             <object id="flashCarousel" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="200">
-                <param name="FlashVars" value="xmlfile=/assets20140507/featured-content.xml" />
-                <param name="movie" value="/assets20140507/featured-content2.swf" />
+                <param name="FlashVars" value="xmlfile=/assets20140514/featured-content.xml" />
+                <param name="movie" value="/assets20140514/featured-content2.swf" />
                 <param name="quality" value="high" />
                 <!--[if !IE]>-->
-                <object type="application/x-shockwave-flash" data="/assets20140507/featured-content2.swf" width="640" height="200">
+                <object type="application/x-shockwave-flash" data="/assets20140514/featured-content2.swf" width="640" height="200">
                     <!--<![endif]-->
                     {include file='index/module.featured-noflash.tpl'}
                     <!--[if !IE]>-->
