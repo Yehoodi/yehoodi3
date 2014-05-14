@@ -1,17 +1,17 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-054-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-055-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Sylvia Sykes talks about competition, we watch a Jill & Jack and a half naked Canadian. SwingNation #54 is here.
+            The season finale of SwingNation is here. So why are these kids so Happy? Check out why on SN #55.
         </td>
     </tr>
     <tr class="">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-100-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-101-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Hey Mister Jesse celebrates its 100th show with a special Video Podcast!
+            New music from Gordon Webster, Postmodern Jukebox. Unreleased Frank Foster song and more on the next Hey Mister Jesse.
         </td>
     </tr>
      <tr class="alt">
