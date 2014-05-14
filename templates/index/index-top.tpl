@@ -1,5 +1,5 @@
 <div id="div_flashFeaturedCaption">
-{if true}
+{if $liveShow}
     <div id="div_flashFeatured">
      	<span id="flashFeatured">
             <iframe src="http://new.livestream.com/accounts/774982/events/2974280/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
