@@ -10,5 +10,5 @@ mkdir -p /tmp/data/templates_c
 mkdir -p /tmp/data/logs
 sudo chmod 777 -R /tmp/data
 
-# Extras?
-#sudo cp /var/www/vagrant/php.ini /etc/php5/apache2/php.ini
+# Move the index.php
+sudo cp /var/www/public/index.php.dist /var/www/public/index.php
