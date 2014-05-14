@@ -158,7 +158,7 @@ class IndexController extends CustomControllerAction
 
         if (in_array($date->format('Y-m-d'), $shows) && $time >= '21:00:00' && $time <= '23:50:00')
         {
-            $this->view->swingNationLive = true;
+            $this->view->liveShow = true;
         }
 
 		// Give up since they didn't set a location
