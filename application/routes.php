@@ -115,6 +115,15 @@
 											 );
 	$frontController->getRouter()->addRoute('ilhc',$ilhcRoute);	// Set up the route for the ilhc page
 
+	// Set up the route for the Frankie100 page
+	$frankie100Route = new Zend_Controller_Router_Route('frankie100/*',
+												array('controller'	=> 'frankie100',
+													  'action'		=> 'index',
+													  'page'       	=> ''
+													  )
+											 );
+	$frontController->getRouter()->addRoute('ilhc',$ilhcRoute);	// Set up the route for the ilhc page
+
     // Set up the route for the SwingNation live page
     $date = new DateTime('America/New_York');
     $day =  $date->format('D');
@@ -131,8 +140,8 @@
     $time = $date->format('H:i:s');
 
 // For Debugging...
-//    if (1 == 1) {
-    if (in_array($date->format('Y-m-d'), $shows) && $time >= '21:00:00' && $time <= '23:50:00') {
+    if (1 == 1) {
+//    if (in_array($date->format('Y-m-d'), $shows) && $time >= '21:00:00' && $time <= '23:50:00') {
         // LIVE SHOW
         $swingnationRoute = new Zend_Controller_Router_Route('swingnation/*',
             array('controller'	=> 'swingnation',
