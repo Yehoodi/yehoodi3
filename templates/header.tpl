@@ -108,7 +108,7 @@
           </div> <!-- #div_headerContent -->
      </div> <!-- #div_header -->
      
-     {if $controller != 'index' && $controller != 'ilhc'}
+     {if $controller != 'index' && $controller != 'ilhc' && $controller != 'frankie100'}
 
          {*{assign var=randomNumber value=1|rand:2}*}
 
