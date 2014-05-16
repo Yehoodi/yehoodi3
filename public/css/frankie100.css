@@ -1,22 +1,26 @@
-body { background: #426188 !important;
-    color: #000 !important; } 
+body { background: #426188 url('/images/graphics/frankie100_background.png') no-repeat center center fixed !important;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; 
+	color: #000 !important; } 
 	
 #div_header { background: #153153 !important; margin-top: -30px; margin-bottom: 28px; border-bottom: 2px solid #85add1; }
-
 #div_headerContent h1 { top: 50px !important; }
-
 #div_headerContent #div_userLinks { background: #527ca8 !important; border: none !important; top: 76px !important; }
 #ul_userLinks li { background-color: #85add1 !important; }
 #div_navigation { top: 115px !important; }
 
+#div_content { color: #527ca8 !important; }
 #div_content a { color: #b8d1dd !important; }
-#div_content .grid_4 h2 { color: #000; margin-bottom: 12px; margin-top: 12px; }
+#div_content .grid_4 h2 { color: #b8d1dd !important; margin-bottom: 12px; margin-top: 12px; }
 
-#frankie100Banner { margin-bottom: 12px; }
+#frankie100Banner { margin-bottom: 36px; }
 
-#feedFrame { margin-bottom: 12px; }
+#feedFrame { margin-bottom: 12px; border: 2px solid #527ca8 !important; }
+#schedule { border: 2px solid #527ca8 !important; }
 
-table { float: left; margin: 0 !important; width: 100%; border: 2px solid #fff !important; }
+table { width: 100%; }
 th, td { color: #153153; padding: 7px !important; text-align: left; font-size: 8pt !important; }
 table th { background: #f79f13; text-transform: uppercase; }
 table td { background: #ffffff; }
@@ -27,6 +31,6 @@ table tr:last-child th, table tr:last-child td { border-bottom: none; }
 table tr.active td { background-color: #F09900 !important; color: #000 !important; }
 table tr.active td:nth-child(2):before { content: "-> "; }
 
-#div_footer { background-color: #153153 !important; border-top-color: #527ca8 !important; color: #85add1; }
+#div_footer { background-color: #153153 !important; border-top-color: #527ca8 !important; color: #527ca8; }
 #div_footer a { color: #b8d1dd !important; }
 #div_footer h4 { text-shadow: none !important; }
