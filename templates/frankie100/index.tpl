@@ -15,24 +15,24 @@
 	<div id="schedule">
 		<table>
 			<tr><th colspan="2">Friday, May 23</th></tr>
-			<tr><td>Time</td><td>Broadcast Begins</td></tr>
-			<tr><td>Time</td><td><strong>Event</strong></td></tr>
-			<tr><td>Time</td><td><strong>Event</strong></td></tr>
-			<tr><td>Time</td><td>Wrap-up &amp; Broadcast ends</td></tr>
+			<tr><td>19:30</td><td>Broadcast Begins</td></tr>
+			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+			<tr><td>23:30</td><td>Wrap-up &amp; Broadcast ends</td></tr>
 		</table>
 		<table>
 			<tr><th colspan="2">Saturday, May 24</th></tr>
-			<tr><td>Time</td><td>Broadcast Begins</td></tr>
-			<tr><td>Time</td><td><strong>Event</strong></td></tr>
-			<tr><td>Time</td><td><strong>Event</strong></td></tr>
-			<tr><td>Time</td><td>Wrap-up &amp; Broadcast ends</td></tr>
+			<tr><td>20:00</td><td>Broadcast Begins</td></tr>
+			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+			<tr><td>00:00</td><td>Wrap-up &amp; Broadcast ends</td></tr>
 		</table>
 		<table>
 			<tr><th colspan="2">Sunday, May 25</th></tr>
-			<tr><td>Time</td><td>Broadcast Begins</td></tr>
-			<tr><td>Time</td><td><strong>Event</strong></td></tr>
-			<tr><td>Time</td><td><strong>Event</strong></td></tr>
-			<tr><td>Time</td><td>Wrap-up &amp; Broadcast ends</td></tr>
+			<tr><td>20:30</td><td>Broadcast Begins</td></tr>
+			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+			<tr><td>2:00</td><td>Wrap-up &amp; Broadcast ends</td></tr>
 		</table>
 	</div>
 </div>
