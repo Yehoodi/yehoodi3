@@ -1,5 +1,12 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
+    <tr class="">
+        <td class="thumbnail"><a href="/frankie100"><img src="/images/featured-content/F100-Flash-Feature_thm.png" alt="Frankie 100" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">Frankie 100</a></strong><br />
+            Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!
+        </td>
+    </tr>
     <tr class="alt">
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-055-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
