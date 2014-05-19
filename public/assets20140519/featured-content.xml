@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
+        <description><![CDATA[Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/F100-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[http://www.yehoodi.com/frankie100]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-101-Flash-Feature.png]]></path>
         <description><![CDATA[New music from Gordon Webster and unreleased Frank Foster song and more on the next Hey Mister Jesse.]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-101-Flash-Feature_thm.png]]></thumbnail>
@@ -18,10 +24,4 @@
         <thumbnail><![CDATA[/images/featured-content/Yehoodi_Radio_Swing_thm.png]]></thumbnail>
         <link><![CDATA[/show/radio]]></link>
     </image>
-    <!--<image>-->
-    <!--<path><![CDATA[/images/featured-content/ILHC-Carousel-Banner.png]]></path>-->
-    <!--<description><![CDATA[Watch a great weekend of competitions from ILHC brought to you by Yehoodi, August 23 - 25!]]></description>-->
-    <!--<thumbnail><![CDATA[/images/featured-content/ILHC-Carousel-Banner_thm.png]]></thumbnail>-->
-    <!--<link><![CDATA[http://www.yehoodi.com/ilhc]]></link>-->
-    <!--</image>-->
 </content>
