@@ -58,10 +58,10 @@ When done we need to ssh into the vagrant box and do some final things manually
 > vagrant ssh
 ```
 ## One-time set-up script
-We need to run a shell script to copy ofer important files. This only needs to be don once after you
+We need to run a shell script to copy over important files. This only needs to be done once after you
 first create your vm.
 ```
-> /var/www/required/required.sh
+$ /var/www/required/required.sh
 ```
 
 # Setting up MySQL (In the vagrant box):
@@ -73,7 +73,7 @@ mysql> GRANT ALL ON *.* TO 'root'@'%';
 mysql> exit;
 ```
 
-(Note: Do NOT do this on a production machine as it is extermely insecure!)
+(Note: Do NOT do this on a production machine as it is extremely insecure!)
 
 Now restart services
 ```

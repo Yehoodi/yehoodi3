@@ -17,7 +17,9 @@ body { background: #426188 url('/images/graphics/frankie100_background.png') no-
 
 #frankie100Banner { margin-bottom: 36px; }
 
-#feedFrame { margin-bottom: 12px; border: 2px solid #527ca8 !important; }
+#feedFrame { border: 2px solid #527ca8 !important; margin-bottom: 12px; text-align: center; background-color: #000; }
+#techSupport { margin: 6px 0; }
+#feedFrame iframe { }
 #schedule { border: 2px solid #527ca8 !important; }
 
 table { width: 100%; }
