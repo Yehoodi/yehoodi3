@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/HMJ-102-Flash-Feature.png]]></path>
+        <description><![CDATA[Davina & The Vagabonds, Nikki Yanofsky and The George Gee Swing Orchestra on the next Hey Mister Jesse.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-102-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
         <description><![CDATA[Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!]]></description>
         <thumbnail><![CDATA[/images/featured-content/F100-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[http://www.yehoodi.com/frankie100]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/HMJ-101-Flash-Feature.png]]></path>
-        <description><![CDATA[New music from Gordon Webster and unreleased Frank Foster song and more on the next Hey Mister Jesse.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-101-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/SN-055-Flash-Feature.png]]></path>
