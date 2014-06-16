@@ -9,7 +9,7 @@
         <strong><em>Having technical issues?</em></strong>
         Post to our <a href="/comment/176253/live-from-frankie100-faq-2/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
     </p>
-	<iframe src="http://new.livestream.com/accounts/774982/events/2982678/feed_embed?width=700&height=900" width="700" height="900" frameborder="0" id="feed-embed-stand-alone" scrolling="auto"></iframe>
+    <iframe src="http://new.livestream.com/accounts/774982/events/2982678/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
 	<script type="text/javascript" src="http://new.livestream.com/assets/plugins/feed-auto-grow.js"></script>
 </div>
 <div class="grid_4 omega faq">
