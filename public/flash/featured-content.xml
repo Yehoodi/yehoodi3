@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/SN-SE01-Flash-Feature.png]]></path>
+        <description><![CDATA[Watch this Special Edition interview with The DecaVitas during the SwingNation hiatus.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-SE01-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-102-Flash-Feature.png]]></path>
         <description><![CDATA[Davina & The Vagabonds, Nikki Yanofsky and The George Gee Swing Orchestra on the next Hey Mister Jesse.]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-102-Flash-Feature_thm.png]]></thumbnail>
@@ -11,12 +17,6 @@
         <description><![CDATA[Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!]]></description>
         <thumbnail><![CDATA[/images/featured-content/F100-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[http://www.yehoodi.com/frankie100]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/SN-055-Flash-Feature.png]]></path>
-        <description><![CDATA[The season finale of SwingNation is here. So why are these kids so Happy? Check out why on SN #55.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-055-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/Yehoodi_Radio_Swing.png]]></path>
