@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/HMJ-103-Flash-Feature.png]]></path>
+        <description><![CDATA[Interview with Naomi Uyama of Naomi & Her Handsome Devils on the next Hey Mister Jesse.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-103-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/SN-SE02-Flash-Feature.png]]></path>
         <description><![CDATA[Swing bandleader Jonathan Stout talks music and Lindy Hop on this Special Edition of SwingNation.]]></description>
         <thumbnail><![CDATA[/images/featured-content/SN-SE02-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/HMJ-102-Flash-Feature.png]]></path>
-        <description><![CDATA[Davina & The Vagabonds, Nikki Yanofsky and The George Gee Swing Orchestra on the next Hey Mister Jesse.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-102-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
