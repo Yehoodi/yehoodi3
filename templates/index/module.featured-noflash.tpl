@@ -1,17 +1,17 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="">
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-103-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
+            Interview with Naomi Uyama of Naomi & Her Handsome Devils on the next Hey Mister Jesse.
+        </td>
+    </tr>
+    <tr class="alt">
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-SE02-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
             Swing bandleader Jonathan Stout talks music and Lindy Hop on this Special Edition of SwingNation.
-        </td>
-    </tr>
-    <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-102-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Davina & The Vagabonds, Nikki Yanofsky and The George Gee Swing Orchestra on the next Hey Mister Jesse.
         </td>
     </tr>
     <tr class="">
