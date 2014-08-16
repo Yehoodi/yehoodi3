@@ -1,33 +1,38 @@
-body { background: #5D5DB1 url('/images/graphics/headerbg-ilhc2.gif') top repeat-x !important;
-    color: #000 !important; }
+body { background: #426188 url('/images/graphics/ilhc2014_background.png') no-repeat center center fixed !important;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; 
+	color: #000 !important; } 
+	
+#div_header { background: #153153 !important; margin-top: -30px; margin-bottom: 28px; border-bottom: 2px solid #85add1; }
+#div_headerContent h1 { top: 50px !important; }
+#div_headerContent #div_userLinks { background: #527ca8 !important; border: none !important; top: 76px !important; }
+#ul_userLinks li { background-color: #85add1 !important; }
+#div_navigation { top: 115px !important; }
 
-#div_headerContent #div_userLinks { background: #7373B1 !important; border: none !important; }
-#ul_userLinks li { background-color: #AEAEE7 !important; }
+#div_content { color: #527ca8 !important; }
+#div_content a { color: #b8d1dd !important; }
+#div_content .grid_4 h2 { color: #b8d1dd !important; margin-bottom: 12px; margin-top: 12px; }
 
-#div_content a { color: #000 !important; }
+#ilhc2014Banner { margin-bottom: 36px; }
 
-#ilhcBanner { margin-bottom: 12px; width: 100%; }
+#feedFrame { border: 2px solid #527ca8 !important; margin-bottom: 12px; text-align: center; background-color: #000; }
+#techSupport { margin: 6px 0; }
+#feedFrame iframe { }
+#schedule { border: 2px solid #527ca8 !important; }
 
-#techSupport { background-color: #AEAEE7; font-size: 11px; padding: .25em; margin-bottom: 1em; text-align: center;
-    border-radius: 4px; width: auto; }
-#techSupport strong { color: #000; text-shadow: none; margin-right: .5em; }
-
-#watchLiveLink { padding:2px 0px 4px; display:block; font-weight:normal; font-size:10px; text-decoration:underline; text-align:center; }
-
-/* This is a filty hack and it has taken four months off my life */
-#chatFrame { margin-bottom: -560px; }
-
-table { float: left; margin: 0 !important; width: 190px; }
-th, td { padding: 7px !important; text-align: left; }
-table th { background: #dddddd; border-bottom: 1px solid #cccccc; border-right: 3px solid #5D5DB1; }
-table td { background: #f6f6f6; color: #444; }
+table { width: 100%; }
+th, td { color: #153153; padding: 7px !important; text-align: left; font-size: 8pt !important; }
+table th { background: #f79f13; text-transform: uppercase; }
+table td { background: #ffffff; }
 table td:first-child { width: 4em; }
-table td:last-child { border-right: 3px solid #6262A1; }
-table tr:nth-child(even) td { background: #ffffff; }
+table td:last-child {  }
+table tr:nth-child(even) td { background: #F5F5F5; }
 table tr:last-child th, table tr:last-child td { border-bottom: none; }
 table tr.active td { background-color: #F09900 !important; color: #000 !important; }
 table tr.active td:nth-child(2):before { content: "-> "; }
 
-#div_footer { background-color: #7373B1 !important; border-top-color: #242463 !important; }
-#div_footer a { color: #000 !important; }
-#div_footer h4 { color: #242463; text-shadow: none !important; }
+#div_footer { background-color: #153153 !important; border-top-color: #527ca8 !important; color: #527ca8; }
+#div_footer a { color: #b8d1dd !important; }
+#div_footer h4 { text-shadow: none !important; }
