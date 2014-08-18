@@ -9,7 +9,7 @@
         <strong><em>Having technical issues?</em></strong>
         Post to our <a href="#">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
     </p>
-    <iframe src="http://new.livestream.com/accounts/774982/events/2982678/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
+    <iframe src="http://new.livestream.com/accounts/774982/events/ilhc2014/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
 	<script type="text/javascript" src="http://new.livestream.com/assets/plugins/feed-auto-grow.js"></script>
 </div>
 <div class="grid_4 omega faq">
@@ -19,6 +19,8 @@
 	<div id="schedule">
 		<table>
 			<tr><th colspan="2">Thursday, August 21</th></tr>
+			<tr><td>Time</td><td><strong>Event</strong></td></tr>
+			<tr><td>Time</td><td><strong>Event</strong></td></tr>
 			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
 			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
 		</table>
