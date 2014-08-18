@@ -1,30 +1,32 @@
-body { background: #426188 url('/images/graphics/ilhc2014_background.png') no-repeat center center fixed !important;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover; 
+body { background: #4c1813 url('/images/graphics/ilhc2014_background.gif') no-repeat center center fixed !important;
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	background-size: cover !important; 
 	color: #000 !important; } 
 	
-#div_header { background: #153153 !important; margin-top: -30px; margin-bottom: 28px; border-bottom: 2px solid #85add1; }
+#div_header, #div_footer { background: #2d2221 url('/images/graphics/ilhc2014_header.gif') !important; border-color: #1f1615 !important; border-style: solid !important; color: #f5d879; }
+
+#div_header { margin-top: -40px; margin-bottom: 28px; border-bottom-width: 4px; }
 #div_headerContent h1 { top: 50px !important; }
-#div_headerContent #div_userLinks { background: #527ca8 !important; border: none !important; top: 76px !important; }
-#ul_userLinks li { background-color: #85add1 !important; }
+#div_headerContent #div_userLinks { background: #3b3332 !important; border: none !important; color: #f9cd44 !important; text-shadow: 1px 1px 0 #000 !important; top: 76px !important; }
+#ul_userLinks li { background-color: #847371 !important; text-shadow: none !important; }
 #div_navigation { top: 115px !important; }
 
-#div_content { color: #527ca8 !important; }
-#div_content a { color: #b8d1dd !important; }
-#div_content .grid_4 h2 { color: #b8d1dd !important; margin-bottom: 12px; margin-top: 12px; }
+#div_content { color: #f9cd44 !important; }
+#div_content a { color: #f5d879 !important; }
+#div_content .grid_4 h2 { color: #f5d879 !important; margin-bottom: 12px; margin-top: 12px; }
 
 #ilhc2014Banner { margin-bottom: 36px; }
 
-#feedFrame { border: 2px solid #527ca8 !important; margin-bottom: 12px; text-align: center; background-color: #000; }
+#feedFrame { border: 2px solid #4e5e09 !important; margin-bottom: 12px; text-align: center; background-color: #000; }
 #techSupport { margin: 6px 0; }
 #feedFrame iframe { }
-#schedule { border: 2px solid #527ca8 !important; }
+#schedule { border: 2px solid #4e5e09 !important; }
 
 table { width: 100%; }
-th, td { color: #153153; padding: 7px !important; text-align: left; font-size: 8pt !important; }
-table th { background: #f79f13; text-transform: uppercase; }
+th, td { color: #0f0605; padding: 7px !important; text-align: left; font-size: 8pt !important; }
+table th { background: #9cc204; text-transform: uppercase; }
 table td { background: #ffffff; }
 table td:first-child { width: 4em; }
 table td:last-child {  }
@@ -33,6 +35,6 @@ table tr:last-child th, table tr:last-child td { border-bottom: none; }
 table tr.active td { background-color: #F09900 !important; color: #000 !important; }
 table tr.active td:nth-child(2):before { content: "-> "; }
 
-#div_footer { background-color: #153153 !important; border-top-color: #527ca8 !important; color: #527ca8; }
-#div_footer a { color: #b8d1dd !important; }
-#div_footer h4 { text-shadow: none !important; }
+#div_footer { border-top-width: 4px !important; }
+#div_footer a { color: #f9cd44 !important; }
+#div_footer h4 { text-shadow: 1px 1px 0 #000 !important; }
