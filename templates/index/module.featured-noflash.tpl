@@ -1,9 +1,9 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/frankie100"><img src="/images/featured-content/ILHC-2014-Flash-Feature_thm.png" alt="ILHC 2014" /></a></td>
+        <td class="thumbnail"><a href="/ilhc"><img src="/images/featured-content/ILHC-2014-Flash-Feature_thm.png" alt="ILHC 2014" /></a></td>
         <td class="topic">
-            <strong><a href="/show/swingnation">Live Broadcast ILHC 2014</a></strong><br />
+            <strong><a href="/ilhc">Live Broadcast ILHC 2014</a></strong><br />
             Live broadcast of the International Lindy Hop Championships Aug 22 - 24!
         </td>
     </tr>
