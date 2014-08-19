@@ -149,14 +149,16 @@ class IndexController extends CustomControllerAction
 		// Get the old "Who Is Online" info
 		$this->processWhoIsOnlineInfo();
 
-        // SwingNation is Live!
+        // Live Event is Live!
         $date = new DateTime('America/New_York');
         $shows = array(
-            '2014-05-05'
+            '2014-08-22',
+            '2014-08-23',
+            '2014-08-24',
         );
         $time = $date->format('H:i:s');
 
-        if (in_array($date->format('Y-m-d'), $shows) && $time >= '21:00:00' && $time <= '23:50:00')
+        if (in_array($date->format('Y-m-d'), $shows) && $time >= '20:00:00' && $time <= '02:20:00')
         {
             $this->view->liveShow = true;
         }

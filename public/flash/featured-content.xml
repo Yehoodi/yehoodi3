@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
-        <path><![CDATA[/images/featured-content/HMJ-103-Flash-Feature.png]]></path>
-        <description><![CDATA[Interview with Naomi Uyama of Naomi & Her Handsome Devils on the next Hey Mister Jesse.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-103-Flash-Feature_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>
+        <description><![CDATA[Live broadcast of the International Lindy Hop Championships Aug 22 - 24!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/ilhc]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/HMJ-104-Flash-Feature.png]]></path>
+        <description><![CDATA[Music from Adam Hall & The HMJ Awards on the next Hey Mister Jesse.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-104-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
