@@ -1,10 +1,17 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
+    <tr class="alt">
+        <td class="thumbnail"><a href="/frankie100"><img src="/images/featured-content/ILHC-2014-Flash-Feature_thm.png" alt="ILHC 2014" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">Live Broadcast ILHC 2014</a></strong><br />
+            Live broadcast of the International Lindy Hop Championships Aug 22 - 24!
+        </td>
+    </tr>
     <tr class="">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-103-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-104-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Interview with Naomi Uyama of Naomi & Her Handsome Devils on the next Hey Mister Jesse.
+            Music from Adam Hall & The HMJ Awards on the next Hey Mister Jesse.
         </td>
     </tr>
     <tr class="alt">
