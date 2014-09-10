@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/SN-056-Flash-Feature.png]]></path>
+        <description><![CDATA[Hail! Hail! The gang is back for season 5 of SwingNation!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-056-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>
         <description><![CDATA[Live broadcast of the International Lindy Hop Championships Aug 22 - 24!]]></description>
         <thumbnail><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature_thm.png]]></thumbnail>
@@ -11,12 +17,6 @@
         <description><![CDATA[Music from Adam Hall & The HMJ Awards on the next Hey Mister Jesse.]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-104-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/SN-SE02-Flash-Feature.png]]></path>
-        <description><![CDATA[Swing bandleader Jonathan Stout talks music and Lindy Hop on this Special Edition of SwingNation.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-SE02-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
