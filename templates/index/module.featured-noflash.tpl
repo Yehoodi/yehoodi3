@@ -1,5 +1,12 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
+    <tr class="">
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-056-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
+            Hail! Hail! The gang is back for season 5 of SwingNation!
+        </td>
+    </tr>
     <tr class="alt">
         <td class="thumbnail"><a href="/ilhc"><img src="/images/featured-content/ILHC-2014-Flash-Feature_thm.png" alt="ILHC 2014" /></a></td>
         <td class="topic">
@@ -15,20 +22,13 @@
         </td>
     </tr>
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-SE02-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Swing bandleader Jonathan Stout talks music and Lindy Hop on this Special Edition of SwingNation.
-        </td>
-    </tr>
-    <tr class="">
         <td class="thumbnail"><a href="/frankie100"><img src="/images/featured-content/F100-Flash-Feature_thm.png" alt="Frankie 100" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">Frankie 100</a></strong><br />
             Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!
         </td>
     </tr>
-     <tr class="alt">
+     <tr class="">
         <td class="thumbnail"><a href="/show/radio"><img src="/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png" alt="Yehoodi Radio" /></a></td>
         <td class="topic">
             <strong><a href="/show/radio">Yehoodi Radio</a></strong><br />
