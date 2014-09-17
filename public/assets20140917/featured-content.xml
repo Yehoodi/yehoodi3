@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
-        <path><![CDATA[/images/featured-content/SN-056-Flash-Feature.png]]></path>
-        <description><![CDATA[Hail! Hail! The gang is back for season 5 of SwingNation!]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-056-Flash-Feature_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/SN-057-Flash-Feature.png]]></path>
+        <description><![CDATA[Ctrl+Alt+Dance, the Lindy Hop World Cup and Jo Hoffberg is back on SwingNation #57.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-057-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
@@ -12,12 +12,12 @@
         <thumbnail><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/ilhc]]></link>
     </image>
-    <image>
-        <path><![CDATA[/images/featured-content/HMJ-104-Flash-Feature.png]]></path>
-        <description><![CDATA[Music from Adam Hall & The HMJ Awards on the next Hey Mister Jesse.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-104-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
+    <!--<image>-->
+    <!--<path><![CDATA[/images/featured-content/HMJ-104-Flash-Feature.png]]></path>-->
+    <!--<description><![CDATA[Music from Adam Hall & The HMJ Awards on the next Hey Mister Jesse.]]></description>-->
+    <!--<thumbnail><![CDATA[/images/featured-content/HMJ-104-Flash-Feature_thm.png]]></thumbnail>-->
+    <!--<link><![CDATA[/show/heymisterjesse]]></link>-->
+    <!--</image>-->
     <image>
         <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
         <description><![CDATA[Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!]]></description>
