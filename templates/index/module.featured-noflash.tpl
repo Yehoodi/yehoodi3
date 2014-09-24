@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-057-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-058-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Ctrl+Alt+Dance, the Lindy Hop World Cup and Jo Hoffberg is back on SwingNation #57.
+            What's with the lack of #ImprovRespect and Florida's fun Hip-Hop style video on SwingNation #58.
         </td>
     </tr>
     <tr class="">
