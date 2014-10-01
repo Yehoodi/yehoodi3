@@ -4,7 +4,7 @@
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-058-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            What's with the lack of #ImprovRespect and Florida's fun Hip-Hop style video on SwingNation #58.
+            Winners of the Jazz Dance Film Festival and interview with Rusty Frank on SwingNation #59.
         </td>
     </tr>
     <tr class="">
