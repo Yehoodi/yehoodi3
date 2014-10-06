@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/HMJ-106-Flash-Feature.png]]></path>
+        <description><![CDATA[Patty & The Buttons, Gunhild Carling and The Smoking Time Jazz Club on Hey Mister Jesse.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-106-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/SN-059-Flash-Feature.png]]></path>
         <description><![CDATA[Winners of the Jazz Dance Film Festival and interview with Rusty Frank on SwingNation #59.]]></description>
         <thumbnail><![CDATA[/images/featured-content/SN-059-Flash-Feature_thm.png]]></thumbnail>
@@ -12,12 +18,6 @@
         <thumbnail><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/ilhc]]></link>
     </image>
-    <!--<image>-->
-        <!--<path><![CDATA[/images/featured-content/HMJ-104-Flash-Feature.png]]></path>-->
-        <!--<description><![CDATA[Music from Adam Hall & The HMJ Awards on the next Hey Mister Jesse.]]></description>-->
-        <!--<thumbnail><![CDATA[/images/featured-content/HMJ-104-Flash-Feature_thm.png]]></thumbnail>-->
-        <!--<link><![CDATA[/show/heymisterjesse]]></link>-->
-    <!--</image>-->
     <image>
         <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
         <description><![CDATA[Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!]]></description>

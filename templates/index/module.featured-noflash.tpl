@@ -1,5 +1,12 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
+    <tr class="">
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-106-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
+            Patty & The Buttons, Gunhild Carling and The Smoking Time Jazz Club on Hey Mister Jesse.
+        </td>
+    </tr>
     <tr class="alt">
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-058-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
@@ -14,13 +21,6 @@
             Live broadcast of the International Lindy Hop Championships Aug 22 - 24!
         </td>
     </tr>
-    {*<tr class="">*}
-        {*<td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-104-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>*}
-        {*<td class="topic">*}
-            {*<strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />*}
-            {*Music from Adam Hall & The HMJ Awards on the next Hey Mister Jesse.*}
-        {*</td>*}
-    {*</tr>*}
     <tr class="alt">
         <td class="thumbnail"><a href="/frankie100"><img src="/images/featured-content/F100-Flash-Feature_thm.png" alt="Frankie 100" /></a></td>
         <td class="topic">
@@ -28,11 +28,11 @@
             Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!
         </td>
     </tr>
-     <tr class="">
-        <td class="thumbnail"><a href="/show/radio"><img src="/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png" alt="Yehoodi Radio" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/radio">Yehoodi Radio</a></strong><br />
-            Yehoodi Radio salutes Modern Swinging music this month on Guest DJ Thursdays.
-        </td>
-    </tr>
+     {*<tr class="">*}
+        {*<td class="thumbnail"><a href="/show/radio"><img src="/images/featured-content/Yehoodi_Radio_Modern_Swing_thm.png" alt="Yehoodi Radio" /></a></td>*}
+        {*<td class="topic">*}
+            {*<strong><a href="/show/radio">Yehoodi Radio</a></strong><br />*}
+            {*Yehoodi Radio salutes Modern Swinging music this month on Guest DJ Thursdays.*}
+        {*</td>*}
+    {*</tr>*}
 </table>
