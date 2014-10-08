@@ -11,7 +11,7 @@
         <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-058-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Winners of the Jazz Dance Film Festival and interview with Rusty Frank on SwingNation #59.
+            Lindy Hop vs. Street Dancers in Montreal and swing on TV again! Here's SwingNation #60.
         </td>
     </tr>
     <tr class="">
