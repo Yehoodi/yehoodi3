@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/SN-061-Flash-Feature.png]]></path>
+        <description><![CDATA[Siete minutos de amor con Juan Villafane on SwingNation #61.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-061-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-106-Flash-Feature.png]]></path>
         <description><![CDATA[Patty & The Buttons, Gunhild Carling and The Smoking Time Jazz Club on Hey Mister Jesse.]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-106-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/SN-060-Flash-Feature.png]]></path>
-        <description><![CDATA[Lindy Hop vs. Street Dancers in Montreal and swing on TV again! Here's SwingNation #60.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/SN-060-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/swingnation]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>
