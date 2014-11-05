@@ -1,17 +1,17 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-106-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-107-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Patty & The Buttons, Gunhild Carling and The Smoking Time Jazz Club on Hey Mister Jesse.
+            The Cope Street Parade and songs from Cats & The Canary and Project Trio on Hey Mister Jesse #107
         </td>
     </tr>
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-063-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-064-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Gaby Cook! Chorus Girls! Pizza! Two out of three ain't bad on SwingNation #63
+            Mr. Bingley, Mr. Darcy and Mr. Almonte on SwingNation #64
         </td>
     </tr>
     <tr class="">
