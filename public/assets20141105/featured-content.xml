@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+    <image>
+        <path><![CDATA[/images/featured-content/HMJ-107-Flash-Feature.png]]></path>
+        <description><![CDATA[The Cope Street Parade and songs from Cats & The Canary and Project Trio on Hey Mister Jesse #107]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-107-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/SN-064-Flash-Feature.png]]></path>
+        <description><![CDATA[Mr. Bingley, Mr. Darcy and Mr. Almonte on SwingNation #64]]></description>
+        <thumbnail><![CDATA[/images/featured-content/SN-064-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/swingnation]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>
+        <description><![CDATA[Live broadcast of the International Lindy Hop Championships Aug 22 - 24!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/ilhc]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
+        <description><![CDATA[Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!]]></description>
+        <thumbnail><![CDATA[/images/featured-content/F100-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[https://www.youtube.com/playlist?list=PLsNUOctiKdE75IhdEvRd0nkhsT-GSzgAX]]></link>
+    </image>
+</content>
