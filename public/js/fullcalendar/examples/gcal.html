@@ -12,7 +12,7 @@
 		$('#calendar').fullCalendar({
 		
 			// US Holidays
-			// events: $.fullCalendar.gcalFeed('http://www.google.com/calendar/render?cid=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2F9p1ilqt3hbg8941c920rmkkfjg%2540group.calendar.google.com%2Fpublic%2Fbasic'),
+			events: $.fullCalendar.gcalFeed('https://www.googleapis.com/calendar/v3/calendars/usa__en%40holiday.calendar.google.com/events?key=AIzaSyB2OWo6GhKjDli7Op_NUk1BFpsA3dTUISg'),
 			
 			eventClick: function(event) {
 				// opens events in a popup window
