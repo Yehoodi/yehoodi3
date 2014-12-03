@@ -8,10 +8,10 @@
         </td>
     </tr>
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-067-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-068-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
         <td class="topic">
             <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            Mikey Pedroza joins the crew to talk Lindy Hop on the next SwingNation!
+            We play Lindy Hop Cards Against Humanity on the next SwingNation!
         </td>
     </tr>
     <tr class="">
