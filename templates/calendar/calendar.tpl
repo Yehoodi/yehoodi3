@@ -17,7 +17,6 @@
     			{if $month === 0}month: 0,{else}month: {$month},{/if}
     			{if $day}date: {$day},{/if}{literal}
     			eventSources: [
-    			     jQuery.fullCalendar.gcalFeed('http://www.google.com/calendar/feeds/usa__en%40holiday.calendar.google.com/public/basic'),
     			     '/calendar/{/literal}{$calType}/{$categoryUrl}/?location={$location}{if $lon && $lat }&lon={$lon}&lat={$lat}{/if}{if $highlight}&h={$highlight}{/if}{literal}'
     		    ],
     
