@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/HMJ-109-Flash-Feature.png]]></path>
+        <description><![CDATA[Scott Bradlee & Postmodern Jukebox, ProleteR and The Southside Aces and more on HMJ #109]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-109-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/SN-069-Flash-Feature.png]]></path>
         <description><![CDATA[The final show of the season and the gang look back on 68 great shows and the future of SwingNation.]]></description>
         <thumbnail><![CDATA[/images/featured-content/SN-069-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/HMJ-108-Flash-Feature.png]]></path>
-        <description><![CDATA[Champagne Honeybee, George Gee, Postmodern Jukebox, Alex Pangman and more on HMJ #108]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-108-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>

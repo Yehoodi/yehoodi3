@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-108-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-109-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Champagne Honeybee, George Gee, Postmodern Jukebox, Alex Pangman and more on HMJ #108
+            Scott Bradlee & Postmodern Jukebox, ProleteR and The Southside Aces and more on HMJ #109
         </td>
     </tr>
     <tr class="alt">
