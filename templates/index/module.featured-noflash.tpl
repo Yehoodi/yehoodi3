@@ -1,17 +1,17 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="">
+        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-SE04-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
+        <td class="topic">
+            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
+            Interview with Gex Williams and Brian Crone, producers of CtrlAltDance The Movie on this special edition SwingNation.
+        </td>
+    </tr>
+    <tr class="alt">
         <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-109-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
             Scott Bradlee & Postmodern Jukebox, ProleteR and The Southside Aces and more on HMJ #109
-        </td>
-    </tr>
-    <tr class="alt">
-        <td class="thumbnail"><a href="/show/swingnation"><img src="/images/featured-content/SN-069-Flash-Feature_thm.png" alt="SwingNation" /></a></td>
-        <td class="topic">
-            <strong><a href="/show/swingnation">SwingNation</a></strong><br />
-            The final show of the season and the gang look back on 68 great shows and the future of SwingNation.
         </td>
     </tr>
     <tr class="">
