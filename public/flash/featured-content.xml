@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/HMJ-110-Flash-Feature.png]]></path>
+        <description><![CDATA[Michal "Peanut" Karmi, Chelsea Reed & The Fair Weather Five, The Swingaroos and more on HMJ #110]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-110-Flash-Feature_thm.png]]></thumbnail>
+        <link><![CDATA[/show/heymisterjesse]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/SN-SE04-Flash-Feature.png]]></path>
         <description><![CDATA[Interview with Gex Williams and Brian Crone, producers of CtrlAltDance The Movie on this special edition SwingNation.]]></description>
         <thumbnail><![CDATA[/images/featured-content/SN-SE04-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/HMJ-109-Flash-Feature.png]]></path>
-        <description><![CDATA[Scott Bradlee & Postmodern Jukebox, ProleteR and The Southside Aces and more on HMJ #109]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-109-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>
