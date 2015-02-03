@@ -8,10 +8,10 @@
         </td>
     </tr>
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-109-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-110-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            Scott Bradlee & Postmodern Jukebox, ProleteR and The Southside Aces and more on HMJ #109
+            Michal "Peanut" Karmi, Chelsea Reed & The Fair Weather Five, The Swingaroos and more on HMJ #110
         </td>
     </tr>
     <tr class="">
