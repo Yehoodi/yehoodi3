@@ -161,3 +161,12 @@
     }
 
 	$frontController->getRouter()->addRoute('swingnation',$swingnationRoute);
+
+    // Set up the route for the Code of Conduct Page
+    $cocRoute = new Zend_Controller_Router_Route('codeofconduct/*',
+        array('controller'	=> 'help',
+            'action'		=> 'index',
+            'page'       	=> 'codeofconduct'
+        )
+    );
+    $frontController->getRouter()->addRoute('codeofconduct',$cocRoute);
