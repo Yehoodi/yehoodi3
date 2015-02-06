@@ -27,6 +27,7 @@ class HelpController extends CustomControllerAction
             case 'faq':
             case 'terms-of-agreement':
             case 'colophon':
+            case 'codeofconduct':
             case 'roadmap':
 			case 'contact':
 			    $this->view->section = $this->page;
@@ -34,7 +35,7 @@ class HelpController extends CustomControllerAction
                 break;
             
             default:
-                $this->_helper->viewRenderer('index');
+                    $this->_helper->viewRenderer('index');
                 break;
         }
     }
