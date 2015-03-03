@@ -199,7 +199,7 @@ class CustomControllerAction extends Zend_Controller_Action
          */
         protected function generateToken($seed='jessicaAlb@')
 		{
-			$token = md5($seed.mktime());
+			$token = md5($seed.time());
 			$globalSession = new Zend_Session_Namespace('global_data');
 			$globalSession->token = $token;
 			return $token;

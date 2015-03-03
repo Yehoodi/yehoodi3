@@ -20,7 +20,7 @@
           <script type='text/javascript' src='/js/fullcalendar/gcal.{$jsExt}{$version}'></script>
      {/if}
 
-     {if $env != 'production'}     
+     {if $env != 'production'}
           <script type="text/javascript" src="/js/frameworks/prototype1.5.1.js"></script>
           <script type="text/javascript" src="/js/frameworks/scriptaculous.js"></script>
      {else}
@@ -32,7 +32,7 @@
           <script type="text/javascript" src="/js/lib/swfobject.js"></script>
           <script type="text/javascript">
           	swfobject.registerObject("flashCarousel", "9", "/flash/expressInstall.swf");
-          </script>            
+          </script>
           <meta http-equiv="Pragma" content="no-cache" />
           <meta http-equiv="Expires" content="-1" />
      {/if}
@@ -51,11 +51,11 @@
      {if $controller == 'mail' }
         <link href="/css/wmd.css" media="all" rel="Stylesheet" type="text/css" />
      {/if}
-     
+
      {if $controller == 'submit' }
         <link href="/css/wmd.css" media="all" rel="Stylesheet" type="text/css" />
      {/if}
-     
+
      {if $maps}
      	<script type="text/javascript" src="http://www.google.com/jsapi?key={$mapConfig->googleAPIKey|escape}"> </script>
      {/if}
@@ -101,9 +101,9 @@
                          <li id="nav_show"><a {if $controller == 'show'} class="current-page"{/if} href="{geturl controller='show'}">Shows &amp; Podcasts</a></li>
                          <li id="nav_submit"><a {if $controller == 'submit'} class="current-page"{/if} href="{geturl controller='submit'}">Add a Topic</a></li>
                     </ul>
-                    <form method="get" action="{geturl controller='search'}">
-                    	<input class="input_text" value="Search Yehoodi..." id="input_searchBox" name="q" {if $q}value="{$q|escape}"{/if} type="text" />
-                    </form>
+                    {*<form method="get" action="{geturl controller='search'}">*}
+                    	{*<input class="input_text" value="Search Yehoodi..." id="input_searchBox" name="q" {if $q}value="{$q|escape}"{/if} type="text" />*}
+                    {*</form>*}
                </div> <!-- #div_navigation -->
           </div> <!-- #div_headerContent -->
      </div> <!-- #div_header -->

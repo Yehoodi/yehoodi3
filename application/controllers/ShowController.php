@@ -9,6 +9,7 @@
  */
 class ShowController extends CustomControllerAction 
 {
+	const SHOW_THE_TRACK           = 'TRK';
 	const SHOW_HEY_MISTER_JESSE    = 'HMJ';
 	const SHOW_YEHOODI_TALK        = 'YTS';
 	const SHOW_YEHOODI_VIDEO       = 'YTV';
@@ -18,6 +19,7 @@ class ShowController extends CustomControllerAction
 	const SHOW_SWINGNATION		   = 'SWN';
 	const SHOW_ILHC2012 		   = 'ILHA';
 	const SHOW_ILHC2013 		   = 'ILHB';
+	const SHOW_ILHC2014 		   = 'ILHB';
 
 	public function init()
 	{
@@ -101,7 +103,24 @@ class ShowController extends CustomControllerAction
         $this->renderPage();
 
     }
-    
+
+    public function thetrackAction()
+    {
+        // Get the rsrc_ids for the shows
+        $options = array('show_code' => self::SHOW_THE_TRACK
+        );
+        $this->shows = DatabaseObject_Resource::getResourcesByShowCode($this->db, $options);
+
+        // Assign to smarty
+        $this->view->showTitle = 'The Track - With Ryan Swift';
+        $this->view->showCode = self::SHOW_THE_TRACK ;
+        $this->view->showURL = 'thetrack?episode=';
+        $this->view->feed = 'http://www.yehoodi.com/rss/thetrack.xml';
+
+        $this->renderPage();
+
+    }
+
     public function lindymanAction()
     {
         // Get the rsrc_ids for the shows
@@ -178,6 +197,21 @@ class ShowController extends CustomControllerAction
         $this->view->showTitle = 'International Lindy Hop Championships 2013 Live Coverage';
         $this->view->showCode = self::SHOW_ILHC2013;
         $this->view->showURL = 'ilhc2013?episode=';
+
+        $this->renderPage();
+    }
+
+    public function ilhc2014Action()
+    {
+        // Get the rsrc_ids for the shows
+        $options = array('show_code' => self::SHOW_ILHC2014
+        );
+        $this->shows = DatabaseObject_Resource::getResourcesByShowCode($this->db, $options);
+
+        // Assign to smarty
+        $this->view->showTitle = 'International Lindy Hop Championships 2014 Live Coverage';
+        $this->view->showCode = self::SHOW_ILHC2014;
+        $this->view->showURL = 'ilhc2014?episode=';
 
         $this->renderPage();
     }
