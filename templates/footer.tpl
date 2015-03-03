@@ -60,7 +60,7 @@
 </script>
 
 <script type="text/javascript" src="/js/lib/konami-js/konami.js"></script>
-<script type="text/javascript" src="/js/lib/konami-js/konami_example.js"></script>	
+<script type="text/javascript" src="/js/lib/konami-js/konami_example.js"></script>
 <script type="text/javascript">
     konami.load();
 </script>
