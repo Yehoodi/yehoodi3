@@ -283,9 +283,11 @@ class UtilityController extends CustomControllerAction
             $info = getImageSize($fullpath);
         }
 
-        $response->setHeader('content-type', $info['mime']);
-        $response->setHeader('content-length', filesize($fullpath));
-        echo file_get_contents($fullpath);
+        if ($info) {
+            $response->setHeader('content-type', $info['mime']);
+            $response->setHeader('content-length', filesize($fullpath));
+            echo file_get_contents($fullpath);
+        }
     }
 
 	public static function cleanUpUserName($text) {

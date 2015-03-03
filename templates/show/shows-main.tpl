@@ -2,13 +2,13 @@
 <p>Yehoodi produces the following audio and video media for your info-tainment:</p>
 
 <div class="grid_8 alpha text showBlock">
-    <h2 class="showTitle">SwingNation</h2>
+    <h2 class="showTitle">The Track</h2>
     <div class="grid_3 alpha">
-        <a href="{geturl controller='show'}swingnation"><img class="showLogo" src="/images/graphics/SwingNationShowPageImg.png" alt="SwingNation" title="SwingNation" /></a>
+        <a href="{geturl controller='show'}thetrack"><img class="showLogo" src="/images/graphics/TheTrackPageImg.png" alt="The Track" title="The Track" /></a>
     </div>
     <div class="grid_5 omega">
-		<p>SwingNation is the latest creation from Yehoodi. join Spuds, ZuckerPunch and Rikomatic as they bring you news, interviews and videos from the Lindy Hop world.</p>
-		<p><a class="iconText iconFilmLarge" href="{geturl controller='show'}swingnation">Watch SwingNation</a></p>
+		<p>Join your host Ryan "Swifty" Swift as he chats with dancers, instructors, performers and people of the Lindy Hop community.</p>
+		<p><a class="iconText iconSpeakerLarge" href="{geturl controller='show'}thetrack">Listen to The Track</a></p>
 	</div>
 </div>
 
@@ -20,6 +20,29 @@
     <div class="grid_4 omega">
 	    <p>DJ Jesse Miner will serve up a platter of swingin' music that matters to dancers. Check out the show every month to hear music, interviews, listener feedback and news about the music swing dancers love.</p>
 	    <p><a class="iconText iconSpeakerLarge" href="{geturl controller='show'}heymisterjesse">Listen to Hey Mister Jesse</a></p>
+    </div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="grid_8 alpha text showBlock">
+    <h2 class="showTitle">SwingNation</h2>
+    <div class="grid_3 alpha">
+        <a href="{geturl controller='show'}swingnation"><img class="showLogo" src="/images/graphics/SwingNationShowPageImg.png" alt="SwingNation" title="SwingNation" /></a>
+    </div>
+    <div class="grid_5 omega">
+		<p>SwingNation is the latest creation from Yehoodi. join Spuds, ZuckerPunch and Rikomatic as they bring you news, interviews and videos from the Lindy Hop world.</p>
+		<p><a class="iconText iconFilmLarge" href="{geturl controller='show'}swingnation">Watch SwingNation</a></p>
+	</div>
+</div>
+
+<div class="grid_7 omega text showBlock">
+    <h2 class="showTitle">ILHC 2014 Live Coverage</h2>
+    <div class="grid_3 alpha">
+        <a href="http://www.youtube.com/playlist?list=PLsNUOctiKdE6XrlfJEu6ypQQbbpctVGfo"><img class="showLogo" src="/images/graphics/2014_ILHC_Open_FinalTitle_small.png" alt="Hey Mister Jesse" title="Hey Mister Jesse" /></a>
+    </div>
+    <div class="grid_4 omega">
+	    <p>Watch the live coverage of the International Lindy Hop Championships 2014 in Arlington, VA as presented by the Yehoodi crew.</p>
+	    <p><a class="iconText iconFilmLarge" href="http://www.youtube.com/playlist?list=PLsNUOctiKdE6XrlfJEu6ypQQbbpctVGfo">ILHC Live Coverage</a></p>
     </div>
 </div>
 <div class="clear">&nbsp;</div>

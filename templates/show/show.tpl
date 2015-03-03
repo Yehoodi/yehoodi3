@@ -11,6 +11,8 @@
 		 {include file='show/show-content-top-ilhc2012.tpl'}
 	 {elseif $showCode == 'ILHB'}
 		 {include file='show/show-content-top-ilhc2013.tpl'}
+	 {elseif $showCode == 'ILHC'}
+		 {include file='show/show-content-top-ilhc2014.tpl'}
      {else}
          {include file='show/show-content-top.tpl'}
      {/if}
