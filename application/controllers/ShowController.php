@@ -112,7 +112,7 @@ class ShowController extends CustomControllerAction
         $this->shows = DatabaseObject_Resource::getResourcesByShowCode($this->db, $options);
 
         // Assign to smarty
-        $this->view->showTitle = 'The Track - With Ryan Swift';
+        $this->view->showTitle = 'The Track - with Ryan Swift';
         $this->view->showCode = self::SHOW_THE_TRACK ;
         $this->view->showURL = 'thetrack?episode=';
         $this->view->feed = 'http://www.yehoodi.com/rss/thetrack.xml';
