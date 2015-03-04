@@ -18,6 +18,8 @@
 <div id="div_currentShow" class="grid_8 omega text">
 {if $showCode == 'HMJ'}
     {include file='show/show-description-heymisterjesse.tpl'}
+{elseif $showCode == 'TRK'}
+    {include file='show/show-description-thetrack.tpl'}
 {elseif $showCode == 'YTS'}
     {include file='show/show-description-yehooditalkshow.tpl'}
 {elseif $showCode == 'LIN'}
