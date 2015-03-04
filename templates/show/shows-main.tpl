@@ -2,8 +2,8 @@
 <p>Yehoodi produces the following audio and video media for your info-tainment:</p>
 
 <div class="grid_8 alpha text showBlock">
-    <h2 class="showTitle">The Track</h2>
-    <div class="grid_3 alpha">
+    <h2 class="showTitle">The Track - with Ryan Swift</h2>
+    <div class="grid_3 alpha" style="height: 195px;">
         <a href="{geturl controller='show'}thetrack"><img class="showLogo" src="/images/graphics/TheTrackPageImg.png" alt="The Track" title="The Track" /></a>
     </div>
     <div class="grid_5 omega">
@@ -14,7 +14,7 @@
 
 <div class="grid_7 omega text showBlock">
     <h2 class="showTitle">Hey Mister Jesse</h2>
-    <div class="grid_3 alpha">
+    <div class="grid_3 alpha" style="height: 195px;">
         <a href="{geturl controller='show'}heymisterjesse"><img class="showLogo" src="/images/graphics/HMJ_Logo_150.png" alt="Hey Mister Jesse" title="Hey Mister Jesse" /></a>
     </div>
     <div class="grid_4 omega">
@@ -37,7 +37,7 @@
 
 <div class="grid_7 omega text showBlock">
     <h2 class="showTitle">ILHC 2014 Live Coverage</h2>
-    <div class="grid_3 alpha">
+    <div class="grid_3 alpha" style="height: 195px;">
         <a href="http://www.youtube.com/playlist?list=PLsNUOctiKdE6XrlfJEu6ypQQbbpctVGfo"><img class="showLogo" src="/images/graphics/2014_ILHC_Open_FinalTitle_small.png" alt="Hey Mister Jesse" title="Hey Mister Jesse" /></a>
     </div>
     <div class="grid_4 omega">
@@ -48,24 +48,24 @@
 <div class="clear">&nbsp;</div>
 
 <div class="grid_8 alpha text showBlock">
-    <h2 class="showTitle">ILHC 2012 Live Coverage</h2>
-    <div class="grid_3 alpha" style="height: 190px;">
-        <a href="{geturl controller='show'}ilhc2012"><img class="showLogo" src="/images/graphics/ILHClogo120x120.png" alt="ILHC 2012 Live Coverage" title="ILHC 2012 Live Coverage" /></a>
+    <h2 class="showTitle">ILHC 2013 Live Coverage</h2>
+    <div class="grid_3 alpha" style="height: 195px;">
+        <a href="{geturl controller='show'}ilhc2013"><img class="showLogo" src="/images/graphics/2013_ILHC_Open_FinalTitle_small.png" alt="ILHC 2013 Live Coverage" title="ILHC 2013 Live Coverage" /></a>
     </div>
     <div class="grid_5 omega">
-        <p>Watch the live coverage of the International Lindy Hop Championships 2012 in Arlington, VA as presented by the Yehoodi crew.</p>
-        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2012">ILHC Live Coverage</a></p>
+        <p>Watch the live coverage of the International Lindy Hop Championships 2013 in Arlington, VA as presented by the Yehoodi crew. This time in full HD.</p>
+        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2013">ILHC 2013 Live Coverage.</a></p>
     </div>
 </div>
 
 <div class="grid_7 omega text showBlock">
-    <h2 class="showTitle">ILHC 2013 Live Coverage</h2>
-    <div class="grid_3 alpha">
-        <a href="{geturl controller='show'}ilhc2013"><img class="showLogo" src="/images/graphics/2013_ILHC_Open_FinalTitle_small.png" alt="ILHC 2013 Live Coverage" title="ILHC 2013 Live Coverage" /></a>
+    <h2 class="showTitle">ILHC 2012 Live Coverage</h2>
+    <div class="grid_3 alpha" style="height: 195px;">
+        <a href="{geturl controller='show'}ilhc2012"><img class="showLogo" src="/images/graphics/ILHClogo120x120.png" alt="ILHC 2012 Live Coverage" title="ILHC 2012 Live Coverage" /></a>
     </div>
     <div class="grid_4 omega">
-        <p>Watch the live coverage of the International Lindy Hop Championships 2013 in Arlington, VA as presented by the Yehoodi crew. This time in full HD.</p>
-        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2013">ILHC 2013 Live Coverage.</a></p>
+        <p>Watch the live coverage of the International Lindy Hop Championships 2012 in Arlington, VA as presented by the Yehoodi crew.</p>
+        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2012">ILHC Live Coverage</a></p>
     </div>
 </div>
 <div class="clear">&nbsp;</div>
@@ -95,7 +95,7 @@
 
 <div class="grid_8 alpha text showBlock">
     <h2 class="showTitle">Yehoodi Radio</h2>
-    <div class="grid_3 alpha" style="height: 190px;">
+    <div class="grid_3 alpha" style="height: 195px;">
         <a href="{geturl controller='show'}radio"><img class="showLogo" src="/images/graphics/vint_radio.gif" alt="Yehoodi Radio" title="Yehoodi Radio" /></a>
     </div>
     <div class="grid_5 omega">
@@ -106,7 +106,7 @@
 
 <div class="grid_7 omega text showBlock">
     <h2 class="showTitle">Yehoodi Talk Show Video Edition</h2>
-    <div class="grid_3 alpha">
+    <div class="grid_3 alpha" style="height: 195px;">
         <a href="{geturl controller='show'}yehoodivideo"><img class="showLogo" src="/images/graphics/YTV-Logo.png" alt="Yehoodi Talk Show" title="Yehoodi Talk Show" /></a>
     </div>
     <div class="grid_4 omega">
