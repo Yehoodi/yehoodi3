@@ -225,6 +225,11 @@ class AccountController extends CustomControllerAction
      */
     public function registerAction()
     {
+        // Registration closed
+        if (Zend_Registry::get('serverConfig')->RegistrationClosed) {
+            $this->_redirect($this->getUrl('','register'));
+        }
+
         $identity = Zend_Auth::getInstance()->getIdentity();
     	
         if($identity) {
