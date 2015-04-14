@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
-        <path><![CDATA[/images/featured-content/HMJ-110-Flash-Feature.png]]></path>
-        <description><![CDATA[Michal "Peanut" Karmi, Chelsea Reed & The Fair Weather Five, The Swingaroos and more on HMJ #110]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-110-Flash-Feature_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/HMJ-112-Flash-Feature.png]]></path>
+        <description><![CDATA[8-Count Swing tribute to European swing with 8 new releases and more on Hey Mister Jesse #112]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-112-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
@@ -12,12 +12,12 @@
         <thumbnail><![CDATA[/images/featured-content/SN-SE04-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/swingnation]]></link>
     </image>
-    <image>
-        <path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>
-        <description><![CDATA[Live broadcast of the International Lindy Hop Championships Aug 22 - 24!]]></description>
-        <thumbnail><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature_thm.png]]></thumbnail>
-        <link><![CDATA[/ilhc]]></link>
-    </image>
+    <!--<image>-->
+    <!--<path><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature.png]]></path>-->
+    <!--<description><![CDATA[Live broadcast of the International Lindy Hop Championships Aug 22 - 24!]]></description>-->
+    <!--<thumbnail><![CDATA[/images/featured-content/ILHC-2014-Flash-Feature_thm.png]]></thumbnail>-->
+    <!--<link><![CDATA[/ilhc]]></link>-->
+    <!--</image>-->
     <image>
         <path><![CDATA[/images/featured-content/F100-Flash-Feature.png]]></path>
         <description><![CDATA[Watch portions of the Frankie Manning Centennial in NYC brought to you by Yehoodi, May 23 - 25!]]></description>
