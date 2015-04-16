@@ -95,7 +95,7 @@ class CronController extends CustomControllerAction
         	    $this->link = "http://www.yehoodi.com/show/{$this->resource}";
                 $this->editor = "Ryan Swift";
                 $this->email = "ryan@ryanswift.com";
-                $this->description = "Each month on The Track, join host Ryan Swift as he sits down for an in-depth & candid conversation with swing dancers, musicians, DJs, competitors, and instructors from the world of Lindy Hop.";
+                $this->description = "Each month on The Track, join host Ryan Swift as he sits down for an in-depth and candid conversation with swing dancers, musicians, DJs, competitors, and instructors from the world of Lindy Hop.";
                 $this->keywords = 'swing,jazz,dance,lindy';
                 $this->rating = 'clean';
                 $this->includeMedia = true;
