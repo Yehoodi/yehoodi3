@@ -103,7 +103,7 @@ class CronController extends CustomControllerAction
                 $this->includeGuid = true;
 
                 // Image stuff
-    	        $this->imageURL = "http://www.yehoodi.com/images/graphics/TheTrackPageImg.png";
+    	        $this->imageURL = "http://www.yehoodi.com/images/graphics/TheTrack_TitleCard.jpg";
     	        $this->imageTitle = $this->title;
     	        $this->imageLink = $this->link;
     	        $this->imageDescription = $this->description;
