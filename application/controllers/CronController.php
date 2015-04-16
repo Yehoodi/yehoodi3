@@ -88,7 +88,37 @@ class CronController extends CustomControllerAction
         						 'order'		=> 'r.rsrc_date DESC'
                                 );
                 break;
-    	        
+
+            case 'thetrack':
+        		// Header values
+        		$this->title = "The Track - with Ryan Swift";
+        	    $this->link = "http://www.yehoodi.com/show/{$this->resource}";
+                $this->editor = "Ryan Swift";
+                $this->email = "ryan@ryanswift.com";
+                $this->description = "Each month on The Track, join host Ryan Swift as he sits down for an in-depth & candid conversation with swing dancers, musicians, DJs, competitors, and instructors from the world of Lindy Hop.";
+                $this->keywords = 'swing,jazz,dance,lindy';
+                $this->rating = 'clean';
+                $this->includeMedia = true;
+                $this->includeITunes = true;
+                $this->includeGuid = true;
+
+                // Image stuff
+    	        $this->imageURL = "http://www.yehoodi.com/images/graphics/TheTrackPageImg.png";
+    	        $this->imageTitle = $this->title;
+    	        $this->imageLink = $this->link;
+    	        $this->imageDescription = $this->description;
+    	        $this->imageWidth = 150;
+    	        $this->imageHeight = 150;
+
+                $options = array('show_code' => ShowController::SHOW_THE_TRACK,
+                                 );
+                $trkResources = DatabaseObject_Resource::getResourcesByShowCode($this->db, $options);
+
+                $options = array('rsrc_id' => $trkResources,
+        						 'order'		=> 'r.rsrc_date DESC'
+                                );
+                break;
+
     	    case 'yehoodivideo':
         		// Header values
         		$this->title = "The Yehoodi Talk Show: Video Edition";
@@ -376,7 +406,7 @@ class CronController extends CustomControllerAction
 		// Vars for the Header section of all the RSS feeds
 		$title            = $this->title;
 		$description      = $this->description;
-		$copyright        = "2013 Yehoodi.com";
+		$copyright        = "2015 Yehoodi.com";
 		$language         = "en-us";
 		$link             = $this->link;
 		$lastUpdate       = strtotime($this->today);
