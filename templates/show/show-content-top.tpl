@@ -4,15 +4,7 @@
 
 <div id="div_mediaPlayer" class="grid_8 alpha">
     <img src="{imagefilename id=$currentShow->image->getId() w=488 h=314}" alt="placeholder" /><br />
-    {if $smart_device}
-        <audio src="{$currentShow->extended->media_url}" controls="controls"></audio>
-    {else}
-        <object type="application/x-shockwave-flash" data="/flash/player_mp3_maxi_0.6.0.swf" width="450" height="40">
-        <param name="movie" value="/flash/player_mp3_maxi_0.6.0.swf" />
-        <param name="bgcolor" value="#CBBB95" />
-        <param name="FlashVars" value="mp3={$currentShow->extended->media_url}&amp;showstop=1&amp;showinfo=1&amp;showvolume=1&amp;showloading=always&amp;loadingcolor=ffff3d&amp;bgcolor=CBBB95" />
-        </object>
-    {/if}
+    <audio src="{$currentShow->extended->media_url}" controls="controls"></audio>
 </div>
 
 <div id="div_currentShow" class="grid_8 omega text">
