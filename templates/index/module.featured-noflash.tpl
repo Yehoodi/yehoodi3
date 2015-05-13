@@ -8,10 +8,10 @@
         </td>
     </tr>
     <tr class="alt">
-        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-112-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
+        <td class="thumbnail"><a href="/show/heymisterjesse"><img src="/images/featured-content/HMJ-113-Flash-Feature_thm.png" alt="Hey Mister Jesse" /></a></td>
         <td class="topic">
             <strong><a href="/show/heymisterjesse">Hey Mister Jesse</a></strong><br />
-            8-Count Swing tribute to European swing with 8 new releases and more on Hey Mister Jesse #112
+            May's show features an 8-Count Swing tribute to US swing on Hey Mister Jesse #113
         </td>
     </tr>
     <tr class="">

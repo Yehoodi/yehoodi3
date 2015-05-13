@@ -101,9 +101,9 @@
                          <li id="nav_show"><a {if $controller == 'show'} class="current-page"{/if} href="{geturl controller='show'}">Shows &amp; Podcasts</a></li>
                          <li id="nav_submit"><a {if $controller == 'submit'} class="current-page"{/if} href="{geturl controller='submit'}">Add a Topic</a></li>
                     </ul>
-                    {*<form method="get" action="{geturl controller='search'}">*}
-                    	{*<input class="input_text" value="Search Yehoodi..." id="input_searchBox" name="q" {if $q}value="{$q|escape}"{/if} type="text" />*}
-                    {*</form>*}
+                    <form method="get" action="{geturl controller='search'}">
+                    	<input class="input_text" value="Search Yehoodi..." id="input_searchBox" name="q" {if $q}value="{$q|escape}"{/if} type="text" />
+                    </form>
                </div> <!-- #div_navigation -->
           </div> <!-- #div_headerContent -->
      </div> <!-- #div_header -->
