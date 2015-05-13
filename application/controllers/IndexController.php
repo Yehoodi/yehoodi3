@@ -48,7 +48,7 @@ class IndexController extends CustomControllerAction
 		$this->day = $dateTime->format("d");
         $this->view->swingNationLive = false;
 
-		$dateTime->modify('-1 month');
+		$dateTime->modify('-6 month');
 		$this->lastMonth = $dateTime->format("Y-m-d H:i:s");
 		
 		// Pull latest activity for each module
@@ -85,7 +85,7 @@ class IndexController extends CustomControllerAction
                          'date_last_active_end'       => $this->today,
 		                 'order'                      => 'date_last_active',
 						 'is_active'                  => DatabaseObject_Resource::STATUS_LIVE,
-                         'range'                      => '90days',
+                         'range'                      => '180days',
 						 'limit'                      => self::LINDY_LIMIT ,
                          'action'                     => 'latestLindy',
                          'date_last_active_start'
@@ -103,7 +103,7 @@ class IndexController extends CustomControllerAction
                          'date_last_active_end'       => $this->today,
 		                 'order'                      => 'date_last_active',
 						 'is_active'                  => DatabaseObject_Resource::STATUS_LIVE,
-                         'range'                      => '90days',
+                         'range'                      => '6months',
 						 'limit'                      => self::LOUNGE_LIMIT ,
                          'action'                     => 'latestLounge'
  						 );
@@ -120,7 +120,7 @@ class IndexController extends CustomControllerAction
                          'date_last_active_end'       => $this->today,
 		                 'order'                      => 'date_last_active',
 						 'is_active'                  => DatabaseObject_Resource::STATUS_LIVE,
-                         'range'                      => '90days',
+                         'range'                      => '180days',
 						 'limit'                      => self::EVENT_LIMIT ,
                          'action'                     => 'latestEvent'
  						 );
