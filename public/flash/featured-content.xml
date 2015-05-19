@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
+        <path><![CDATA[/images/featured-content/The-Track-002-Flash-Template.png]]></path>
+        <description><![CDATA[Nina Gilkenson joins Ryan Swift on the next The Track Podcast.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/The-Track-002-Flash-Template_thm.png]]></thumbnail>
+        <link><![CDATA[/show/thetrack]]></link>
+    </image>
+    <image>
         <path><![CDATA[/images/featured-content/HMJ-113-Flash-Feature.png]]></path>
         <description><![CDATA[May's show features an 8-Count Swing tribute to US swing on Hey Mister Jesse #113]]></description>
         <thumbnail><![CDATA[/images/featured-content/HMJ-113-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/The-Track-001---Flash-Template.png]]></path>
-        <description><![CDATA[Ryan is joined by Lindy Hop star and MC Hammer wanna be Peter Strom in the premiere show.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/The-Track-001---Flash-Template_thm.png]]></thumbnail>
-        <link><![CDATA[/show/thetrack]]></link>
     </image>
     <image>
         <path><![CDATA[/images/featured-content/SN-SE04-Flash-Feature.png]]></path>
