@@ -1,10 +1,10 @@
 <h2>Yehoodi Featured Content</h2>
 <table id="featuredTable" class="results resourceSmall">
     <tr class="">
-        <td class="thumbnail"><a href="/show/thetrack"><img src="/images/featured-content/The-Track-001---Flash-Template.png" alt="The Track" /></a></td>
+        <td class="thumbnail"><a href="/show/thetrack"><img src="/images/featured-content/The-Track-002-Flash-Template.png" alt="The Track" /></a></td>
         <td class="topic">
             <strong><a href="/show/thetrack">The Track with Ryan Swift</a></strong><br />
-            Ryan is joined by Lindy Hop star and MC Hammer wanna be Peter Strom in the premiere show.
+            Nina Gilkenson joins Ryan Swift on the next The Track Podcast.
         </td>
     </tr>
     <tr class="alt">
