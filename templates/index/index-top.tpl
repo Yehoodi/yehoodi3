@@ -15,11 +15,11 @@
     <div id="div_flashFeatured">
      	<span id="flashFeatured">
             <object id="flashCarousel" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="200">
-                <param name="FlashVars" value="xmlfile=/assets20150518/featured-content.xml" />
-                <param name="movie" value="/assets20150518/featured-content2.swf" />
+                <param name="FlashVars" value="xmlfile=/assets20150616/featured-content.xml" />
+                <param name="movie" value="/assets20150616/featured-content2.swf" />
                 <param name="quality" value="high" />
                 <!--[if !IE]>-->
-                <object type="application/x-shockwave-flash" data="/assets20150518/featured-content2.swf" width="640" height="200">
+                <object type="application/x-shockwave-flash" data="/assets20150616/featured-content2.swf" width="640" height="200">
                     <!--<![endif]-->
                     {include file='index/module.featured-noflash.tpl'}
                     <!--[if !IE]>-->
