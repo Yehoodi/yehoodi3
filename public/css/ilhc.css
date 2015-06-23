@@ -5,7 +5,7 @@ body { background: #4c1813 url('/images/graphics/ilhc2015_background.png') no-re
 	background-size: cover !important; 
 	color: #000 !important; } 
 	
-#div_header, #div_footer { background: #2d2221 url('/images/graphics/ilhc2014_header.gif') !important; border-color: #1f1615 !important; border-style: solid !important; color: #f5d879; }
+#div_header, #div_footer { background: #2d2221 url('/images/graphics/ilhc2015_header.gif') !important; border-color: #1f1615 !important; border-style: solid !important; color: #f5d879; }
 
 #div_header { margin-top: -40px; margin-bottom: 28px; border-bottom-width: 4px; }
 #div_headerContent h1 { top: 50px !important; }
