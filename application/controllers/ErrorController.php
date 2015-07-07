@@ -106,7 +106,10 @@ class ErrorController extends CustomControllerAction
 		} elseif ($controller == 'jira') {
     		
 	        $this->_redirect(Zend_Registry::get('serverConfig')->jiraURL);
-		    
+
+        } elseif ($controller == 'donate') {
+
+            $this->_redirect('http://igg.me/at/ilhc2015/x/1568772');
 		}
     }
 }
