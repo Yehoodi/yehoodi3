@@ -10,47 +10,40 @@
         <strong><em>Having technical issues?</em></strong>
         Post to our <a href="/comment/176415/live-from-ilhc2014-technical/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
     </p>
-    <iframe src="http://new.livestream.com/accounts/774982/events/3263177/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
-	<script type="text/javascript" src="http://new.livestream.com/assets/plugins/feed-auto-grow.js"></script>
+    {*<iframe src="http://new.livestream.com/accounts/774982/events/3263177/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>*}
+    <iframe src="http://livestream.com/accounts/774982/events/4278025/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
+    <script type="text/javascript" src="http://new.livestream.com/assets/plugins/feed-auto-grow.js"></script>
 </div>
 <div class="grid_4 omega faq">
-	<h2>ILHC 2015 is on its way!</h2>
-    <p>Get ready for another great year of competitions, commentary and excitement. We will have more updates as the event gets closer. And thanks for supporting Yehoodi.com's broadcast!</p>
-	<h2>Broadcast Schedule coming soon!</h2>
+	<h2>Broadcast Schedule</h2>
     <p>NOTE: All times are Eastern Standard Time. Please use <a href="http://www.timeanddate.com">TimeandDate.com</a> to convert to your local time zone.
     Schedule subject to change. See <a href="http://www.ilhc.com/" target="_blank">ILHC Official website</a> for more information. </p>
 	<div id="schedule">
 		<table>
             <tr><th colspan="2">Friday, August 28</th></tr>
-			{*<tr><td>9:00pm</td><td><strong>Broadcast Begins</strong></td></tr>*}
-			{*<tr><td>9:15pm</td><td><strong>Slow Dance</strong></td></tr>*}
-			{*<tr><td>10:00pm</td><td><strong>Showcase Pro</strong></td></tr>*}
-			{*<tr><td>11:40pm</td><td><strong>Strictly Lindy<br>Advanced</strong></td></tr>*}
-			{*<tr><td>12:55am</td><td><strong>Solo Charleston<br>Finals</strong></td></tr>*}
-			{*<tr><td>1:30am</td><td><strong>All Star<br>Strictly Lindy</strong></td></tr>*}
+			<tr><td>9:00pm</td><td><strong>Broadcast Begins</strong></td></tr>
+			<tr><td>9:30pm</td><td><strong>Lindy Showcase Pro</strong></td></tr>
+			<tr><td>11:10pm</td><td><strong>Lindy Strictly<br>Advanced</strong></td></tr>
+			<tr><td>12:25am</td><td><strong>Solo Charleston<br>Finals</strong></td></tr>
 		</table>
 		<table>
 			<tr><th colspan="2">Saturday, August 29</th></tr>
-            {*<tr><td>9:00pm</td><td><strong>Broadcast Begins</strong></td></tr>*}
-            {*<tr><td>9:15pm</td><td><strong>Strictly Balboa<br>Finals</strong></td></tr>*}
-            {*<tr><td>9:30pm</td><td><strong>Honoree Presentation</strong></td></tr>*}
-            {*<tr><td>10:00pm</td><td><strong>Classic Pro</strong></td></tr>*}
-            {*<tr><td>11:40pm</td><td><strong>Open Strictly<br>Finals</strong></td></tr>*}
-            {*<tr><td>12:55pm</td><td><strong>Invitational Strictly</strong></td></tr>*}
-			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
-			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+            <tr><td>9:00pm</td><td><strong>Broadcast Begins</strong></td></tr>
+            <tr><td>9:15pm</td><td><strong>Balboa Strictly <br>Finals</strong></td></tr>
+            <tr><td>10:00pm</td><td><strong>Lindy Classic Pro</strong></td></tr>
+            <tr><td>11:40pm</td><td><strong>Lindy Open Strictly<br>Finals</strong></td></tr>
+            <tr><td>12:55pm</td><td><strong>Lindy Invitational Strictly</strong></td></tr>
+			<tr><td>1:30am</td><td><strong>Special Broadcast</strong></td></tr>
 		</table>
 		<table>
 			<tr><th colspan="2">Sunday, August 30</th></tr>
-            {*<tr><td>3:00pm</td><td><strong>Broadcast Begins</strong></td></tr>*}
-            {*<tr><td>3:15pm</td><td><strong>Team (Broadcast Delayed)</strong></td></tr>*}
-            {*<tr><td>4:20pm</td><td><strong>J&J All Star<br>Finals</strong></td></tr>*}
-            {*<tr><td>5:30pm</td><td><strong>Juniors</strong></td></tr>*}
-            {*<tr><td>8:00pm</td><td><strong>Broadcast Begins</strong></td></tr>*}
-            {*<tr><td>8:15pm</td><td><strong>J&J Invitational</strong></td></tr>*}
-            {*<tr><td>9:30pm</td><td><strong>Awards</strong></td></tr>*}
-			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
-			{*<tr><td>Time</td><td><strong>Event</strong></td></tr>*}
+            <tr><td>4:50pm</td><td><strong>Broadcast Begins</strong></td></tr>
+            <tr><td>5:00pm</td><td><strong>Balboa J&J<br>Finals</strong></td></tr>
+            <tr><td>5:30pm</td><td><strong>Juniors</strong></td></tr>
+            <tr><td>6:00pm</td><td><strong>BREAK</strong></td></tr>
+            <tr><td>8:00pm</td><td><strong>Broadcast Begins</strong></td></tr>
+            <tr><td>8:15pm</td><td><strong>Lindy J&J Invitational</strong></td></tr>
+            <tr><td>9:30pm</td><td><strong>Awards</strong></td></tr>
 		</table>
 	</div>
 </div>
