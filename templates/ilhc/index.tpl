@@ -32,7 +32,7 @@
             <tr><td>9:15pm</td><td><strong>Balboa Strictly <br>Finals</strong></td></tr>
             <tr><td>10:00pm</td><td><strong>Lindy Classic Pro</strong></td></tr>
             <tr><td>11:40pm</td><td><strong>Lindy Open Strictly<br>Finals</strong></td></tr>
-            <tr><td>12:55pm</td><td><strong>Lindy Invitational Strictly</strong></td></tr>
+            <tr><td>12:50pm</td><td><strong>Lindy Invitational Strictly</strong></td></tr>
 			<tr><td>1:30am</td><td><strong>Special Broadcast</strong></td></tr>
 		</table>
 		<table>
@@ -42,7 +42,7 @@
             <tr><td>5:30pm</td><td><strong>Juniors</strong></td></tr>
             <tr><td>6:00pm</td><td><strong>BREAK</strong></td></tr>
             <tr><td>8:00pm</td><td><strong>Broadcast Begins</strong></td></tr>
-            <tr><td>8:15pm</td><td><strong>Lindy J&J Invitational</strong></td></tr>
+            <tr><td>8:00pm</td><td><strong>Lindy J&J Invitational</strong></td></tr>
             <tr><td>9:30pm</td><td><strong>Awards</strong></td></tr>
 		</table>
 	</div>
