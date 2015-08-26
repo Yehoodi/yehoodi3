@@ -5,27 +5,27 @@
 </div>
 <div class="clear"></div>
 <div id="donations">
-    <div id="paypal" class="grid_8">
+    <div id="paypal" class="grid_6">
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="SGNFTXQU5KDWE">
-                <input style="display: block; margin: 10px auto -10px auto;" type="image" src="http://yehoodi.com/images/graphics/tip-jar-small.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <input style="display: block; margin: 10px auto -10px auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
-        <p>This is a how you create a button.This is a how you create a button.This is a how you create a button.This is a how you create a button.This is a how you create a button.</p>
+        <p>Like our broadcast? Throw us some bones in the tip jar.</p>
     </div>
-    <div id="patreon" class="grid_8">
+    <div id="patreon" class="grid_6">
         <a href="https://www.patreon.com/yehoodi" target="_blank">
             <img src="/images/graphics/patreon113x26.png">
         </a>
-        <p>Blah blah blah blah blah. Yadda yadda.Blah blah blah blah blah. Yadda yadda.Blah blah blah blah blah. Yadda yadda.Blah blah blah blah blah. Yadda yadda.</p>
+        <p>Want to support Yehoodi, our shows, podcasts, and broadcasts? Become a Patreon!</p>
     </div>
 </div>
 <div id="feedFrame" class="grid_12 alpha">
 	<p id="techSupport">
     <p>Watch last year's broadcast to get ready for 2015 below...</p>
         <strong><em>Having technical issues?</em></strong>
-        Post to our <a href="/comment/176415/live-from-ilhc2014-technical/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
+        Post to our <a href="/comment/176924/live-from-ilhc-2015-technical-2/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
     </p>
     {*<iframe src="http://new.livestream.com/accounts/774982/events/3263177/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>*}
     <iframe src="http://livestream.com/accounts/774982/events/4278025/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
