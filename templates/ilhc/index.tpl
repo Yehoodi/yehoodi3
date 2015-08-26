@@ -9,7 +9,7 @@
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="SGNFTXQU5KDWE">
-                <input style="display: block; margin: 10px auto -10px auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <input style="display: block; margin: 10px auto -10px auto;" type="image" src="http://yehoodi.com/images/graphics/tip-jar-small.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
         <p>This is a how you create a button.This is a how you create a button.This is a how you create a button.This is a how you create a button.This is a how you create a button.</p>
