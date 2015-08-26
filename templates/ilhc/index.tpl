@@ -23,9 +23,9 @@
 </div>
 <div id="feedFrame" class="grid_12 alpha">
 	<p id="techSupport">
-    <p>Watch last year's broadcast to get ready for 2015 below...</p>
         <strong><em>Having technical issues?</em></strong>
-        Post to our <a href="/comment/176924/live-from-ilhc-2015-technical-2/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.
+        Post to our <a href="/comment/176924/live-from-ilhc-2015-technical-2/">tech support thread</a> or send us an email to <a href="mailto:support@yehoodi.com">support@yehoodi.com</a>.<br>
+        Want to join in? Go to this <a href="https://livestream.com/yehoodi/ilhc2015" target="_self">link to enter the broadcast CHAT</a> with hundreds of other viewers!
     </p>
     {*<iframe src="http://new.livestream.com/accounts/774982/events/3263177/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>*}
     <iframe src="http://livestream.com/accounts/774982/events/4278025/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
