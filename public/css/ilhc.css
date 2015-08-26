@@ -23,10 +23,10 @@ body { background: #4c1813 url('/images/graphics/ilhc2015_background.png') no-re
 #techSupport { margin: 6px 0; }
 #feedFrame iframe { }
 #schedule { border: 2px solid #4e5e09 !important; }
-#paypal { background-color: #4e4e4e; margin-top: 10px; margin-bottom: 28px; border-bottom-width: 4px; }
-#patreon { background-color: #4e4e4e; margin-top: 10px; margin-bottom: 28px; border-bottom-width: 4px; }
+#paypal { margin-top: 10px; margin-bottom: 10px; border-bottom-width: 4px; }
+#patreon { margin-top: 10px; margin-bottom: 4px; border-bottom-width: 4px; }
 
-#donations p { text-align: center; }
+#donations p { text-align: center; color: #000000;}
 #donations img {
     display: block;
     margin-left: auto;
