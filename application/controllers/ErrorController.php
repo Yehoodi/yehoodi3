@@ -153,6 +153,10 @@ class ErrorController extends CustomControllerAction
         } elseif ($controller == 'proshowcase') {
 
             $this->_redirect('https://yehoodi.typeform.com/to/hnMvbz');
+
+        } elseif ($controller == 'patreon') {
+
+            $this->_redirect('https://www.patreon.com/yehoodi');
 		}
     }
 }
