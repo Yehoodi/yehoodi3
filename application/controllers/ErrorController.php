@@ -110,6 +110,49 @@ class ErrorController extends CustomControllerAction
         } elseif ($controller == 'donate') {
 
             $this->_redirect('http://igg.me/at/ilhc2015/x/1568772');
+        } elseif ($controller == 'advancedstrictly') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/XFrrqV');
+
+        } elseif ($controller == 'solojazz') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/W84dST');
+
+        } elseif ($controller == 'strictlybal') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/VOlrNJ');
+
+        } elseif ($controller == 'proclassic') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/ITv0ZD');
+
+        } elseif ($controller == 'openstrictly') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/ftlFWs');
+
+        } elseif ($controller == 'invitestrictly') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/s35xgn');
+
+        } elseif ($controller == 'ilhcbest') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/Xj2Zqg');
+
+        } elseif ($controller == 'invitejnj') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/cf6iB3');
+
+        } elseif ($controller == 'juniors') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/kW5Akn');
+
+        } elseif ($controller == 'baljnj') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/vhOGG9');
+
+        } elseif ($controller == 'proshowcase') {
+
+            $this->_redirect('https://yehoodi.typeform.com/to/hnMvbz');
 		}
     }
 }
