@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <content>
     <image>
-        <path><![CDATA[/images/featured-content/ILHC2015-Flash-Template.png]]></path>
-        <description><![CDATA[Watch portions of The International Lindy Hop Championships LIVE! August 28 - 30, here on Yehoodi]]></description>
-        <thumbnail><![CDATA[/images/featured-content/ILHC2015-Flash-Template_thm.png]]></thumbnail>
-        <link><![CDATA[/ilhc]]></link>
-    </image>
-    <image>
-        <path><![CDATA[/images/featured-content/HMJ-116-Flash-Feature.png]]></path>
-        <description><![CDATA[Macy Blackman & The Mighty Fines, The Furbelows,Mint Julep Jazz Band and Gunhild Carling on Hey Mister Jesse #116]]></description>
-        <thumbnail><![CDATA[/images/featured-content/HMJ-116-Flash-Feature_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/HMJ-117-Flash-Feature.png]]></path>
+        <description><![CDATA[The Basement Big Band, Meschiya Lake & The Little Big Horns and more on Hey Mister Jesse #117]]></description>
+        <thumbnail><![CDATA[/images/featured-content/HMJ-117-Flash-Feature_thm.png]]></thumbnail>
         <link><![CDATA[/show/heymisterjesse]]></link>
     </image>
     <image>
-        <path><![CDATA[/images/featured-content/The-Track-004-Flash-Template.png]]></path>
-        <description><![CDATA[Shana Worel joins Ryan Swift on the next The Track Podcast.]]></description>
-        <thumbnail><![CDATA[/images/featured-content/The-Track-004-Flash-Template_thm.png]]></thumbnail>
+        <path><![CDATA[/images/featured-content/The-Track-005-Flash-Template.png]]></path>
+        <description><![CDATA[Naomi Uyama joins Ryan Swift on the next The Track Podcast.]]></description>
+        <thumbnail><![CDATA[/images/featured-content/The-Track-005-Flash-Template_thm.png]]></thumbnail>
         <link><![CDATA[/show/thetrack]]></link>
+    </image>
+    <image>
+        <path><![CDATA[/images/featured-content/ILHC2015-Flash-Template.png]]></path>
+        <description><![CDATA[Watch portions of The International Lindy Hop Championships LIVE! August 28 - 30, here on Yehoodi]]></description>
+        <thumbnail><![CDATA[/images/featured-content/ILHC2015-Flash-Template_thm.png]]></thumbnail>
+        <link><![CDATA[https://www.youtube.com/playlist?list=PLsNUOctiKdE5be-MBGZaILCTuhMGJFy_1]]></link>
     </image>
 </content>
