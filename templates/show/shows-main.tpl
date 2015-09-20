@@ -54,7 +54,7 @@
     </div>
     <div class="grid_5 omega">
         <p>Watch the live coverage of the International Lindy Hop Championships 2013 in Arlington, VA as presented by the Yehoodi crew. This time in full HD.</p>
-        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2013">ILHC 2013 Live Coverage.</a></p>
+        <p><a class="iconText iconFilmLarge" href="https://www.youtube.com/playlist?list=PLsNUOctiKdE6QewkV73qEeJmT3ckeMNAf">ILHC 2013 Live Coverage.</a></p>
     </div>
 </div>
 
@@ -65,7 +65,7 @@
     </div>
     <div class="grid_4 omega">
         <p>Watch the live coverage of the International Lindy Hop Championships 2012 in Arlington, VA as presented by the Yehoodi crew.</p>
-        <p><a class="iconText iconFilmLarge" href="{geturl controller='show'}ilhc2012">ILHC Live Coverage</a></p>
+        <p><a class="iconText iconFilmLarge" href="https://www.youtube.com/playlist?list=PLsNUOctiKdE52bWtOmXuAZ-_1At0Yl_KW">ILHC Live Coverage</a></p>
     </div>
 </div>
 <div class="clear">&nbsp;</div>
