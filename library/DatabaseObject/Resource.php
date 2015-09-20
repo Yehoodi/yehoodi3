@@ -1960,10 +1960,6 @@
             	   ->where('re.extended_value = ?', $options['show_code']
             	           );
 
-            if ($options['show_code'] == ShowController::SHOW_ILHC2012 ) {
-                $select->order('r.rsrc_date DESC');
-            }
-            	           
             //Zend_Debug::dump($select->__toString());die;
         	$result = $db->fetchAll($select);
         	
