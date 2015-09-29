@@ -462,8 +462,12 @@ class CronController extends CustomControllerAction
             //'explicit'     => 'parental advisory graphic (yes|no|clean)',
             'explicit'     => $this->rating,
             'keywords'     => $this->keywords,
-            //'new-feed-url' => 'used to inform iTunes of new feed URL location'
         );
+
+		if($this->resource == 'thetrack')
+		{
+			$itunes['new-feed-url'] = 'http://thetrackpodcast.libsyn.com/rss';
+		}
 
         $rss = array(
         		'author'		=> $author,
