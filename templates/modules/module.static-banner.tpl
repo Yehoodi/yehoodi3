@@ -12,6 +12,6 @@
         {*<em>Listen 24 hours a day! <strong>Weekly updated shows</strong></em>*}
     {*</a>*}
     &nbsp;&nbsp;&nbsp;
-    <a id="a_frimFram" href="{geturl controller='frimfram'}"><img src="/images/graphics/frimfram-callout.png" alt="Frim Fram Jam - NYC's Lindy Hop Thursdays!" /></a>
+    <a id="a_frimFram" href="https://www.patreon.com/yehoodi?ty=h"><img src="/images/graphics/Patreon-Support-Button-300x100.png" alt="Support Yehoodi on Patreon" /></a>
     &nbsp;&nbsp;&nbsp;
 </div>
