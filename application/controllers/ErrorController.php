@@ -166,6 +166,14 @@ class ErrorController extends CustomControllerAction
         } elseif ($controller == 'patreon') {
 
             $this->_redirect('https://www.patreon.com/yehoodi');
+
+        } elseif ($controller == 'twitter') {
+
+            $this->_redirect('https://twitter.com/yehoodi');
+
+        } elseif ($controller == 'facebook') {
+
+            $this->_redirect('https://www.facebook.com/yehoodi');
 		}
     }
 }
