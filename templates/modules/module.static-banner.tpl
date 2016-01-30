@@ -1,7 +1,7 @@
 <div id="div_banner">
     <a href="/frimfram" target="_self">
         <img
-                src="/images/banners/fram-banner1.gif"
+                src="/images/banners/fram-banner2.png"
                 title="Frim Fram Jam"
                 alt="Frim Fram Jam, NY"
         />
