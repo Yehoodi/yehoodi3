@@ -2,13 +2,13 @@
 <p>Yehoodi produces the following audio and video media for your info-tainment:</p>
 
 <div class="grid_8 alpha text showBlock">
-    <h2 class="showTitle">The Track - with Ryan Swift</h2>
+    <h2 class="showTitle">SwingFlix Movie Reviews</h2>
     <div class="grid_3 alpha" style="height: 195px;">
-        <a href="{geturl controller='show'}thetrack"><img class="showLogo" src="/images/graphics/TheTrackPageImg.png" alt="The Track" title="The Track" /></a>
+        <a href="{geturl controller='show'}swingflix"><img class="showLogo" src="/images/graphics/SwingFlix Yehoodi Logo_150x150.png" alt="SwingFlix" title="SwingFlix" /></a>
     </div>
     <div class="grid_5 omega">
-		<p>Join your host Ryan "Swifty" Swift as he chats with dancers, instructors, performers and people of the Lindy Hop community.</p>
-		<p><a class="iconText iconSpeakerLarge" href="{geturl controller='show'}thetrack">Listen to The Track</a></p>
+		<p>Join your swing movie loving hosts Spuds & Zain as they and their guest-hosts review movies that feature Lindy Hop, Charleston and other swing/jazz related dance forms.</p>
+		<p><a class="iconText iconSpeakerLarge" href="{geturl controller='show'}swingflix">Listen to SwingFlix Movie Reviews</a></p>
 	</div>
 </div>
 

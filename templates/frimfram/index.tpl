@@ -9,10 +9,10 @@
     <h3>Featuring the hottest lindy hop DJs!</h3>
     <p>Drink, lounge, be merry and best of all: dance, dance, DANCE!</p>
     <ul>
-        <li><strong>Still only $8!</strong> ($5 for students with ID)</li>
+        <li><strong>Admission is only $10!</strong> ($7 for students with ID)</li>
         <li>Dancing from 9 pm - 1 am</li>
-        <li>Swing dance lesson from  8-9 pm, $4 with your paid admission.</li>
-        <li>At <strong>Club 412</strong>, 412 8th Ave, New York, NY, 10001<br />Fourth Floor<br />(near 31st St &amp; Penn Station)</li>
+        <li>Swing dance lesson from  8-9 pm, $5 with your paid admission.</li>
+        <li>At <strong>You Should Be Dancing</strong>, 412 8th Ave, New York, NY, 10001<br />Fourth Floor<br />(near 31st St &amp; Penn Station)</li>
     </ul>
     <p>Check us out on <a href="http://www.facebook.com/pages/New-York-NY/Yehoodicoms-Frim-Fram-Jam/309862216612" target="_blank">Facebook</a> and follow us on <a href="http://twitter.com/FramDJ" target="_blank">Twitter</a>. </p>
     {include file='frimfram/frimfram.tpl'}

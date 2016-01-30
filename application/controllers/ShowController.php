@@ -9,7 +9,7 @@
  */
 class ShowController extends CustomControllerAction 
 {
-	const SHOW_THE_TRACK           = 'TRK';
+	const SHOW_SWINGFLIX           = 'SFX';
 	const SHOW_HEY_MISTER_JESSE    = 'HMJ';
 	const SHOW_YEHOODI_TALK        = 'YTS';
 	const SHOW_YEHOODI_VIDEO       = 'YTV';
@@ -101,18 +101,21 @@ class ShowController extends CustomControllerAction
 
     }
 
-    public function thetrackAction()
+    public function swingflixAction()
     {
+        // Short circuit this code because we don't handle podcasts internally anymore
+        $this->_redirect('http://swingflix.dance');
+
         // Get the rsrc_ids for the shows
-        $options = array('show_code' => self::SHOW_THE_TRACK
+        $options = array('show_code' => self::SHOW_SWINGFLIX
         );
         $this->shows = DatabaseObject_Resource::getResourcesByShowCode($this->db, $options);
 
         // Assign to smarty
-        $this->view->showTitle = 'The Track - with Ryan Swift';
-        $this->view->showCode = self::SHOW_THE_TRACK ;
-        $this->view->showURL = 'thetrack?episode=';
-        $this->view->feed = 'http://www.yehoodi.com/rss/thetrack.xml';
+        $this->view->showTitle = 'SwingFlix Movie Reviews';
+        $this->view->showCode = self::SHOW_SWINGFLIX ;
+        $this->view->showURL = 'swingflix?episode=';
+        $this->view->feed = 'http://www.yehoodi.com/rss/swingflix.xml';
 
         $this->renderPage();
 

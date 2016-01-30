@@ -154,8 +154,11 @@ class ErrorController extends CustomControllerAction
 //
 //            $this->_redirect('https://yehoodi.typeform.com/to/hnMvbz');
 
-        } elseif ($controller == 'ilhc2012') {
-            $this->_redirect('https://www.youtube.com/playlist?list=PLsNUOctiKdE52bWtOmXuAZ-_1At0Yl_KW');
+        } elseif ($controller == 'swingflix') {
+			$this->_redirect('http://swingflix.dance');
+
+		} elseif ($controller == 'ilhc2012') {
+			$this->_redirect('https://www.youtube.com/playlist?list=PLsNUOctiKdE52bWtOmXuAZ-_1At0Yl_KW');
 
         } elseif ($controller == 'ilhc2013') {
             $this->_redirect('https://www.youtube.com/playlist?list=PLsNUOctiKdE6QewkV73qEeJmT3ckeMNAf');
