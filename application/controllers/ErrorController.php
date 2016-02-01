@@ -155,7 +155,7 @@ class ErrorController extends CustomControllerAction
 //            $this->_redirect('https://yehoodi.typeform.com/to/hnMvbz');
 
         } elseif ($controller == 'swingflix') {
-			$this->_redirect('http://swingflix.dance');
+			$this->_redirect('http://swingflix.dance/swingflix');
 
 		} elseif ($controller == 'ilhc2012') {
 			$this->_redirect('https://www.youtube.com/playlist?list=PLsNUOctiKdE52bWtOmXuAZ-_1At0Yl_KW');
