@@ -36,7 +36,7 @@ Create or move into the directory where you will keep the Yehoodi application co
 > mkdir yehoodi_dev
 > cd yehoodi_dev
 ```
-Get the latest code from ProSight github
+Get the latest code from Yehoodi github
 ```
 > git clone https://github.com/Yehoodi/yehoodi3.git .
 ```
@@ -94,7 +94,7 @@ Port: 3306
 ## Browse the Yehoodi site (From the host machine):
 
 At this point you can either use the I.P. address or url (if you updated your hosts
-file) to get to the WattzOn local site server from the vagrant box.
+file) to get to the Yehoodi local site server from the vagrant box.
 
 > Go to http://dev.yehoodi_dev.local/
 
